@@ -205,7 +205,7 @@
     "in_match_voice": 0,
     "post_match_voice": 1,
     "restrict_open_channel": false,
-    "minimum_player_count": 2,
+    "minimum_player_count": 4,
     "maximum_player_count": 16,
     "team_count": 0,
     "minimum_team_size": 0,
