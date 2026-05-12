@@ -1,8 +1,8 @@
 {
   "config_download": {
-    "master_catalog_file_download_interval_msec": 1,
-    "required_file_invalidation_check_interval_msec": 1,
-    "required_file_download_retry_interval_msec": 1
+    "master_catalog_file_download_interval_msec": 3600000,
+    "required_file_invalidation_check_interval_msec": 5000,
+    "required_file_download_retry_interval_msec": 5000
   },
   "bandwidth": {
     "bandwidth_outlier_discard_fraction": 0.25,
@@ -210,7 +210,7 @@
       "prepare_map_countdown_timer_seconds": 5,
       "prepare_map_vetoed_countdown_timer_seconds": 5,
       "prepare_map_veto_failed_countdown_timer_seconds": 5,
-      "end_match_write_stats_boot_threshold_seconds": 5,
+      "end_match_write_stats_boot_threshold_seconds": 30,
       "arbitration_wait_for_establishment_and_connectivity_threshold_seconds": 60,
       "arbitration_wait_for_completion_threshold_seconds": 30,
       "post_match_return_to_pre_game_lobby": false,
@@ -308,10 +308,10 @@
     "maximum_players_in_forge": 8
   },
   "banhammer": {
-    "machine_file_refresh_seconds": 1,
-    "machine_file_refresh_threshold_seconds": 1,
-    "user_file_refresh_seconds": 1,
-    "user_file_refresh_threshold_seconds": 1,
+    "machine_file_refresh_seconds": 900,
+    "machine_file_refresh_threshold_seconds": 30,
+    "user_file_refresh_seconds": 900,
+    "user_file_refresh_threshold_seconds": 30,
     "host_chance_reduction_percentage": 50,
     "idle_controller_timeout_seconds": 120
   },
@@ -1804,8 +1804,8 @@
     "port_range_start": 2001,
     "port_range_count": 2,
     "server_retry_count": 3,
-    "search_results_fresh_milliseconds": 100,
-    "recent_activity_milliseconds": 100
+    "search_results_fresh_milliseconds": 300000,
+    "recent_activity_milliseconds": 60000
   },
   "map_configuration": {
     "map_list": [
