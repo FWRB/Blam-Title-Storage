@@ -1,25 +1,32 @@
 {
   "queries": [
     {
-      "unknown1": 12,
+      "unknown1": 15,
       "unknown2": 0,
       "unknown3": 0,
       "name": "Most Downloaded",
-      "description": "Files sorted by number of downloads in the last 7 days."
+      "description": "Files sorted by number of downloads."
     },
     {
-      "unknown1": 13,
+      "unknown1": 16,
       "unknown2": 0,
       "unknown3": 0,
       "name": "Most Recommended",
-      "description": "Files sorted by number of recommendations in the last 7 days."
+      "description": "Files sorted by number of recommendations."
     },
     {
-      "unknown1": 14,
+      "unknown1": 17,
       "unknown2": 0,
       "unknown3": 0,
-      "name": "Screenshots of You",
-      "description": "Indulge your ego and view screenshots featuring the star of the show...you."
+      "name": "Recently Uploaded",
+      "description": "Files sorted by date of upload."
+    },
+    {
+      "unknown1": 18,
+      "unknown2": 0,
+      "unknown3": 0,
+      "name": "Recently Downloaded",
+      "description": "Files other players have recently downloaded."
     }
   ]
 }
