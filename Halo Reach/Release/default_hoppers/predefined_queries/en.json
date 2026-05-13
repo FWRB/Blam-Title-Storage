@@ -2,7 +2,7 @@
   "queries": [
     {
       "unknown1": 15,
-      "unknown2": 0,
+      "unknown2": 1,
       "unknown3": 0,
       "name": "Most Downloaded",
       "description": "Files sorted by number of downloads."
@@ -27,6 +27,13 @@
       "unknown3": 0,
       "name": "Recently Downloaded",
       "description": "Files other players have recently downloaded."
+    },
+    {
+      "unknown1": 0,
+      "unknown2": 4294967295,
+      "unknown3": 4294967043,
+      "name": "Bungie Favorites",
+      "description": "Community favorites picked by the Blam Network team."
     }
   ]
 }
