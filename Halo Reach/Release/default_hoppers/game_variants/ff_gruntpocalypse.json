@@ -3,25 +3,33 @@
   "m_survival_variant": {
     "m_base_variant": {
       "m_metadata": {
-        "file_type": 6,
-        "size_in_bytes": 21289,
-        "unique_id": 16672877666916149426,
-        "parent_unique_id": 16672877666916149426,
-        "root_unique_id": 16672877666916149426,
-        "game_id": 0,
-        "activity": 6,
-        "game_mode": 2,
-        "game_engine_type": 4,
-        "map_id": -1,
-        "megalo_category_index": -1,
-        "creation_time": "2010-09-14 00:00:00",
-        "creator_xuid": "0000000000000000",
-        "creator_name": "¦\r\n",
-        "creator_xuid_is_online": true,
-        "modification_time": "2010-09-14 00:00:00",
-        "modifier_xuid": "0000000000000000",
-        "modifier_name": "¦\r\n",
-        "modifier_xuid_is_online": true,
+        "general": {
+          "file_type": 6,
+          "size_in_bytes": 21289,
+          "unique_id": 16672877666916149426,
+          "parent_unique_id": 16672877666916149426,
+          "root_unique_id": 16672877666916149426,
+          "game_id": 0,
+          "activity": 6,
+          "game_mode": 2,
+          "game_engine_type": 4,
+          "map_id": -1
+        },
+        "display": {
+          "megalo_category_index": -1
+        },
+        "creation_history": {
+          "timestamp": "2010-09-14 00:00:00",
+          "xuid": "0000000000000000",
+          "name": "¦\r\n",
+          "is_online": true
+        },
+        "modification_history": {
+          "timestamp": "2010-09-14 00:00:00",
+          "xuid": "0000000000000000",
+          "name": "¦\r\n",
+          "is_online": true
+        },
         "name": "Gruntpocalypse",
         "description": "All Grunts. All the time. Aim for the face.",
         "game_variant_data": {
@@ -856,7 +864,13 @@
         ]
       }
     },
-    "m_variant_flags": 24,
+    "m_variant_flags": {
+      "hazards_enabled": false,
+      "all_generators_must_survive": false,
+      "random_generator_spawns": false,
+      "weapon_drops_enabled": false,
+      "ammo_crates_enabled": false
+    },
     "m_campaign_difficulty_level": 1,
     "m_set_count": 5,
     "m_bonus_lives_awarded": 1,

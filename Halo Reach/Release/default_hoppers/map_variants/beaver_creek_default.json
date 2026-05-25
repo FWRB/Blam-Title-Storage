@@ -1,24 +1,32 @@
 {
   "m_metadata": {
-    "file_type": 5,
-    "size_in_bytes": 29481,
-    "unique_id": 11066967647857577104,
-    "parent_unique_id": 11066967647857577104,
-    "root_unique_id": 11066967647857577104,
-    "game_id": 0,
-    "activity": 4,
-    "game_mode": 3,
-    "game_engine_type": 0,
-    "map_id": 10020,
-    "megalo_category_index": -1,
-    "creation_time": "2010-09-14 00:00:00",
-    "creator_xuid": "0000000000000000",
-    "creator_name": "343 Industries",
-    "creator_xuid_is_online": true,
-    "modification_time": "2010-09-14 00:00:00",
-    "modifier_xuid": "0000000000000000",
-    "modifier_name": "343 Industries",
-    "modifier_xuid_is_online": true,
+    "general": {
+      "file_type": 5,
+      "size_in_bytes": 29481,
+      "unique_id": 11066967647857577104,
+      "parent_unique_id": 11066967647857577104,
+      "root_unique_id": 11066967647857577104,
+      "game_id": 0,
+      "activity": 4,
+      "game_mode": 3,
+      "game_engine_type": 0,
+      "map_id": 10020
+    },
+    "display": {
+      "megalo_category_index": -1
+    },
+    "creation_history": {
+      "timestamp": "2010-09-14 00:00:00",
+      "xuid": "0000000000000000",
+      "name": "343 Industries",
+      "is_online": true
+    },
+    "modification_history": {
+      "timestamp": "2010-09-14 00:00:00",
+      "xuid": "0000000000000000",
+      "name": "343 Industries",
+      "is_online": true
+    },
     "name": "Battle Canyon",
     "description": "The telemetry spires in these canyons help manage the Halo ring’s vast translocation grid.|n|n2-8 players"
   },
@@ -1091,13 +1099,13 @@
         "z": 1.6501923
       },
       "forward": {
-        "i": 0.9973802,
-        "j": -0.020132078,
-        "k": 0.06948048
+        "i": 0.9998824,
+        "j": -0.0152775785,
+        "k": 0.00133849
       },
       "up": {
-        "i": -0.06954253,
-        "j": -0.0023979691,
+        "i": -0.0023979691,
+        "j": -0.06954253,
         "k": 0.99757606
       },
       "spawn_relative_to": -1,
@@ -2989,13 +2997,13 @@
         "z": 0.70710754
       },
       "forward": {
-        "i": 0.94061834,
-        "j": -0.3183891,
-        "k": 0.11775212
+        "i": 0.9506478,
+        "j": -0.30262333,
+        "k": -0.06846879
       },
       "up": {
-        "i": -0.11219448,
-        "j": 0.035806783,
+        "i": 0.035806783,
+        "j": -0.11219448,
         "k": 0.9930409
       },
       "spawn_relative_to": -1,
@@ -3827,13 +3835,13 @@
         "z": 6.4794273
       },
       "forward": {
-        "i": -0.7756794,
-        "j": 0.6171471,
-        "k": -0.13210186
+        "i": -0.78075606,
+        "j": 0.6113988,
+        "k": 0.12888612
       },
       "up": {
-        "i": -0.10245936,
-        "j": 0.08339726,
+        "i": 0.08339726,
+        "j": -0.10245936,
         "k": 0.991235
       },
       "spawn_relative_to": -1,
@@ -3862,7 +3870,7 @@
       },
       "forward": {
         "i": 0.93223166,
-        "j": 0.36186206,
+        "j": 0.36186203,
         "k": 0.0
       },
       "up": {
@@ -4745,7 +4753,7 @@
         "z": 0.8727188
       },
       "forward": {
-        "i": -0.7164001,
+        "i": -0.7164,
         "j": -0.6976898,
         "k": 0.0
       },

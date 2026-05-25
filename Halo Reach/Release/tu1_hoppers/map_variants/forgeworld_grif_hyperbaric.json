@@ -1,24 +1,32 @@
 {
   "m_metadata": {
-    "file_type": 5,
-    "size_in_bytes": 29481,
-    "unique_id": 2617525581619074207,
-    "parent_unique_id": 2617525581619074207,
-    "root_unique_id": 2617525581619074207,
-    "game_id": 0,
-    "activity": 4,
-    "game_mode": 3,
-    "game_engine_type": 0,
-    "map_id": 3006,
-    "megalo_category_index": -1,
-    "creation_time": "2010-09-14 00:00:00",
-    "creator_xuid": "0000000000000000",
-    "creator_name": "",
-    "creator_xuid_is_online": true,
-    "modification_time": "2010-09-14 00:00:00",
-    "modifier_xuid": "0000000000000000",
-    "modifier_name": "",
-    "modifier_xuid_is_online": true,
+    "general": {
+      "file_type": 5,
+      "size_in_bytes": 29481,
+      "unique_id": 2617525581619074207,
+      "parent_unique_id": 2617525581619074207,
+      "root_unique_id": 2617525581619074207,
+      "game_id": 0,
+      "activity": 4,
+      "game_mode": 3,
+      "game_engine_type": 0,
+      "map_id": 3006
+    },
+    "display": {
+      "megalo_category_index": -1
+    },
+    "creation_history": {
+      "timestamp": "2010-09-14 00:00:00",
+      "xuid": "0000000000000000",
+      "name": "",
+      "is_online": true
+    },
+    "modification_history": {
+      "timestamp": "2010-09-14 00:00:00",
+      "xuid": "0000000000000000",
+      "name": "",
+      "is_online": true
+    },
     "name": "Hyperbaric [HE]",
     "description": "This high pressure chamber is now home to Hand Egg Grifball. "
   },
@@ -61,9 +69,9 @@
       "variant_quota_index": 77,
       "variant_index": 0,
       "position": {
-        "x": 63.500153,
-        "y": 213.00058,
-        "z": 60.012184
+        "x": 63.50009,
+        "y": 213.00064,
+        "z": 60.01213
       },
       "forward": {
         "i": 1.0,
@@ -95,19 +103,19 @@
       "variant_quota_index": 73,
       "variant_index": 3,
       "position": {
-        "x": 60.3002,
-        "y": 202.60056,
-        "z": 71.20013
+        "x": 60.30017,
+        "y": 202.60068,
+        "z": 71.20003
       },
       "forward": {
-        "i": 0.00019159494,
-        "j": 0.50062376,
-        "k": 0.86566496
+        "i": 0.00019159139,
+        "j": 0.50128055,
+        "k": 0.86528486
       },
       "up": {
-        "i": 0.008343455,
-        "j": 0.8656341,
-        "k": -0.50060767
+        "i": 0.010399523,
+        "j": 0.86523706,
+        "k": -0.5012551
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -129,9 +137,9 @@
       "variant_quota_index": 71,
       "variant_index": 6,
       "position": {
-        "x": 63.504272,
-        "y": 198.70053,
-        "z": 60.10016
+        "x": 63.50421,
+        "y": 198.70065,
+        "z": 60.100105
       },
       "forward": {
         "i": -1.0,
@@ -163,9 +171,9 @@
       "variant_quota_index": 63,
       "variant_index": 0,
       "position": {
-        "x": 53.19995,
-        "y": 213.00058,
-        "z": 59.89997
+        "x": 53.19992,
+        "y": 213.00064,
+        "z": 59.899918
       },
       "forward": {
         "i": 1.0,
@@ -204,9 +212,9 @@
       "variant_quota_index": 63,
       "variant_index": 0,
       "position": {
-        "x": 73.7999,
-        "y": 213.00058,
-        "z": 59.89997
+        "x": 73.799835,
+        "y": 213.00064,
+        "z": 59.899918
       },
       "forward": {
         "i": -1.0,
@@ -245,9 +253,9 @@
       "variant_quota_index": 55,
       "variant_index": 0,
       "position": {
-        "x": 53.19995,
-        "y": 214.80063,
-        "z": 60.00647
+        "x": 53.19992,
+        "y": 214.80075,
+        "z": 60.00641
       },
       "forward": {
         "i": 1.0,
@@ -279,9 +287,9 @@
       "variant_quota_index": 55,
       "variant_index": 0,
       "position": {
-        "x": 73.7999,
-        "y": 214.80063,
-        "z": 60.00647
+        "x": 73.799835,
+        "y": 214.80075,
+        "z": 60.00641
       },
       "forward": {
         "i": -1.0,
@@ -313,19 +321,19 @@
       "variant_quota_index": 73,
       "variant_index": 3,
       "position": {
-        "x": 60.3002,
-        "y": 224.50052,
-        "z": 58.800133
+        "x": 60.30017,
+        "y": 224.50064,
+        "z": 58.80008
       },
       "forward": {
-        "i": -0.00019159328,
-        "j": -0.3479045,
-        "k": -0.9375299
+        "i": -0.00019158896,
+        "j": -0.3491499,
+        "k": -0.93706685
       },
       "up": {
-        "i": 0.009036064,
-        "j": -0.9374923,
-        "k": 0.3478887
+        "i": 0.011262161,
+        "j": -0.9370082,
+        "k": 0.34912574
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -347,19 +355,19 @@
       "variant_quota_index": 73,
       "variant_index": 3,
       "position": {
-        "x": 76.5,
-        "y": 216.20047,
-        "z": 76.20005
+        "x": 76.49994,
+        "y": 216.20059,
+        "z": 76.199936
       },
       "forward": {
-        "i": -0.00019159245,
-        "j": 0.98607063,
-        "k": -0.16632701
+        "i": -0.00019158765,
+        "j": 0.9857456,
+        "k": -0.16824254
       },
       "up": {
-        "i": 0.009503863,
-        "j": -0.16631772,
-        "k": -0.9860264
+        "i": 0.0118471235,
+        "j": -0.1682285,
+        "k": -0.9856769
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -381,19 +389,19 @@
       "variant_quota_index": 73,
       "variant_index": 3,
       "position": {
-        "x": 60.3002,
-        "y": 214.00052,
-        "z": 76.60017
+        "x": 60.30017,
+        "y": 214.00058,
+        "z": 76.600044
       },
       "forward": {
-        "i": -0.00019159887,
-        "j": 0.9999535,
-        "k": 0.009637177
+        "i": -0.00019159612,
+        "j": 0.99992776,
+        "k": 0.012017027
       },
       "up": {
-        "i": 0.004818994,
-        "j": 0.009637988,
-        "k": -0.99994195
+        "i": 0.0072108577,
+        "j": 0.012018096,
+        "k": -0.9999018
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -415,19 +423,19 @@
       "variant_quota_index": 73,
       "variant_index": 3,
       "position": {
-        "x": 60.3002,
-        "y": 216.20047,
-        "z": 76.20005
+        "x": 60.30017,
+        "y": 216.20059,
+        "z": 76.199936
       },
       "forward": {
-        "i": -0.00019159245,
-        "j": 0.98607063,
-        "k": -0.16632701
+        "i": -0.00019158765,
+        "j": 0.9857456,
+        "k": -0.16824254
       },
       "up": {
-        "i": 0.009503863,
-        "j": -0.16631772,
-        "k": -0.9860264
+        "i": 0.0118471235,
+        "j": -0.1682285,
+        "k": -0.9856769
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -449,19 +457,19 @@
       "variant_quota_index": 71,
       "variant_index": 15,
       "position": {
-        "x": 76.5,
-        "y": 210.5007,
-        "z": 66.50008
+        "x": 76.49994,
+        "y": 210.50082,
+        "z": 66.5
       },
       "forward": {
-        "i": 0.009636253,
-        "j": 0.00019167965,
-        "k": -0.9999536
+        "i": 0.0120161045,
+        "j": 0.00019167467,
+        "k": -0.99992776
       },
       "up": {
-        "i": 0.99990714,
-        "j": 0.009637653,
-        "k": 0.009637653
+        "i": 0.9998555,
+        "j": 0.01201754,
+        "k": 0.01201754
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -483,19 +491,19 @@
       "variant_quota_index": 73,
       "variant_index": 3,
       "position": {
-        "x": 60.3002,
-        "y": 205.60074,
-        "z": 74.300255
+        "x": 60.30017,
+        "y": 205.6008,
+        "z": 74.30015
       },
       "forward": {
-        "i": 0.00019159552,
-        "j": 0.7608063,
-        "k": 0.64897895
+        "i": 0.00019159312,
+        "j": 0.76067346,
+        "k": 0.64913476
       },
       "up": {
-        "i": 0.007332881,
-        "j": 0.6489604,
-        "k": -0.7607869
+        "i": 0.009142376,
+        "j": 0.64910626,
+        "k": -0.76064277
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -517,19 +525,19 @@
       "variant_quota_index": 73,
       "variant_index": 3,
       "position": {
-        "x": 76.5,
-        "y": 214.00052,
-        "z": 76.60017
+        "x": 76.49994,
+        "y": 214.00058,
+        "z": 76.600044
       },
       "forward": {
-        "i": -0.00028464381,
-        "j": 0.9999536,
-        "k": 0.009635357
+        "i": -0.0003361819,
+        "j": 0.9999278,
+        "k": 0.012014367
       },
       "up": {
-        "i": 0.009637653,
-        "j": 0.009637653,
-        "k": -0.99990714
+        "i": 0.01201754,
+        "j": 0.01201754,
+        "k": -0.9998555
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -551,19 +559,19 @@
       "variant_quota_index": 73,
       "variant_index": 3,
       "position": {
-        "x": 60.3002,
-        "y": 204.00076,
-        "z": 72.899994
+        "x": 60.30017,
+        "y": 204.00089,
+        "z": 72.89989
       },
       "forward": {
-        "i": 0.0001915959,
-        "j": 0.6425413,
-        "k": 0.76625115
+        "i": 0.00019159191,
+        "j": 0.64271545,
+        "k": 0.766105
       },
       "up": {
-        "i": 0.007385338,
-        "j": 0.76622933,
-        "k": -0.64252484
+        "i": 0.009207623,
+        "j": 0.7660713,
+        "k": -0.64268965
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -585,19 +593,19 @@
       "variant_quota_index": 73,
       "variant_index": 3,
       "position": {
-        "x": 68.400116,
-        "y": 211.8005,
-        "z": 76.60017
+        "x": 68.400055,
+        "y": 211.80057,
+        "z": 76.600044
       },
       "forward": {
-        "i": 0.0001915925,
-        "j": 0.98364127,
-        "k": 0.18013856
+        "i": 0.00019158772,
+        "j": 0.9832972,
+        "k": 0.18200682
       },
       "up": {
-        "i": 0.00948045,
-        "j": 0.18012866,
-        "k": -0.98359734
+        "i": 0.011817701,
+        "j": 0.18199189,
+        "k": -0.983229
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -619,19 +627,19 @@
       "variant_quota_index": 73,
       "variant_index": 3,
       "position": {
-        "x": 60.3002,
-        "y": 218.30075,
-        "z": 75.50005
+        "x": 60.30017,
+        "y": 218.30087,
+        "z": 75.49994
       },
       "forward": {
-        "i": -0.0001915932,
-        "j": 0.94189525,
-        "k": -0.33590665
+        "i": -0.00019158884,
+        "j": 0.9414336,
+        "k": -0.33719844
       },
       "up": {
-        "i": 0.009078134,
-        "j": -0.33589116,
-        "k": -0.941857
+        "i": 0.011314635,
+        "j": -0.33717483,
+        "k": -0.94137406
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -653,19 +661,19 @@
       "variant_quota_index": 73,
       "variant_index": 3,
       "position": {
-        "x": 68.400116,
-        "y": 200.40054,
-        "z": 62.80018
+        "x": 68.400055,
+        "y": 200.40067,
+        "z": 62.800117
       },
       "forward": {
-        "i": 0.0001915925,
-        "j": -0.18013856,
-        "k": 0.98364127
+        "i": 0.00019158772,
+        "j": -0.18200682,
+        "k": 0.9832972
       },
       "up": {
-        "i": 0.00948045,
-        "j": 0.98359734,
-        "k": 0.18012866
+        "i": 0.011817701,
+        "j": 0.983229,
+        "k": 0.18199189
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -687,19 +695,19 @@
       "variant_quota_index": 73,
       "variant_index": 3,
       "position": {
-        "x": 68.400116,
-        "y": 200.40054,
-        "z": 65.00013
+        "x": 68.400055,
+        "y": 200.40067,
+        "z": 65.00005
       },
       "forward": {
-        "i": -0.00019159222,
-        "j": -0.009636254,
-        "k": 0.9999536
+        "i": -0.00019158723,
+        "j": -0.012016104,
+        "k": 0.99992776
       },
       "up": {
-        "i": 0.009637653,
-        "j": 0.99990714,
-        "k": 0.009637653
+        "i": 0.01201754,
+        "j": 0.9998555,
+        "k": 0.01201754
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -721,19 +729,19 @@
       "variant_quota_index": 73,
       "variant_index": 3,
       "position": {
-        "x": 68.400116,
-        "y": 200.8005,
-        "z": 67.20007
+        "x": 68.400055,
+        "y": 200.80057,
+        "z": 67.19999
       },
       "forward": {
-        "i": 0.00019159894,
-        "j": 0.16632433,
-        "k": 0.9860711
+        "i": 0.0001915965,
+        "j": 0.16823898,
+        "k": 0.98574626
       },
       "up": {
-        "i": 0.004752092,
-        "j": 0.9860598,
-        "k": -0.16632335
+        "i": 0.007108593,
+        "j": 0.9857211,
+        "k": -0.16823605
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -755,19 +763,19 @@
       "variant_quota_index": 73,
       "variant_index": 3,
       "position": {
-        "x": 68.400116,
-        "y": 201.50058,
-        "z": 69.30006
+        "x": 68.400055,
+        "y": 201.5007,
+        "z": 69.299965
       },
       "forward": {
-        "i": -0.0001915932,
-        "j": 0.33590665,
-        "k": 0.94189525
+        "i": -0.00019158884,
+        "j": 0.33719844,
+        "k": 0.9414336
       },
       "up": {
-        "i": 0.009078134,
-        "j": 0.941857,
-        "k": -0.33589116
+        "i": 0.011314635,
+        "j": 0.94137406,
+        "k": -0.33717483
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -789,19 +797,19 @@
       "variant_quota_index": 41,
       "variant_index": 0,
       "position": {
-        "x": 63.520782,
-        "y": 203.4766,
-        "z": 60.814323
+        "x": 63.520752,
+        "y": 203.47672,
+        "z": 60.814262
       },
       "forward": {
-        "i": 0.9999897,
-        "j": 0.0042110863,
-        "k": 0.0017052521
+        "i": 0.99997693,
+        "j": 0.006326803,
+        "k": 0.0024696575
       },
       "up": {
-        "i": 0.004539207,
-        "j": -0.94188607,
-        "k": -0.33590153
+        "i": 0.0067890594,
+        "j": -0.9414126,
+        "k": -0.33718866
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -823,19 +831,19 @@
       "variant_quota_index": 73,
       "variant_index": 3,
       "position": {
-        "x": 68.400116,
-        "y": 202.60056,
-        "z": 71.20013
+        "x": 68.400055,
+        "y": 202.60068,
+        "z": 71.20003
       },
       "forward": {
-        "i": -0.00019159947,
-        "j": 0.50062585,
-        "k": 0.8656639
+        "i": -0.000191597,
+        "j": 0.5012832,
+        "k": 0.8652832
       },
       "up": {
-        "i": 0.0041718367,
-        "j": 0.8656567,
-        "k": -0.5006207
+        "i": 0.00623993,
+        "j": 0.86526704,
+        "k": -0.50127244
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -857,19 +865,19 @@
       "variant_quota_index": 73,
       "variant_index": 3,
       "position": {
-        "x": 68.400116,
-        "y": 204.00076,
-        "z": 72.899994
+        "x": 68.400055,
+        "y": 204.00089,
+        "z": 72.89989
       },
       "forward": {
-        "i": 0.00019159981,
-        "j": 0.64254177,
-        "k": 0.76625067
+        "i": 0.00019159817,
+        "j": 0.64271605,
+        "k": 0.7661044
       },
       "up": {
-        "i": 0.0036927445,
-        "j": 0.766245,
-        "k": -0.64253795
+        "i": 0.0055247233,
+        "j": 0.76609206,
+        "k": -0.64270705
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -891,19 +899,19 @@
       "variant_quota_index": 73,
       "variant_index": 3,
       "position": {
-        "x": 68.400116,
-        "y": 205.60074,
-        "z": 74.300255
+        "x": 68.400055,
+        "y": 205.6008,
+        "z": 74.30015
       },
       "forward": {
-        "i": 0.00019159552,
-        "j": 0.7608063,
-        "k": 0.64897895
+        "i": 0.00019159312,
+        "j": 0.76067346,
+        "k": 0.64913476
       },
       "up": {
-        "i": 0.007332881,
-        "j": 0.6489604,
-        "k": -0.7607869
+        "i": 0.009142376,
+        "j": 0.64910626,
+        "k": -0.76064277
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -925,19 +933,19 @@
       "variant_quota_index": 73,
       "variant_index": 3,
       "position": {
-        "x": 76.5,
-        "y": 205.60074,
-        "z": 74.300255
+        "x": 76.49994,
+        "y": 205.6008,
+        "z": 74.30015
       },
       "forward": {
-        "i": 0.00019159552,
-        "j": 0.7608063,
-        "k": 0.64897895
+        "i": 0.00019159312,
+        "j": 0.76067346,
+        "k": 0.64913476
       },
       "up": {
-        "i": 0.007332881,
-        "j": 0.6489604,
-        "k": -0.7607869
+        "i": 0.009142376,
+        "j": 0.64910626,
+        "k": -0.76064277
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -959,19 +967,19 @@
       "variant_quota_index": 73,
       "variant_index": 3,
       "position": {
-        "x": 60.3002,
-        "y": 201.50058,
-        "z": 69.30006
+        "x": 60.30017,
+        "y": 201.5007,
+        "z": 69.299965
       },
       "forward": {
-        "i": 0.00019159912,
-        "j": 0.3359042,
-        "k": 0.94189614
+        "i": 0.00019159631,
+        "j": 0.3371952,
+        "k": 0.9414348
       },
       "up": {
-        "i": 0.004539207,
-        "j": 0.94188607,
-        "k": -0.33590153
+        "i": 0.0067890594,
+        "j": 0.9414126,
+        "k": -0.33718866
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -993,19 +1001,19 @@
       "variant_quota_index": 73,
       "variant_index": 3,
       "position": {
-        "x": 60.3002,
-        "y": 200.8005,
-        "z": 67.20007
+        "x": 60.30017,
+        "y": 200.80057,
+        "z": 67.19999
       },
       "forward": {
-        "i": 0.00019159894,
-        "j": 0.16632433,
-        "k": 0.9860711
+        "i": 0.0001915965,
+        "j": 0.16823898,
+        "k": 0.98574626
       },
       "up": {
-        "i": 0.004752092,
-        "j": 0.9860598,
-        "k": -0.16632335
+        "i": 0.007108593,
+        "j": 0.9857211,
+        "k": -0.16823605
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -1027,19 +1035,19 @@
       "variant_quota_index": 73,
       "variant_index": 3,
       "position": {
-        "x": 60.3002,
-        "y": 200.40054,
-        "z": 65.00013
+        "x": 60.30017,
+        "y": 200.40067,
+        "z": 65.00005
       },
       "forward": {
-        "i": -0.00019159222,
-        "j": -0.009636254,
-        "k": 0.9999536
+        "i": -0.00019158723,
+        "j": -0.012016104,
+        "k": 0.99992776
       },
       "up": {
-        "i": 0.009637653,
-        "j": 0.99990714,
-        "k": 0.009637653
+        "i": 0.01201754,
+        "j": 0.9998555,
+        "k": 0.01201754
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -1061,19 +1069,19 @@
       "variant_quota_index": 73,
       "variant_index": 3,
       "position": {
-        "x": 60.3002,
-        "y": 200.40054,
-        "z": 62.80018
+        "x": 60.30017,
+        "y": 200.40067,
+        "z": 62.800117
       },
       "forward": {
-        "i": 0.0001915925,
-        "j": -0.18013856,
-        "k": 0.98364127
+        "i": 0.00019158772,
+        "j": -0.18200682,
+        "k": 0.9832972
       },
       "up": {
-        "i": 0.00948045,
-        "j": 0.98359734,
-        "k": 0.18012866
+        "i": 0.011817701,
+        "j": 0.983229,
+        "k": 0.18199189
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -1095,19 +1103,19 @@
       "variant_quota_index": 73,
       "variant_index": 3,
       "position": {
-        "x": 60.3002,
-        "y": 200.8005,
-        "z": 60.599968
+        "x": 60.30017,
+        "y": 200.80057,
+        "z": 60.599907
       },
       "forward": {
-        "i": 0.00019159328,
-        "j": -0.3479045,
-        "k": 0.9375299
+        "i": 0.00019158896,
+        "j": -0.3491499,
+        "k": 0.93706685
       },
       "up": {
-        "i": 0.009036064,
-        "j": 0.9374923,
-        "k": 0.3478887
+        "i": 0.011262161,
+        "j": 0.9370082,
+        "k": 0.34912574
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -1129,19 +1137,19 @@
       "variant_quota_index": 73,
       "variant_index": 3,
       "position": {
-        "x": 60.3002,
-        "y": 207.50058,
-        "z": 75.40009
+        "x": 60.30017,
+        "y": 207.50064,
+        "z": 75.39998
       },
       "forward": {
-        "i": 0.00019159922,
-        "j": 0.8602237,
-        "k": 0.5099168
+        "i": 0.00019159706,
+        "j": 0.85985416,
+        "k": 0.5105398
       },
       "up": {
-        "i": 0.0041456204,
-        "j": 0.5099117,
-        "k": -0.8602168
+        "i": 0.0062007797,
+        "j": 0.5105289,
+        "k": -0.8598382
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -1163,19 +1171,19 @@
       "variant_quota_index": 71,
       "variant_index": 15,
       "position": {
-        "x": 76.5,
-        "y": 210.5007,
-        "z": 61.500153
+        "x": 76.49994,
+        "y": 210.50082,
+        "z": 61.50009
       },
       "forward": {
-        "i": 0.009636253,
-        "j": 0.00019167965,
-        "k": -0.9999536
+        "i": 0.0120161045,
+        "j": 0.00019167467,
+        "k": -0.99992776
       },
       "up": {
-        "i": 0.99990714,
-        "j": 0.009637653,
-        "k": 0.009637653
+        "i": 0.9998555,
+        "j": 0.01201754,
+        "k": 0.01201754
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -1197,9 +1205,9 @@
       "variant_quota_index": 74,
       "variant_index": 9,
       "position": {
-        "x": 53.99991,
-        "y": 212.50058,
-        "z": 57.00003
+        "x": 53.999878,
+        "y": 212.5007,
+        "z": 56.999985
       },
       "forward": {
         "i": 1.0,
@@ -1231,9 +1239,9 @@
       "variant_quota_index": 74,
       "variant_index": 9,
       "position": {
-        "x": 72.99991,
-        "y": 213.50052,
-        "z": 57.00003
+        "x": 72.99985,
+        "y": 213.50064,
+        "z": 56.999985
       },
       "forward": {
         "i": -1.0,
@@ -1265,9 +1273,9 @@
       "variant_quota_index": 74,
       "variant_index": 9,
       "position": {
-        "x": 53.99991,
-        "y": 211.50064,
-        "z": 57.00003
+        "x": 53.999878,
+        "y": 211.50076,
+        "z": 56.999985
       },
       "forward": {
         "i": 1.0,
@@ -1299,9 +1307,9 @@
       "variant_quota_index": 74,
       "variant_index": 9,
       "position": {
-        "x": 53.99991,
-        "y": 210.5007,
-        "z": 57.00003
+        "x": 53.999878,
+        "y": 210.50082,
+        "z": 56.999985
       },
       "forward": {
         "i": 1.0,
@@ -1333,9 +1341,9 @@
       "variant_quota_index": 74,
       "variant_index": 9,
       "position": {
-        "x": 53.99991,
-        "y": 209.50076,
-        "z": 57.00003
+        "x": 53.999878,
+        "y": 209.50089,
+        "z": 56.999985
       },
       "forward": {
         "i": 1.0,
@@ -1367,9 +1375,9 @@
       "variant_quota_index": 74,
       "variant_index": 9,
       "position": {
-        "x": 53.99991,
-        "y": 208.50052,
-        "z": 57.00003
+        "x": 53.999878,
+        "y": 208.50058,
+        "z": 56.999985
       },
       "forward": {
         "i": 1.0,
@@ -1401,9 +1409,9 @@
       "variant_quota_index": 74,
       "variant_index": 9,
       "position": {
-        "x": 53.99991,
-        "y": 207.50058,
-        "z": 57.00003
+        "x": 53.999878,
+        "y": 207.50064,
+        "z": 56.999985
       },
       "forward": {
         "i": 1.0,
@@ -1435,9 +1443,9 @@
       "variant_quota_index": 74,
       "variant_index": 9,
       "position": {
-        "x": 53.99991,
-        "y": 206.50058,
-        "z": 57.00003
+        "x": 53.999878,
+        "y": 206.5007,
+        "z": 56.999985
       },
       "forward": {
         "i": 1.0,
@@ -1469,9 +1477,9 @@
       "variant_quota_index": 74,
       "variant_index": 9,
       "position": {
-        "x": 53.99991,
-        "y": 205.50064,
-        "z": 57.00003
+        "x": 53.999878,
+        "y": 205.50076,
+        "z": 56.999985
       },
       "forward": {
         "i": 1.0,
@@ -1503,9 +1511,9 @@
       "variant_quota_index": 74,
       "variant_index": 9,
       "position": {
-        "x": 53.99991,
-        "y": 204.5007,
-        "z": 57.00003
+        "x": 53.999878,
+        "y": 204.50082,
+        "z": 56.999985
       },
       "forward": {
         "i": 1.0,
@@ -1537,9 +1545,9 @@
       "variant_quota_index": 55,
       "variant_index": 0,
       "position": {
-        "x": 53.19995,
-        "y": 211.20078,
-        "z": 60.005646
+        "x": 53.19992,
+        "y": 211.2009,
+        "z": 60.005592
       },
       "forward": {
         "i": 1.0,
@@ -1571,9 +1579,9 @@
       "variant_quota_index": 74,
       "variant_index": 9,
       "position": {
-        "x": 53.99991,
-        "y": 203.50046,
-        "z": 57.00003
+        "x": 53.999878,
+        "y": 203.50058,
+        "z": 56.999985
       },
       "forward": {
         "i": 1.0,
@@ -1605,19 +1613,19 @@
       "variant_quota_index": 73,
       "variant_index": 3,
       "position": {
-        "x": 68.3992,
-        "y": 207.50089,
-        "z": 75.39247
+        "x": 68.39914,
+        "y": 207.50095,
+        "z": 75.39236
       },
       "forward": {
-        "i": -0.00019159971,
-        "j": 0.86022455,
-        "k": 0.5099155
+        "i": -0.00019159779,
+        "j": 0.85985535,
+        "k": 0.5105378
       },
       "up": {
-        "i": 0.0041456204,
-        "j": 0.5099117,
-        "k": -0.8602168
+        "i": 0.0062007797,
+        "j": 0.5105289,
+        "k": -0.8598382
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -1639,315 +1647,9 @@
       "variant_quota_index": 74,
       "variant_index": 9,
       "position": {
-        "x": 72.99991,
-        "y": 211.50064,
-        "z": 57.00003
-      },
-      "forward": {
-        "i": -1.0,
-        "j": 0.00019160111,
-        "k": 0.0
-      },
-      "up": {
-        "i": 0.0,
-        "j": 0.0,
-        "k": 1.0
-      },
-      "spawn_relative_to": -1,
-      "multiplayer_game_object_properties": {
-        "game_engine_flags": 0,
-        "user_data": 0,
-        "spawn_time": 0,
-        "cached_type": 0,
-        "label_index": -1,
-        "placement_flags": 204,
-        "team": 8,
-        "primary_change_color_index": -1
-      }
-    },
-    {
-      "flags": 1,
-      "reuse_timeout": 0,
-      "object_datum_index": 0,
-      "editor_object_index": 0,
-      "variant_quota_index": 74,
-      "variant_index": 9,
-      "position": {
-        "x": 53.99991,
-        "y": 213.50052,
-        "z": 57.00003
-      },
-      "forward": {
-        "i": 1.0,
-        "j": 0.00019168854,
-        "k": 0.0
-      },
-      "up": {
-        "i": 0.0,
-        "j": 0.0,
-        "k": 1.0
-      },
-      "spawn_relative_to": -1,
-      "multiplayer_game_object_properties": {
-        "game_engine_flags": 0,
-        "user_data": 0,
-        "spawn_time": 0,
-        "cached_type": 0,
-        "label_index": -1,
-        "placement_flags": 204,
-        "team": 8,
-        "primary_change_color_index": -1
-      }
-    },
-    {
-      "flags": 1,
-      "reuse_timeout": 0,
-      "object_datum_index": 0,
-      "editor_object_index": 0,
-      "variant_quota_index": 74,
-      "variant_index": 9,
-      "position": {
-        "x": 53.99991,
-        "y": 214.50046,
-        "z": 57.00003
-      },
-      "forward": {
-        "i": 1.0,
-        "j": 0.00019168854,
-        "k": 0.0
-      },
-      "up": {
-        "i": 0.0,
-        "j": 0.0,
-        "k": 1.0
-      },
-      "spawn_relative_to": -1,
-      "multiplayer_game_object_properties": {
-        "game_engine_flags": 0,
-        "user_data": 0,
-        "spawn_time": 0,
-        "cached_type": 0,
-        "label_index": -1,
-        "placement_flags": 204,
-        "team": 8,
-        "primary_change_color_index": -1
-      }
-    },
-    {
-      "flags": 1,
-      "reuse_timeout": 0,
-      "object_datum_index": 0,
-      "editor_object_index": 0,
-      "variant_quota_index": 74,
-      "variant_index": 9,
-      "position": {
-        "x": 53.99991,
-        "y": 215.50076,
-        "z": 57.00003
-      },
-      "forward": {
-        "i": 1.0,
-        "j": 0.00019168854,
-        "k": 0.0
-      },
-      "up": {
-        "i": 0.0,
-        "j": 0.0,
-        "k": 1.0
-      },
-      "spawn_relative_to": -1,
-      "multiplayer_game_object_properties": {
-        "game_engine_flags": 0,
-        "user_data": 0,
-        "spawn_time": 0,
-        "cached_type": 0,
-        "label_index": -1,
-        "placement_flags": 204,
-        "team": 8,
-        "primary_change_color_index": -1
-      }
-    },
-    {
-      "flags": 1,
-      "reuse_timeout": 0,
-      "object_datum_index": 0,
-      "editor_object_index": 0,
-      "variant_quota_index": 74,
-      "variant_index": 9,
-      "position": {
-        "x": 53.99991,
-        "y": 216.5007,
-        "z": 57.00003
-      },
-      "forward": {
-        "i": 1.0,
-        "j": 0.00019168854,
-        "k": 0.0
-      },
-      "up": {
-        "i": 0.0,
-        "j": 0.0,
-        "k": 1.0
-      },
-      "spawn_relative_to": -1,
-      "multiplayer_game_object_properties": {
-        "game_engine_flags": 0,
-        "user_data": 0,
-        "spawn_time": 0,
-        "cached_type": 0,
-        "label_index": -1,
-        "placement_flags": 204,
-        "team": 8,
-        "primary_change_color_index": -1
-      }
-    },
-    {
-      "flags": 1,
-      "reuse_timeout": 0,
-      "object_datum_index": 0,
-      "editor_object_index": 0,
-      "variant_quota_index": 74,
-      "variant_index": 9,
-      "position": {
-        "x": 53.99991,
-        "y": 217.50064,
-        "z": 57.00003
-      },
-      "forward": {
-        "i": 1.0,
-        "j": 0.00019168854,
-        "k": 0.0
-      },
-      "up": {
-        "i": 0.0,
-        "j": 0.0,
-        "k": 1.0
-      },
-      "spawn_relative_to": -1,
-      "multiplayer_game_object_properties": {
-        "game_engine_flags": 0,
-        "user_data": 0,
-        "spawn_time": 0,
-        "cached_type": 0,
-        "label_index": -1,
-        "placement_flags": 204,
-        "team": 8,
-        "primary_change_color_index": -1
-      }
-    },
-    {
-      "flags": 1,
-      "reuse_timeout": 0,
-      "object_datum_index": 0,
-      "editor_object_index": 0,
-      "variant_quota_index": 74,
-      "variant_index": 9,
-      "position": {
-        "x": 53.99991,
-        "y": 218.50058,
-        "z": 57.00003
-      },
-      "forward": {
-        "i": 1.0,
-        "j": 0.00019168854,
-        "k": 0.0
-      },
-      "up": {
-        "i": 0.0,
-        "j": 0.0,
-        "k": 1.0
-      },
-      "spawn_relative_to": -1,
-      "multiplayer_game_object_properties": {
-        "game_engine_flags": 0,
-        "user_data": 0,
-        "spawn_time": 0,
-        "cached_type": 0,
-        "label_index": -1,
-        "placement_flags": 204,
-        "team": 8,
-        "primary_change_color_index": -1
-      }
-    },
-    {
-      "flags": 1,
-      "reuse_timeout": 0,
-      "object_datum_index": 0,
-      "editor_object_index": 0,
-      "variant_quota_index": 74,
-      "variant_index": 9,
-      "position": {
-        "x": 53.99991,
-        "y": 219.50052,
-        "z": 57.00003
-      },
-      "forward": {
-        "i": 1.0,
-        "j": 0.00019168854,
-        "k": 0.0
-      },
-      "up": {
-        "i": 0.0,
-        "j": 0.0,
-        "k": 1.0
-      },
-      "spawn_relative_to": -1,
-      "multiplayer_game_object_properties": {
-        "game_engine_flags": 0,
-        "user_data": 0,
-        "spawn_time": 0,
-        "cached_type": 0,
-        "label_index": -1,
-        "placement_flags": 204,
-        "team": 8,
-        "primary_change_color_index": -1
-      }
-    },
-    {
-      "flags": 1,
-      "reuse_timeout": 0,
-      "object_datum_index": 0,
-      "editor_object_index": 0,
-      "variant_quota_index": 74,
-      "variant_index": 9,
-      "position": {
-        "x": 72.99991,
-        "y": 212.50058,
-        "z": 57.00003
-      },
-      "forward": {
-        "i": -1.0,
-        "j": -0.00019160111,
-        "k": 0.0
-      },
-      "up": {
-        "i": 0.0,
-        "j": 0.0,
-        "k": 1.0
-      },
-      "spawn_relative_to": -1,
-      "multiplayer_game_object_properties": {
-        "game_engine_flags": 0,
-        "user_data": 0,
-        "spawn_time": 0,
-        "cached_type": 0,
-        "label_index": -1,
-        "placement_flags": 204,
-        "team": 8,
-        "primary_change_color_index": -1
-      }
-    },
-    {
-      "flags": 1,
-      "reuse_timeout": 0,
-      "object_datum_index": 0,
-      "editor_object_index": 0,
-      "variant_quota_index": 74,
-      "variant_index": 9,
-      "position": {
-        "x": 72.99991,
-        "y": 210.5007,
-        "z": 57.00003
+        "x": 72.99985,
+        "y": 211.50076,
+        "z": 56.999985
       },
       "forward": {
         "i": -1.0,
@@ -1979,9 +1681,247 @@
       "variant_quota_index": 74,
       "variant_index": 9,
       "position": {
-        "x": 72.99991,
-        "y": 209.50076,
-        "z": 57.00003
+        "x": 53.999878,
+        "y": 213.50064,
+        "z": 56.999985
+      },
+      "forward": {
+        "i": 1.0,
+        "j": 0.00019168854,
+        "k": 0.0
+      },
+      "up": {
+        "i": 0.0,
+        "j": 0.0,
+        "k": 1.0
+      },
+      "spawn_relative_to": -1,
+      "multiplayer_game_object_properties": {
+        "game_engine_flags": 0,
+        "user_data": 0,
+        "spawn_time": 0,
+        "cached_type": 0,
+        "label_index": -1,
+        "placement_flags": 204,
+        "team": 8,
+        "primary_change_color_index": -1
+      }
+    },
+    {
+      "flags": 1,
+      "reuse_timeout": 0,
+      "object_datum_index": 0,
+      "editor_object_index": 0,
+      "variant_quota_index": 74,
+      "variant_index": 9,
+      "position": {
+        "x": 53.999878,
+        "y": 214.50058,
+        "z": 56.999985
+      },
+      "forward": {
+        "i": 1.0,
+        "j": 0.00019168854,
+        "k": 0.0
+      },
+      "up": {
+        "i": 0.0,
+        "j": 0.0,
+        "k": 1.0
+      },
+      "spawn_relative_to": -1,
+      "multiplayer_game_object_properties": {
+        "game_engine_flags": 0,
+        "user_data": 0,
+        "spawn_time": 0,
+        "cached_type": 0,
+        "label_index": -1,
+        "placement_flags": 204,
+        "team": 8,
+        "primary_change_color_index": -1
+      }
+    },
+    {
+      "flags": 1,
+      "reuse_timeout": 0,
+      "object_datum_index": 0,
+      "editor_object_index": 0,
+      "variant_quota_index": 74,
+      "variant_index": 9,
+      "position": {
+        "x": 53.999878,
+        "y": 215.50082,
+        "z": 56.999985
+      },
+      "forward": {
+        "i": 1.0,
+        "j": 0.00019168854,
+        "k": 0.0
+      },
+      "up": {
+        "i": 0.0,
+        "j": 0.0,
+        "k": 1.0
+      },
+      "spawn_relative_to": -1,
+      "multiplayer_game_object_properties": {
+        "game_engine_flags": 0,
+        "user_data": 0,
+        "spawn_time": 0,
+        "cached_type": 0,
+        "label_index": -1,
+        "placement_flags": 204,
+        "team": 8,
+        "primary_change_color_index": -1
+      }
+    },
+    {
+      "flags": 1,
+      "reuse_timeout": 0,
+      "object_datum_index": 0,
+      "editor_object_index": 0,
+      "variant_quota_index": 74,
+      "variant_index": 9,
+      "position": {
+        "x": 53.999878,
+        "y": 216.50076,
+        "z": 56.999985
+      },
+      "forward": {
+        "i": 1.0,
+        "j": 0.00019168854,
+        "k": 0.0
+      },
+      "up": {
+        "i": 0.0,
+        "j": 0.0,
+        "k": 1.0
+      },
+      "spawn_relative_to": -1,
+      "multiplayer_game_object_properties": {
+        "game_engine_flags": 0,
+        "user_data": 0,
+        "spawn_time": 0,
+        "cached_type": 0,
+        "label_index": -1,
+        "placement_flags": 204,
+        "team": 8,
+        "primary_change_color_index": -1
+      }
+    },
+    {
+      "flags": 1,
+      "reuse_timeout": 0,
+      "object_datum_index": 0,
+      "editor_object_index": 0,
+      "variant_quota_index": 74,
+      "variant_index": 9,
+      "position": {
+        "x": 53.999878,
+        "y": 217.5007,
+        "z": 56.999985
+      },
+      "forward": {
+        "i": 1.0,
+        "j": 0.00019168854,
+        "k": 0.0
+      },
+      "up": {
+        "i": 0.0,
+        "j": 0.0,
+        "k": 1.0
+      },
+      "spawn_relative_to": -1,
+      "multiplayer_game_object_properties": {
+        "game_engine_flags": 0,
+        "user_data": 0,
+        "spawn_time": 0,
+        "cached_type": 0,
+        "label_index": -1,
+        "placement_flags": 204,
+        "team": 8,
+        "primary_change_color_index": -1
+      }
+    },
+    {
+      "flags": 1,
+      "reuse_timeout": 0,
+      "object_datum_index": 0,
+      "editor_object_index": 0,
+      "variant_quota_index": 74,
+      "variant_index": 9,
+      "position": {
+        "x": 53.999878,
+        "y": 218.50064,
+        "z": 56.999985
+      },
+      "forward": {
+        "i": 1.0,
+        "j": 0.00019168854,
+        "k": 0.0
+      },
+      "up": {
+        "i": 0.0,
+        "j": 0.0,
+        "k": 1.0
+      },
+      "spawn_relative_to": -1,
+      "multiplayer_game_object_properties": {
+        "game_engine_flags": 0,
+        "user_data": 0,
+        "spawn_time": 0,
+        "cached_type": 0,
+        "label_index": -1,
+        "placement_flags": 204,
+        "team": 8,
+        "primary_change_color_index": -1
+      }
+    },
+    {
+      "flags": 1,
+      "reuse_timeout": 0,
+      "object_datum_index": 0,
+      "editor_object_index": 0,
+      "variant_quota_index": 74,
+      "variant_index": 9,
+      "position": {
+        "x": 53.999878,
+        "y": 219.50058,
+        "z": 56.999985
+      },
+      "forward": {
+        "i": 1.0,
+        "j": 0.00019168854,
+        "k": 0.0
+      },
+      "up": {
+        "i": 0.0,
+        "j": 0.0,
+        "k": 1.0
+      },
+      "spawn_relative_to": -1,
+      "multiplayer_game_object_properties": {
+        "game_engine_flags": 0,
+        "user_data": 0,
+        "spawn_time": 0,
+        "cached_type": 0,
+        "label_index": -1,
+        "placement_flags": 204,
+        "team": 8,
+        "primary_change_color_index": -1
+      }
+    },
+    {
+      "flags": 1,
+      "reuse_timeout": 0,
+      "object_datum_index": 0,
+      "editor_object_index": 0,
+      "variant_quota_index": 74,
+      "variant_index": 9,
+      "position": {
+        "x": 72.99985,
+        "y": 212.5007,
+        "z": 56.999985
       },
       "forward": {
         "i": -1.0,
@@ -2013,9 +1953,9 @@
       "variant_quota_index": 74,
       "variant_index": 9,
       "position": {
-        "x": 72.99991,
-        "y": 208.50052,
-        "z": 57.00003
+        "x": 72.99985,
+        "y": 210.50082,
+        "z": 56.999985
       },
       "forward": {
         "i": -1.0,
@@ -2047,9 +1987,9 @@
       "variant_quota_index": 74,
       "variant_index": 9,
       "position": {
-        "x": 72.99991,
-        "y": 207.50058,
-        "z": 57.00003
+        "x": 72.99985,
+        "y": 209.50089,
+        "z": 56.999985
       },
       "forward": {
         "i": -1.0,
@@ -2081,9 +2021,43 @@
       "variant_quota_index": 74,
       "variant_index": 9,
       "position": {
-        "x": 72.99991,
-        "y": 206.50058,
-        "z": 57.00003
+        "x": 72.99985,
+        "y": 208.50058,
+        "z": 56.999985
+      },
+      "forward": {
+        "i": -1.0,
+        "j": 0.00019160111,
+        "k": 0.0
+      },
+      "up": {
+        "i": 0.0,
+        "j": 0.0,
+        "k": 1.0
+      },
+      "spawn_relative_to": -1,
+      "multiplayer_game_object_properties": {
+        "game_engine_flags": 0,
+        "user_data": 0,
+        "spawn_time": 0,
+        "cached_type": 0,
+        "label_index": -1,
+        "placement_flags": 204,
+        "team": 8,
+        "primary_change_color_index": -1
+      }
+    },
+    {
+      "flags": 1,
+      "reuse_timeout": 0,
+      "object_datum_index": 0,
+      "editor_object_index": 0,
+      "variant_quota_index": 74,
+      "variant_index": 9,
+      "position": {
+        "x": 72.99985,
+        "y": 207.50064,
+        "z": 56.999985
       },
       "forward": {
         "i": -1.0,
@@ -2115,9 +2089,43 @@
       "variant_quota_index": 74,
       "variant_index": 9,
       "position": {
-        "x": 72.99991,
-        "y": 205.50064,
-        "z": 57.00003
+        "x": 72.99985,
+        "y": 206.5007,
+        "z": 56.999985
+      },
+      "forward": {
+        "i": -1.0,
+        "j": -0.00019160111,
+        "k": 0.0
+      },
+      "up": {
+        "i": 0.0,
+        "j": 0.0,
+        "k": 1.0
+      },
+      "spawn_relative_to": -1,
+      "multiplayer_game_object_properties": {
+        "game_engine_flags": 0,
+        "user_data": 0,
+        "spawn_time": 0,
+        "cached_type": 0,
+        "label_index": -1,
+        "placement_flags": 204,
+        "team": 8,
+        "primary_change_color_index": -1
+      }
+    },
+    {
+      "flags": 1,
+      "reuse_timeout": 0,
+      "object_datum_index": 0,
+      "editor_object_index": 0,
+      "variant_quota_index": 74,
+      "variant_index": 9,
+      "position": {
+        "x": 72.99985,
+        "y": 205.50076,
+        "z": 56.999985
       },
       "forward": {
         "i": -0.9999998,
@@ -2149,9 +2157,9 @@
       "variant_quota_index": 74,
       "variant_index": 9,
       "position": {
-        "x": 72.99991,
-        "y": 204.5007,
-        "z": 57.00003
+        "x": 72.99985,
+        "y": 204.50082,
+        "z": 56.999985
       },
       "forward": {
         "i": -1.0,
@@ -2183,9 +2191,9 @@
       "variant_quota_index": 74,
       "variant_index": 9,
       "position": {
-        "x": 72.99991,
-        "y": 203.50046,
-        "z": 57.00003
+        "x": 72.99985,
+        "y": 203.50058,
+        "z": 56.999985
       },
       "forward": {
         "i": -1.0,
@@ -2217,19 +2225,19 @@
       "variant_quota_index": 73,
       "variant_index": 3,
       "position": {
-        "x": 76.5,
-        "y": 200.8005,
-        "z": 60.599968
+        "x": 76.49994,
+        "y": 200.80057,
+        "z": 60.599907
       },
       "forward": {
-        "i": 0.00019159328,
-        "j": -0.3479045,
-        "k": 0.9375299
+        "i": 0.00019158896,
+        "j": -0.3491499,
+        "k": 0.93706685
       },
       "up": {
-        "i": 0.009036064,
-        "j": 0.9374923,
-        "k": 0.3478887
+        "i": 0.011262161,
+        "j": 0.9370082,
+        "k": 0.34912574
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -2251,111 +2259,9 @@
       "variant_quota_index": 74,
       "variant_index": 9,
       "position": {
-        "x": 72.99991,
-        "y": 214.50046,
-        "z": 57.00003
-      },
-      "forward": {
-        "i": -1.0,
-        "j": 0.00019160111,
-        "k": 0.0
-      },
-      "up": {
-        "i": 0.0,
-        "j": 0.0,
-        "k": 1.0
-      },
-      "spawn_relative_to": -1,
-      "multiplayer_game_object_properties": {
-        "game_engine_flags": 0,
-        "user_data": 0,
-        "spawn_time": 0,
-        "cached_type": 0,
-        "label_index": -1,
-        "placement_flags": 204,
-        "team": 8,
-        "primary_change_color_index": -1
-      }
-    },
-    {
-      "flags": 1,
-      "reuse_timeout": 0,
-      "object_datum_index": 0,
-      "editor_object_index": 0,
-      "variant_quota_index": 74,
-      "variant_index": 9,
-      "position": {
-        "x": 72.99991,
-        "y": 215.50076,
-        "z": 57.00003
-      },
-      "forward": {
-        "i": -1.0,
-        "j": -0.00019160111,
-        "k": 0.0
-      },
-      "up": {
-        "i": 0.0,
-        "j": 0.0,
-        "k": 1.0
-      },
-      "spawn_relative_to": -1,
-      "multiplayer_game_object_properties": {
-        "game_engine_flags": 0,
-        "user_data": 0,
-        "spawn_time": 0,
-        "cached_type": 0,
-        "label_index": -1,
-        "placement_flags": 204,
-        "team": 8,
-        "primary_change_color_index": -1
-      }
-    },
-    {
-      "flags": 1,
-      "reuse_timeout": 0,
-      "object_datum_index": 0,
-      "editor_object_index": 0,
-      "variant_quota_index": 74,
-      "variant_index": 9,
-      "position": {
-        "x": 72.99991,
-        "y": 216.5007,
-        "z": 57.00003
-      },
-      "forward": {
-        "i": -1.0,
-        "j": -0.00019160111,
-        "k": 0.0
-      },
-      "up": {
-        "i": 0.0,
-        "j": 0.0,
-        "k": 1.0
-      },
-      "spawn_relative_to": -1,
-      "multiplayer_game_object_properties": {
-        "game_engine_flags": 0,
-        "user_data": 0,
-        "spawn_time": 0,
-        "cached_type": 0,
-        "label_index": -1,
-        "placement_flags": 204,
-        "team": 8,
-        "primary_change_color_index": -1
-      }
-    },
-    {
-      "flags": 1,
-      "reuse_timeout": 0,
-      "object_datum_index": 0,
-      "editor_object_index": 0,
-      "variant_quota_index": 74,
-      "variant_index": 9,
-      "position": {
-        "x": 72.99991,
-        "y": 217.50064,
-        "z": 57.00003
+        "x": 72.99985,
+        "y": 214.50058,
+        "z": 56.999985
       },
       "forward": {
         "i": -1.0,
@@ -2387,9 +2293,77 @@
       "variant_quota_index": 74,
       "variant_index": 9,
       "position": {
-        "x": 72.99991,
-        "y": 218.50058,
-        "z": 57.00003
+        "x": 72.99985,
+        "y": 215.50082,
+        "z": 56.999985
+      },
+      "forward": {
+        "i": -1.0,
+        "j": -0.00019160111,
+        "k": 0.0
+      },
+      "up": {
+        "i": 0.0,
+        "j": 0.0,
+        "k": 1.0
+      },
+      "spawn_relative_to": -1,
+      "multiplayer_game_object_properties": {
+        "game_engine_flags": 0,
+        "user_data": 0,
+        "spawn_time": 0,
+        "cached_type": 0,
+        "label_index": -1,
+        "placement_flags": 204,
+        "team": 8,
+        "primary_change_color_index": -1
+      }
+    },
+    {
+      "flags": 1,
+      "reuse_timeout": 0,
+      "object_datum_index": 0,
+      "editor_object_index": 0,
+      "variant_quota_index": 74,
+      "variant_index": 9,
+      "position": {
+        "x": 72.99985,
+        "y": 216.50076,
+        "z": 56.999985
+      },
+      "forward": {
+        "i": -1.0,
+        "j": -0.00019160111,
+        "k": 0.0
+      },
+      "up": {
+        "i": 0.0,
+        "j": 0.0,
+        "k": 1.0
+      },
+      "spawn_relative_to": -1,
+      "multiplayer_game_object_properties": {
+        "game_engine_flags": 0,
+        "user_data": 0,
+        "spawn_time": 0,
+        "cached_type": 0,
+        "label_index": -1,
+        "placement_flags": 204,
+        "team": 8,
+        "primary_change_color_index": -1
+      }
+    },
+    {
+      "flags": 1,
+      "reuse_timeout": 0,
+      "object_datum_index": 0,
+      "editor_object_index": 0,
+      "variant_quota_index": 74,
+      "variant_index": 9,
+      "position": {
+        "x": 72.99985,
+        "y": 217.5007,
+        "z": 56.999985
       },
       "forward": {
         "i": -1.0,
@@ -2421,9 +2395,9 @@
       "variant_quota_index": 74,
       "variant_index": 9,
       "position": {
-        "x": 72.99991,
-        "y": 219.50052,
-        "z": 57.00003
+        "x": 72.99985,
+        "y": 218.50064,
+        "z": 56.999985
       },
       "forward": {
         "i": -1.0,
@@ -2455,9 +2429,43 @@
       "variant_quota_index": 74,
       "variant_index": 9,
       "position": {
-        "x": 72.99991,
-        "y": 220.50076,
-        "z": 57.00003
+        "x": 72.99985,
+        "y": 219.50058,
+        "z": 56.999985
+      },
+      "forward": {
+        "i": -1.0,
+        "j": 0.00019160111,
+        "k": 0.0
+      },
+      "up": {
+        "i": 0.0,
+        "j": 0.0,
+        "k": 1.0
+      },
+      "spawn_relative_to": -1,
+      "multiplayer_game_object_properties": {
+        "game_engine_flags": 0,
+        "user_data": 0,
+        "spawn_time": 0,
+        "cached_type": 0,
+        "label_index": -1,
+        "placement_flags": 204,
+        "team": 8,
+        "primary_change_color_index": -1
+      }
+    },
+    {
+      "flags": 1,
+      "reuse_timeout": 0,
+      "object_datum_index": 0,
+      "editor_object_index": 0,
+      "variant_quota_index": 74,
+      "variant_index": 9,
+      "position": {
+        "x": 72.99985,
+        "y": 220.50089,
+        "z": 56.999985
       },
       "forward": {
         "i": -1.0,
@@ -2489,9 +2497,9 @@
       "variant_quota_index": 74,
       "variant_index": 9,
       "position": {
-        "x": 72.99991,
-        "y": 222.50064,
-        "z": 57.00003
+        "x": 72.99985,
+        "y": 222.50076,
+        "z": 56.999985
       },
       "forward": {
         "i": -1.0,
@@ -2523,9 +2531,9 @@
       "variant_quota_index": 74,
       "variant_index": 9,
       "position": {
-        "x": 72.99991,
-        "y": 221.5007,
-        "z": 57.00003
+        "x": 72.99985,
+        "y": 221.50082,
+        "z": 56.999985
       },
       "forward": {
         "i": -1.0,
@@ -2557,9 +2565,9 @@
       "variant_quota_index": 74,
       "variant_index": 9,
       "position": {
-        "x": 53.99991,
-        "y": 220.50076,
-        "z": 57.00003
+        "x": 53.999878,
+        "y": 220.50089,
+        "z": 56.999985
       },
       "forward": {
         "i": 1.0,
@@ -2591,9 +2599,9 @@
       "variant_quota_index": 74,
       "variant_index": 9,
       "position": {
-        "x": 53.99991,
-        "y": 221.5007,
-        "z": 57.00003
+        "x": 53.999878,
+        "y": 221.50082,
+        "z": 56.999985
       },
       "forward": {
         "i": 1.0,
@@ -2625,9 +2633,9 @@
       "variant_quota_index": 74,
       "variant_index": 9,
       "position": {
-        "x": 53.99991,
-        "y": 222.50064,
-        "z": 57.00003
+        "x": 53.999878,
+        "y": 222.50076,
+        "z": 56.999985
       },
       "forward": {
         "i": 1.0,
@@ -2659,19 +2667,19 @@
       "variant_quota_index": 73,
       "variant_index": 3,
       "position": {
-        "x": 76.5,
-        "y": 200.40054,
-        "z": 62.80018
+        "x": 76.49994,
+        "y": 200.40067,
+        "z": 62.800117
       },
       "forward": {
-        "i": 0.0001915925,
-        "j": -0.18013856,
-        "k": 0.98364127
+        "i": 0.00019158772,
+        "j": -0.18200682,
+        "k": 0.9832972
       },
       "up": {
-        "i": 0.00948045,
-        "j": 0.98359734,
-        "k": 0.18012866
+        "i": 0.011817701,
+        "j": 0.983229,
+        "k": 0.18199189
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -2693,19 +2701,19 @@
       "variant_quota_index": 73,
       "variant_index": 3,
       "position": {
-        "x": 76.5,
-        "y": 200.40054,
-        "z": 65.00013
+        "x": 76.49994,
+        "y": 200.40067,
+        "z": 65.00005
       },
       "forward": {
-        "i": 0.00019159887,
-        "j": -0.009639023,
-        "k": 0.9999535
+        "i": 0.00019159612,
+        "j": -0.012019789,
+        "k": 0.99992776
       },
       "up": {
-        "i": 0.004818994,
-        "j": 0.99994195,
-        "k": 0.009637988
+        "i": 0.0072108577,
+        "j": 0.9999018,
+        "k": 0.012018096
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -2727,19 +2735,19 @@
       "variant_quota_index": 73,
       "variant_index": 3,
       "position": {
-        "x": 76.5,
-        "y": 200.80014,
-        "z": 67.20007
+        "x": 76.49994,
+        "y": 200.80026,
+        "z": 67.19999
       },
       "forward": {
-        "i": 0.00019159894,
-        "j": 0.16632433,
-        "k": 0.9860711
+        "i": 0.0001915965,
+        "j": 0.16823898,
+        "k": 0.98574626
       },
       "up": {
-        "i": 0.004752092,
-        "j": 0.9860598,
-        "k": -0.16632335
+        "i": 0.007108593,
+        "j": 0.9857211,
+        "k": -0.16823605
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -2761,19 +2769,19 @@
       "variant_quota_index": 73,
       "variant_index": 3,
       "position": {
-        "x": 76.5,
-        "y": 201.50058,
-        "z": 69.29979
+        "x": 76.49994,
+        "y": 201.5007,
+        "z": 69.2997
       },
       "forward": {
-        "i": 0.00019159912,
-        "j": 0.3359042,
-        "k": 0.94189614
+        "i": 0.00019159631,
+        "j": 0.3371952,
+        "k": 0.9414348
       },
       "up": {
-        "i": 0.004539207,
-        "j": 0.94188607,
-        "k": -0.33590153
+        "i": 0.0067890594,
+        "j": 0.9414126,
+        "k": -0.33718866
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -2795,19 +2803,19 @@
       "variant_quota_index": 73,
       "variant_index": 3,
       "position": {
-        "x": 68.400116,
-        "y": 200.8005,
-        "z": 60.599968
+        "x": 68.400055,
+        "y": 200.80057,
+        "z": 60.599907
       },
       "forward": {
-        "i": 0.00019159328,
-        "j": -0.3479045,
-        "k": 0.9375299
+        "i": 0.00019158896,
+        "j": -0.3491499,
+        "k": 0.93706685
       },
       "up": {
-        "i": 0.009036064,
-        "j": 0.9374923,
-        "k": 0.3478887
+        "i": 0.011262161,
+        "j": 0.9370082,
+        "k": 0.34912574
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -2829,19 +2837,19 @@
       "variant_quota_index": 73,
       "variant_index": 3,
       "position": {
-        "x": 76.5,
-        "y": 202.60056,
-        "z": 71.20013
+        "x": 76.49994,
+        "y": 202.60068,
+        "z": 71.20003
       },
       "forward": {
-        "i": 0.00019159494,
-        "j": 0.50062376,
-        "k": 0.86566496
+        "i": 0.00019159139,
+        "j": 0.50128055,
+        "k": 0.86528486
       },
       "up": {
-        "i": 0.008343455,
-        "j": 0.8656341,
-        "k": -0.50060767
+        "i": 0.010399523,
+        "j": 0.86523706,
+        "k": -0.5012551
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -2863,19 +2871,19 @@
       "variant_quota_index": 73,
       "variant_index": 3,
       "position": {
-        "x": 76.5,
-        "y": 204.00076,
-        "z": 72.899994
+        "x": 76.49994,
+        "y": 204.00089,
+        "z": 72.89989
       },
       "forward": {
-        "i": 0.00019159981,
-        "j": 0.64254177,
-        "k": 0.76625067
+        "i": 0.00019159817,
+        "j": 0.64271605,
+        "k": 0.7661044
       },
       "up": {
-        "i": 0.0036927445,
-        "j": 0.766245,
-        "k": -0.64253795
+        "i": 0.0055247233,
+        "j": 0.76609206,
+        "k": -0.64270705
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -2897,19 +2905,19 @@
       "variant_quota_index": 73,
       "variant_index": 3,
       "position": {
-        "x": 68.400116,
-        "y": 209.6005,
-        "z": 76.20005
+        "x": 68.400055,
+        "y": 209.60062,
+        "z": 76.199936
       },
       "forward": {
-        "i": -0.00019159915,
-        "j": 0.9375308,
-        "k": 0.34790212
+        "i": -0.0001915967,
+        "j": 0.9370681,
+        "k": 0.3491467
       },
       "up": {
-        "i": 0.004518171,
-        "j": 0.34789938,
-        "k": -0.93752104
+        "i": 0.0067575704,
+        "j": 0.3491399,
+        "k": -0.9370462
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -2931,19 +2939,19 @@
       "variant_quota_index": 73,
       "variant_index": 3,
       "position": {
-        "x": 68.400116,
-        "y": 214.00052,
-        "z": 76.60017
+        "x": 68.400055,
+        "y": 214.00058,
+        "z": 76.600044
       },
       "forward": {
-        "i": -0.00019159887,
-        "j": 0.9999535,
-        "k": 0.009637177
+        "i": -0.00019159612,
+        "j": 0.99992776,
+        "k": 0.012017027
       },
       "up": {
-        "i": 0.004818994,
-        "j": 0.009637988,
-        "k": -0.99994195
+        "i": 0.0072108577,
+        "j": 0.012018096,
+        "k": -0.9999018
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -2965,19 +2973,19 @@
       "variant_quota_index": 73,
       "variant_index": 3,
       "position": {
-        "x": 60.3002,
-        "y": 220.20059,
-        "z": 74.400215
+        "x": 60.30017,
+        "y": 220.20065,
+        "z": 74.40011
       },
       "forward": {
-        "i": 0.00019159494,
-        "j": 0.86566496,
-        "k": -0.50062376
+        "i": 0.00019159137,
+        "j": 0.8652848,
+        "k": -0.5012805
       },
       "up": {
-        "i": 0.008343455,
-        "j": -0.50060767,
-        "k": -0.8656341
+        "i": 0.010399524,
+        "j": -0.5012551,
+        "k": -0.8652371
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -2999,19 +3007,19 @@
       "variant_quota_index": 73,
       "variant_index": 3,
       "position": {
-        "x": 60.3002,
-        "y": 211.8005,
-        "z": 76.60017
+        "x": 60.30017,
+        "y": 211.80057,
+        "z": 76.600044
       },
       "forward": {
-        "i": 0.0001915925,
-        "j": 0.98364127,
-        "k": 0.18013856
+        "i": 0.00019158772,
+        "j": 0.9832972,
+        "k": 0.18200682
       },
       "up": {
-        "i": 0.00948045,
-        "j": 0.18012866,
-        "k": -0.98359734
+        "i": 0.011817701,
+        "j": 0.18199189,
+        "k": -0.983229
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -3033,19 +3041,19 @@
       "variant_quota_index": 73,
       "variant_index": 3,
       "position": {
-        "x": 60.3002,
-        "y": 209.6005,
-        "z": 76.20005
+        "x": 60.30017,
+        "y": 209.60062,
+        "z": 76.199936
       },
       "forward": {
-        "i": 0.00019159328,
-        "j": 0.9375299,
-        "k": 0.3479045
+        "i": 0.00019158896,
+        "j": 0.93706685,
+        "k": 0.3491499
       },
       "up": {
-        "i": 0.009036064,
-        "j": 0.3478887,
-        "k": -0.9374923
+        "i": 0.011262161,
+        "j": 0.34912574,
+        "k": -0.9370082
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -3067,19 +3075,19 @@
       "variant_quota_index": 73,
       "variant_index": 3,
       "position": {
-        "x": 68.400116,
-        "y": 218.30075,
-        "z": 75.50005
+        "x": 68.400055,
+        "y": 218.30087,
+        "z": 75.49994
       },
       "forward": {
-        "i": 0.00019159912,
-        "j": 0.94189614,
-        "k": -0.3359042
+        "i": 0.00019159631,
+        "j": 0.9414348,
+        "k": -0.3371952
       },
       "up": {
-        "i": 0.004539207,
-        "j": -0.33590153,
-        "k": -0.94188607
+        "i": 0.0067890594,
+        "j": -0.33718866,
+        "k": -0.9414126
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -3101,19 +3109,19 @@
       "variant_quota_index": 52,
       "variant_index": 1,
       "position": {
-        "x": 63.099915,
-        "y": 213.00058,
-        "z": 60.312614
+        "x": 63.099884,
+        "y": 213.00064,
+        "z": 60.312553
       },
       "forward": {
-        "i": 0.0002845246,
-        "j": -0.9999536,
-        "k": 0.009635359
+        "i": 0.0003360627,
+        "j": -0.9999278,
+        "k": 0.012014369
       },
       "up": {
-        "i": 0.009637653,
-        "j": 0.009637653,
-        "k": 0.99990714
+        "i": 0.01201754,
+        "j": 0.01201754,
+        "k": 0.9998555
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -3135,19 +3143,19 @@
       "variant_quota_index": 73,
       "variant_index": 3,
       "position": {
-        "x": 60.301117,
-        "y": 225.23068,
-        "z": 60.800156
+        "x": 60.301086,
+        "y": 225.2308,
+        "z": 60.800102
       },
       "forward": {
-        "i": -0.0001915925,
-        "j": -0.18013856,
-        "k": -0.98364127
+        "i": -0.00019158772,
+        "j": -0.18200682,
+        "k": -0.9832972
       },
       "up": {
-        "i": 0.00948045,
-        "j": -0.98359734,
-        "k": 0.18012866
+        "i": 0.011817701,
+        "j": -0.983229,
+        "k": 0.18199189
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -3169,19 +3177,19 @@
       "variant_quota_index": 73,
       "variant_index": 3,
       "position": {
-        "x": 60.30066,
-        "y": 225.57535,
-        "z": 63.000107
+        "x": 60.30063,
+        "y": 225.57547,
+        "z": 63.00004
       },
       "forward": {
-        "i": -0.00019159887,
-        "j": -0.009639023,
-        "k": -0.9999535
+        "i": -0.00019159612,
+        "j": -0.012019789,
+        "k": -0.99992776
       },
       "up": {
-        "i": 0.004818994,
-        "j": -0.99994195,
-        "k": 0.009637988
+        "i": 0.0072108577,
+        "j": -0.9999018,
+        "k": 0.012018096
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -3203,19 +3211,19 @@
       "variant_quota_index": 73,
       "variant_index": 3,
       "position": {
-        "x": 60.3002,
-        "y": 225.60056,
-        "z": 65.20005
+        "x": 60.30017,
+        "y": 225.60062,
+        "z": 65.199974
       },
       "forward": {
-        "i": 0.00019159245,
-        "j": 0.16632701,
-        "k": -0.98607063
+        "i": 0.00019158765,
+        "j": 0.16824254,
+        "k": -0.9857456
       },
       "up": {
-        "i": 0.009503863,
-        "j": -0.9860264,
-        "k": -0.16631772
+        "i": 0.0118471235,
+        "j": -0.9856769,
+        "k": -0.1682285
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -3237,19 +3245,19 @@
       "variant_quota_index": 73,
       "variant_index": 3,
       "position": {
-        "x": 60.3002,
-        "y": 225.20065,
-        "z": 67.399994
+        "x": 60.30017,
+        "y": 225.20071,
+        "z": 67.39991
       },
       "forward": {
-        "i": 0.0001915932,
-        "j": 0.33590665,
-        "k": -0.94189525
+        "i": 0.00019158884,
+        "j": 0.33719844,
+        "k": -0.9414336
       },
       "up": {
-        "i": 0.009078134,
-        "j": -0.941857,
-        "k": -0.33589116
+        "i": 0.011314635,
+        "j": -0.94137406,
+        "k": -0.33717483
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -3271,19 +3279,19 @@
       "variant_quota_index": 73,
       "variant_index": 3,
       "position": {
-        "x": 60.3002,
-        "y": 224.40048,
-        "z": 69.40002
+        "x": 60.30017,
+        "y": 224.40054,
+        "z": 69.399925
       },
       "forward": {
-        "i": -0.00019159494,
-        "j": 0.50062376,
-        "k": -0.86566496
+        "i": -0.00019159139,
+        "j": 0.50128055,
+        "k": -0.86528486
       },
       "up": {
-        "i": 0.008343455,
-        "j": -0.8656341,
-        "k": -0.50060767
+        "i": 0.010399523,
+        "j": -0.86523706,
+        "k": -0.5012551
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -3305,19 +3313,19 @@
       "variant_quota_index": 73,
       "variant_index": 3,
       "position": {
-        "x": 60.3002,
-        "y": 223.3005,
-        "z": 71.30009
+        "x": 60.30017,
+        "y": 223.30057,
+        "z": 71.29999
       },
       "forward": {
-        "i": -0.00019159981,
-        "j": 0.64254177,
-        "k": -0.76625067
+        "i": -0.00019159817,
+        "j": 0.64271605,
+        "k": -0.7661044
       },
       "up": {
-        "i": 0.0036927445,
-        "j": -0.766245,
-        "k": -0.64253795
+        "i": 0.0055247233,
+        "j": -0.76609206,
+        "k": -0.64270705
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -3339,19 +3347,19 @@
       "variant_quota_index": 73,
       "variant_index": 3,
       "position": {
-        "x": 60.3002,
-        "y": 221.9006,
-        "z": 73.00023
+        "x": 60.30017,
+        "y": 221.90073,
+        "z": 73.00012
       },
       "forward": {
-        "i": 0.00019159981,
-        "j": 0.76625067,
-        "k": -0.64254177
+        "i": 0.00019159817,
+        "j": 0.7661044,
+        "k": -0.64271605
       },
       "up": {
-        "i": 0.0036927445,
-        "j": -0.64253795,
-        "k": -0.766245
+        "i": 0.0055247233,
+        "j": -0.64270705,
+        "k": -0.76609206
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -3373,19 +3381,19 @@
       "variant_quota_index": 73,
       "variant_index": 3,
       "position": {
-        "x": 68.400116,
-        "y": 224.50052,
-        "z": 58.800133
+        "x": 68.400055,
+        "y": 224.50064,
+        "z": 58.80008
       },
       "forward": {
-        "i": -0.00019159328,
-        "j": -0.3479045,
-        "k": -0.9375299
+        "i": -0.00019158896,
+        "j": -0.3491499,
+        "k": -0.93706685
       },
       "up": {
-        "i": 0.009036064,
-        "j": -0.9374923,
-        "k": 0.3478887
+        "i": 0.011262161,
+        "j": -0.9370082,
+        "k": 0.34912574
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -3407,19 +3415,19 @@
       "variant_quota_index": 73,
       "variant_index": 3,
       "position": {
-        "x": 68.39966,
-        "y": 225.23233,
-        "z": 60.800156
+        "x": 68.3996,
+        "y": 225.23245,
+        "z": 60.800102
       },
       "forward": {
-        "i": -0.0001915925,
-        "j": -0.18013856,
-        "k": -0.98364127
+        "i": -0.00019158772,
+        "j": -0.18200682,
+        "k": -0.9832972
       },
       "up": {
-        "i": 0.00948045,
-        "j": -0.98359734,
-        "k": 0.18012866
+        "i": 0.011817701,
+        "j": -0.983229,
+        "k": 0.18199189
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -3441,19 +3449,19 @@
       "variant_quota_index": 73,
       "variant_index": 3,
       "position": {
-        "x": 68.39966,
-        "y": 225.56784,
-        "z": 63.000107
+        "x": 68.3996,
+        "y": 225.5679,
+        "z": 63.00004
       },
       "forward": {
-        "i": -0.00019159222,
-        "j": -0.004821065,
-        "k": -0.99998844
+        "i": -0.00019158727,
+        "j": -0.0072136815,
+        "k": -0.999974
       },
       "up": {
-        "i": 0.009637988,
-        "j": -0.99994195,
-        "k": 0.004818994
+        "i": 0.012018096,
+        "j": -0.9999018,
+        "k": 0.0072108577
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -3475,19 +3483,19 @@
       "variant_quota_index": 73,
       "variant_index": 3,
       "position": {
-        "x": 68.400116,
-        "y": 225.60056,
-        "z": 65.20005
+        "x": 68.400055,
+        "y": 225.60062,
+        "z": 65.199974
       },
       "forward": {
-        "i": -0.00019159894,
-        "j": 0.16632433,
-        "k": -0.9860711
+        "i": -0.0001915965,
+        "j": 0.16823898,
+        "k": -0.98574626
       },
       "up": {
-        "i": 0.004752092,
-        "j": -0.9860598,
-        "k": -0.16632335
+        "i": 0.007108593,
+        "j": -0.9857211,
+        "k": -0.16823605
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -3509,19 +3517,19 @@
       "variant_quota_index": 73,
       "variant_index": 3,
       "position": {
-        "x": 68.400116,
-        "y": 225.20065,
-        "z": 67.399994
+        "x": 68.400055,
+        "y": 225.20071,
+        "z": 67.39991
       },
       "forward": {
-        "i": -0.00019159912,
-        "j": 0.3359042,
-        "k": -0.94189614
+        "i": -0.00019159631,
+        "j": 0.3371952,
+        "k": -0.9414348
       },
       "up": {
-        "i": 0.004539207,
-        "j": -0.94188607,
-        "k": -0.33590153
+        "i": 0.0067890594,
+        "j": -0.9414126,
+        "k": -0.33718866
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -3543,19 +3551,19 @@
       "variant_quota_index": 73,
       "variant_index": 3,
       "position": {
-        "x": 68.400116,
-        "y": 224.40048,
-        "z": 69.40002
+        "x": 68.400055,
+        "y": 224.40054,
+        "z": 69.399925
       },
       "forward": {
-        "i": -0.00019159494,
-        "j": 0.50062376,
-        "k": -0.86566496
+        "i": -0.00019159139,
+        "j": 0.50128055,
+        "k": -0.86528486
       },
       "up": {
-        "i": 0.008343455,
-        "j": -0.8656341,
-        "k": -0.50060767
+        "i": 0.010399523,
+        "j": -0.86523706,
+        "k": -0.5012551
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -3577,19 +3585,19 @@
       "variant_quota_index": 73,
       "variant_index": 3,
       "position": {
-        "x": 68.400116,
-        "y": 223.3005,
-        "z": 71.30009
+        "x": 68.400055,
+        "y": 223.30057,
+        "z": 71.29999
       },
       "forward": {
-        "i": 0.0001915959,
-        "j": 0.64254344,
-        "k": -0.76624936
+        "i": 0.0001915941,
+        "j": 0.6427182,
+        "k": -0.76610273
       },
       "up": {
-        "i": 0.007385338,
-        "j": -0.76622933,
-        "k": -0.64252484
+        "i": 0.009207623,
+        "j": -0.7660713,
+        "k": -0.64268965
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -3611,19 +3619,19 @@
       "variant_quota_index": 73,
       "variant_index": 3,
       "position": {
-        "x": 68.400116,
-        "y": 221.9006,
-        "z": 73.00023
+        "x": 68.400055,
+        "y": 221.90073,
+        "z": 73.00012
       },
       "forward": {
-        "i": -0.00019159587,
-        "j": 0.76624924,
-        "k": -0.6425434
+        "i": -0.0001915941,
+        "j": 0.76610273,
+        "k": -0.6427182
       },
       "up": {
-        "i": 0.007385338,
-        "j": -0.64252484,
-        "k": -0.76622933
+        "i": 0.009207623,
+        "j": -0.64268965,
+        "k": -0.7660713
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -3645,19 +3653,19 @@
       "variant_quota_index": 73,
       "variant_index": 3,
       "position": {
-        "x": 76.5,
-        "y": 224.50052,
-        "z": 58.800133
+        "x": 76.49994,
+        "y": 224.50064,
+        "z": 58.80008
       },
       "forward": {
-        "i": 0.00019159915,
-        "j": -0.34790212,
-        "k": -0.9375308
+        "i": 0.0001915967,
+        "j": -0.3491467,
+        "k": -0.9370681
       },
       "up": {
-        "i": 0.004518171,
-        "j": -0.93752104,
-        "k": 0.34789938
+        "i": 0.0067575704,
+        "j": -0.9370462,
+        "k": 0.3491399
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -3679,19 +3687,19 @@
       "variant_quota_index": 73,
       "variant_index": 3,
       "position": {
-        "x": 76.499084,
-        "y": 225.24411,
-        "z": 60.800156
+        "x": 76.49902,
+        "y": 225.24417,
+        "z": 60.800102
       },
       "forward": {
-        "i": -0.0001915925,
-        "j": -0.18013856,
-        "k": -0.98364127
+        "i": -0.00019158772,
+        "j": -0.18200682,
+        "k": -0.9832972
       },
       "up": {
-        "i": 0.00948045,
-        "j": -0.98359734,
-        "k": 0.18012866
+        "i": 0.011817701,
+        "j": -0.983229,
+        "k": 0.18199189
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -3713,19 +3721,19 @@
       "variant_quota_index": 73,
       "variant_index": 3,
       "position": {
-        "x": 76.50046,
-        "y": 225.57114,
-        "z": 63.000107
+        "x": 76.5004,
+        "y": 225.5712,
+        "z": 63.00004
       },
       "forward": {
-        "i": 0.0001915989,
-        "j": -0.009637178,
-        "k": -0.9999536
+        "i": 0.00019159612,
+        "j": -0.012017027,
+        "k": -0.99992776
       },
       "up": {
-        "i": 0.004818994,
-        "j": -0.99994195,
-        "k": 0.009637988
+        "i": 0.0072108577,
+        "j": -0.9999018,
+        "k": 0.012018096
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -3747,19 +3755,19 @@
       "variant_quota_index": 73,
       "variant_index": 3,
       "position": {
-        "x": 76.5,
-        "y": 225.60056,
-        "z": 65.20005
+        "x": 76.49994,
+        "y": 225.60062,
+        "z": 65.199974
       },
       "forward": {
-        "i": -0.00019159894,
-        "j": 0.16632433,
-        "k": -0.9860711
+        "i": -0.0001915965,
+        "j": 0.16823898,
+        "k": -0.98574626
       },
       "up": {
-        "i": 0.004752092,
-        "j": -0.9860598,
-        "k": -0.16632335
+        "i": 0.007108593,
+        "j": -0.9857211,
+        "k": -0.16823605
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -3781,19 +3789,19 @@
       "variant_quota_index": 73,
       "variant_index": 3,
       "position": {
-        "x": 76.5,
-        "y": 225.20065,
-        "z": 67.399994
+        "x": 76.49994,
+        "y": 225.20071,
+        "z": 67.39991
       },
       "forward": {
-        "i": -0.00019159912,
-        "j": 0.3359042,
-        "k": -0.94189614
+        "i": -0.00019159631,
+        "j": 0.3371952,
+        "k": -0.9414348
       },
       "up": {
-        "i": 0.004539207,
-        "j": -0.94188607,
-        "k": -0.33590153
+        "i": 0.0067890594,
+        "j": -0.9414126,
+        "k": -0.33718866
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -3815,19 +3823,19 @@
       "variant_quota_index": 73,
       "variant_index": 3,
       "position": {
-        "x": 76.5,
-        "y": 224.40048,
-        "z": 69.40002
+        "x": 76.49994,
+        "y": 224.40054,
+        "z": 69.399925
       },
       "forward": {
-        "i": 0.00019159947,
-        "j": 0.50062585,
-        "k": -0.8656639
+        "i": 0.000191597,
+        "j": 0.5012832,
+        "k": -0.8652832
       },
       "up": {
-        "i": 0.0041718367,
-        "j": -0.8656567,
-        "k": -0.5006207
+        "i": 0.00623993,
+        "j": -0.86526704,
+        "k": -0.50127244
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -3849,19 +3857,19 @@
       "variant_quota_index": 73,
       "variant_index": 3,
       "position": {
-        "x": 76.5,
-        "y": 223.3005,
-        "z": 71.30009
+        "x": 76.49994,
+        "y": 223.30057,
+        "z": 71.29999
       },
       "forward": {
-        "i": -0.0001915959,
-        "j": 0.6425413,
-        "k": -0.76625115
+        "i": -0.00019159191,
+        "j": 0.64271545,
+        "k": -0.766105
       },
       "up": {
-        "i": 0.007385338,
-        "j": -0.76622933,
-        "k": -0.64252484
+        "i": 0.009207623,
+        "j": -0.7660713,
+        "k": -0.64268965
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -3883,19 +3891,19 @@
       "variant_quota_index": 73,
       "variant_index": 3,
       "position": {
-        "x": 76.5,
-        "y": 221.9006,
-        "z": 73.00023
+        "x": 76.49994,
+        "y": 221.90073,
+        "z": 73.00012
       },
       "forward": {
-        "i": -0.00019159587,
-        "j": 0.76624924,
-        "k": -0.6425434
+        "i": -0.0001915941,
+        "j": 0.76610273,
+        "k": -0.6427182
       },
       "up": {
-        "i": 0.007385338,
-        "j": -0.64252484,
-        "k": -0.76622933
+        "i": 0.009207623,
+        "j": -0.64268965,
+        "k": -0.7660713
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -3917,19 +3925,19 @@
       "variant_quota_index": 73,
       "variant_index": 3,
       "position": {
-        "x": 68.400116,
-        "y": 216.20047,
-        "z": 76.20005
+        "x": 68.400055,
+        "y": 216.20059,
+        "z": 76.199936
       },
       "forward": {
-        "i": -0.00019159245,
-        "j": 0.98607063,
-        "k": -0.16632701
+        "i": -0.00019158765,
+        "j": 0.9857456,
+        "k": -0.16824254
       },
       "up": {
-        "i": 0.009503863,
-        "j": -0.16631772,
-        "k": -0.9860264
+        "i": 0.0118471235,
+        "j": -0.1682285,
+        "k": -0.9856769
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -3951,19 +3959,19 @@
       "variant_quota_index": 73,
       "variant_index": 3,
       "position": {
-        "x": 68.400116,
-        "y": 220.20059,
-        "z": 74.400215
+        "x": 68.400055,
+        "y": 220.20065,
+        "z": 74.40011
       },
       "forward": {
-        "i": -0.00019159442,
-        "j": 0.8674695,
-        "k": -0.49749038
+        "i": -0.0001915907,
+        "j": 0.86708534,
+        "k": -0.4981595
       },
       "up": {
-        "i": 0.008360862,
-        "j": -0.4974716,
-        "k": -0.86744
+        "i": 0.010421186,
+        "j": -0.49813074,
+        "k": -0.8670393
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -3985,19 +3993,19 @@
       "variant_quota_index": 73,
       "variant_index": 3,
       "position": {
-        "x": 76.5,
-        "y": 211.8005,
-        "z": 76.60017
+        "x": 76.49994,
+        "y": 211.80057,
+        "z": 76.600044
       },
       "forward": {
-        "i": 0.0001915925,
-        "j": 0.98364127,
-        "k": 0.18013856
+        "i": 0.00019158772,
+        "j": 0.9832972,
+        "k": 0.18200682
       },
       "up": {
-        "i": 0.00948045,
-        "j": 0.18012866,
-        "k": -0.98359734
+        "i": 0.011817701,
+        "j": 0.18199189,
+        "k": -0.983229
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -4019,19 +4027,19 @@
       "variant_quota_index": 71,
       "variant_index": 6,
       "position": {
-        "x": 63.499695,
-        "y": 222.9313,
-        "z": 70.60009
+        "x": 63.499634,
+        "y": 222.93137,
+        "z": 70.59999
       },
       "forward": {
-        "i": 0.9999536,
-        "j": 0.009636953,
-        "k": -0.0002381776
+        "i": 0.99992776,
+        "j": 0.012016401,
+        "k": -0.00027839432
       },
       "up": {
-        "i": 0.009637988,
-        "j": -0.99994195,
-        "k": 0.004818994
+        "i": 0.012018096,
+        "j": -0.9999018,
+        "k": 0.0072108577
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -4053,19 +4061,19 @@
       "variant_quota_index": 71,
       "variant_index": 6,
       "position": {
-        "x": 63.500153,
-        "y": 203.00046,
-        "z": 70.60009
+        "x": 63.50009,
+        "y": 203.00058,
+        "z": 70.59999
       },
       "forward": {
-        "i": -0.99998844,
-        "j": 0.004820619,
-        "k": -0.0001453092
+        "i": -0.9999741,
+        "j": 0.007212642,
+        "k": -0.000105087165
       },
       "up": {
-        "i": 0.004818994,
-        "j": 0.99994195,
-        "k": 0.009637988
+        "i": 0.0072108577,
+        "j": 0.9999018,
+        "k": 0.012018096
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -4087,19 +4095,19 @@
       "variant_quota_index": 73,
       "variant_index": 3,
       "position": {
-        "x": 76.5,
-        "y": 209.6005,
-        "z": 76.20005
+        "x": 76.49994,
+        "y": 209.60062,
+        "z": 76.199936
       },
       "forward": {
-        "i": -0.00019159915,
-        "j": 0.9375308,
-        "k": 0.34790212
+        "i": -0.0001915967,
+        "j": 0.9370681,
+        "k": 0.3491467
       },
       "up": {
-        "i": 0.004518171,
-        "j": 0.34789938,
-        "k": -0.93752104
+        "i": 0.0067575704,
+        "j": 0.3491399,
+        "k": -0.9370462
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -4121,19 +4129,19 @@
       "variant_quota_index": 73,
       "variant_index": 3,
       "position": {
-        "x": 76.5,
-        "y": 207.50058,
-        "z": 75.40009
+        "x": 76.49994,
+        "y": 207.50064,
+        "z": 75.39998
       },
       "forward": {
-        "i": 0.00019159922,
-        "j": 0.8602237,
-        "k": 0.5099168
+        "i": 0.00019159706,
+        "j": 0.85985416,
+        "k": 0.5105398
       },
       "up": {
-        "i": 0.0041456204,
-        "j": 0.5099117,
-        "k": -0.8602168
+        "i": 0.0062007797,
+        "j": 0.5105289,
+        "k": -0.8598382
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -4155,19 +4163,19 @@
       "variant_quota_index": 71,
       "variant_index": 15,
       "position": {
-        "x": 50.500275,
-        "y": 213.00058,
-        "z": 67.50023
+        "x": 50.500244,
+        "y": 213.00064,
+        "z": 67.500145
       },
       "forward": {
-        "i": 0.006815324,
-        "j": 0.7072342,
-        "k": 0.70694655
+        "i": 0.010198165,
+        "j": 0.707224,
+        "k": 0.70691603
       },
       "up": {
-        "i": -0.99997675,
-        "j": 0.0048191617,
-        "k": 0.0048191617
+        "i": -0.999948,
+        "j": 0.007211191,
+        "k": 0.007211191
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -4189,19 +4197,19 @@
       "variant_quota_index": 73,
       "variant_index": 3,
       "position": {
-        "x": 76.5,
-        "y": 218.30075,
-        "z": 75.50005
+        "x": 76.49994,
+        "y": 218.30087,
+        "z": 75.49994
       },
       "forward": {
-        "i": 0.00019159912,
-        "j": 0.94189614,
-        "k": -0.3359042
+        "i": 0.00019159631,
+        "j": 0.9414348,
+        "k": -0.3371952
       },
       "up": {
-        "i": 0.004539207,
-        "j": -0.33590153,
-        "k": -0.94188607
+        "i": 0.0067890594,
+        "j": -0.33718866,
+        "k": -0.9414126
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -4223,19 +4231,19 @@
       "variant_quota_index": 73,
       "variant_index": 3,
       "position": {
-        "x": 76.5,
-        "y": 220.20059,
-        "z": 74.400215
+        "x": 76.49994,
+        "y": 220.20065,
+        "z": 74.40011
       },
       "forward": {
-        "i": 0.00019159494,
-        "j": 0.86566496,
-        "k": -0.50062376
+        "i": 0.00019159137,
+        "j": 0.8652848,
+        "k": -0.5012805
       },
       "up": {
-        "i": 0.008343455,
-        "j": -0.50060767,
-        "k": -0.8656341
+        "i": 0.010399524,
+        "j": -0.5012551,
+        "k": -0.8652371
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -4257,19 +4265,19 @@
       "variant_quota_index": 71,
       "variant_index": 15,
       "position": {
-        "x": 50.500275,
-        "y": 213.00058,
-        "z": 60.500008
+        "x": 50.500244,
+        "y": 213.00064,
+        "z": 60.499947
       },
       "forward": {
-        "i": 0.0034097391,
-        "j": -0.70696306,
-        "k": 0.70724225
+        "i": 0.0034024254,
+        "j": -0.7069529,
+        "k": 0.7072525
       },
       "up": {
-        "i": -0.99994195,
-        "j": 0.004818994,
-        "k": 0.009637988
+        "i": -0.9999018,
+        "j": 0.0072108577,
+        "k": 0.012018096
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -4291,19 +4299,19 @@
       "variant_quota_index": 71,
       "variant_index": 15,
       "position": {
-        "x": 50.500275,
-        "y": 216.5007,
-        "z": 63.999977
+        "x": 50.500244,
+        "y": 216.50076,
+        "z": 63.99991
       },
       "forward": {
-        "i": 0.006815323,
-        "j": 0.70696306,
-        "k": 0.70721763
+        "i": 0.010198165,
+        "j": 0.7069529,
+        "k": 0.7071871
       },
       "up": {
-        "i": -0.99997675,
-        "j": 0.0048191617,
-        "k": 0.0048191617
+        "i": -0.999948,
+        "j": 0.007211191,
+        "k": 0.007211191
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -4325,19 +4333,19 @@
       "variant_quota_index": 71,
       "variant_index": 15,
       "position": {
-        "x": 50.500275,
-        "y": 209.50076,
-        "z": 63.999977
+        "x": 50.500244,
+        "y": 209.50089,
+        "z": 63.99991
       },
       "forward": {
-        "i": 0.0034097391,
-        "j": -0.70696306,
-        "k": 0.70724225
+        "i": 0.0034024254,
+        "j": -0.7069529,
+        "k": 0.7072525
       },
       "up": {
-        "i": -0.99994195,
-        "j": 0.004818994,
-        "k": 0.009637988
+        "i": -0.9999018,
+        "j": 0.0072108577,
+        "k": 0.012018096
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -4359,19 +4367,19 @@
       "variant_quota_index": 71,
       "variant_index": 15,
       "position": {
-        "x": 50.500275,
-        "y": 220.00046,
-        "z": 67.50023
+        "x": 50.500244,
+        "y": 220.00058,
+        "z": 67.500145
       },
       "forward": {
-        "i": 0.0034097391,
-        "j": -0.70696306,
-        "k": 0.70724225
+        "i": 0.0034024254,
+        "j": -0.7069529,
+        "k": 0.7072525
       },
       "up": {
-        "i": -0.99994195,
-        "j": 0.004818994,
-        "k": 0.009637988
+        "i": -0.9999018,
+        "j": 0.0072108577,
+        "k": 0.012018096
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -4393,19 +4401,19 @@
       "variant_quota_index": 71,
       "variant_index": 15,
       "position": {
-        "x": 50.500275,
-        "y": 216.5007,
-        "z": 71.000206
+        "x": 50.500244,
+        "y": 216.50076,
+        "z": 71.00011
       },
       "forward": {
-        "i": 0.006815323,
-        "j": 0.70696306,
-        "k": 0.70721763
+        "i": 0.010198165,
+        "j": 0.7069529,
+        "k": 0.7071871
       },
       "up": {
-        "i": -0.99997675,
-        "j": 0.0048191617,
-        "k": 0.0048191617
+        "i": -0.999948,
+        "j": 0.007211191,
+        "k": 0.007211191
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -4427,19 +4435,19 @@
       "variant_quota_index": 71,
       "variant_index": 15,
       "position": {
-        "x": 50.500275,
-        "y": 206.00064,
-        "z": 67.50023
+        "x": 50.500244,
+        "y": 206.00076,
+        "z": 67.500145
       },
       "forward": {
-        "i": -0.003405347,
-        "j": -0.7069385,
-        "k": 0.7072669
+        "i": -0.003396036,
+        "j": -0.7069202,
+        "k": 0.70728517
       },
       "up": {
-        "i": -0.99994195,
-        "j": 0.009637988,
-        "k": 0.004818994
+        "i": -0.9999018,
+        "j": 0.012018096,
+        "k": 0.0072108577
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -4461,19 +4469,19 @@
       "variant_quota_index": 71,
       "variant_index": 15,
       "position": {
-        "x": 50.500275,
-        "y": 209.50076,
-        "z": 71.000206
+        "x": 50.500244,
+        "y": 209.50089,
+        "z": 71.00011
       },
       "forward": {
-        "i": 0.0034097391,
-        "j": -0.70696306,
-        "k": 0.70724225
+        "i": 0.0034024254,
+        "j": -0.7069529,
+        "k": 0.7072525
       },
       "up": {
-        "i": -0.99994195,
-        "j": 0.004818994,
-        "k": 0.009637988
+        "i": -0.9999018,
+        "j": 0.0072108577,
+        "k": 0.012018096
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -4495,19 +4503,19 @@
       "variant_quota_index": 71,
       "variant_index": 15,
       "position": {
-        "x": 50.500275,
-        "y": 213.00058,
-        "z": 74.500175
+        "x": 50.500244,
+        "y": 213.00064,
+        "z": 74.50007
       },
       "forward": {
-        "i": 0.0000013853423,
-        "j": -0.7069631,
-        "k": 0.7072505
+        "i": 0.000002218876,
+        "j": -0.7069529,
+        "k": 0.70726067
       },
       "up": {
-        "i": -0.99997675,
-        "j": 0.0048191617,
-        "k": 0.0048191617
+        "i": -0.999948,
+        "j": 0.007211191,
+        "k": 0.007211191
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -4529,19 +4537,19 @@
       "variant_quota_index": 71,
       "variant_index": 15,
       "position": {
-        "x": 50.500275,
-        "y": 220.00046,
-        "z": 60.500008
+        "x": 50.500244,
+        "y": 220.00058,
+        "z": 60.499947
       },
       "forward": {
-        "i": 0.0034097391,
-        "j": -0.70696306,
-        "k": 0.70724225
+        "i": 0.0034024254,
+        "j": -0.7069529,
+        "k": 0.7072525
       },
       "up": {
-        "i": -0.99994195,
-        "j": 0.004818994,
-        "k": 0.009637988
+        "i": -0.9999018,
+        "j": 0.0072108577,
+        "k": 0.012018096
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -4563,19 +4571,19 @@
       "variant_quota_index": 71,
       "variant_index": 15,
       "position": {
-        "x": 50.500275,
-        "y": 223.50058,
-        "z": 63.999977
+        "x": 50.500244,
+        "y": 223.5007,
+        "z": 63.99991
       },
       "forward": {
-        "i": 0.00341366,
-        "j": -0.7066917,
-        "k": 0.7075134
+        "i": 0.0034076404,
+        "j": -0.70668155,
+        "k": 0.7075236
       },
       "up": {
-        "i": -0.99994195,
-        "j": 0.004818994,
-        "k": 0.009637988
+        "i": -0.9999018,
+        "j": 0.0072108577,
+        "k": 0.012018096
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -4597,19 +4605,19 @@
       "variant_quota_index": 71,
       "variant_index": 15,
       "position": {
-        "x": 50.500275,
-        "y": 206.00064,
-        "z": 60.500008
+        "x": 50.500244,
+        "y": 206.00076,
+        "z": 60.499947
       },
       "forward": {
-        "i": 0.00341366,
-        "j": -0.7066917,
-        "k": 0.7075134
+        "i": 0.0034076404,
+        "j": -0.70668155,
+        "k": 0.7075236
       },
       "up": {
-        "i": -0.99994195,
-        "j": 0.004818994,
-        "k": 0.009637988
+        "i": -0.9999018,
+        "j": 0.0072108577,
+        "k": 0.012018096
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -4631,19 +4639,19 @@
       "variant_quota_index": 71,
       "variant_index": 15,
       "position": {
-        "x": 50.500275,
-        "y": 202.50052,
-        "z": 63.999977
+        "x": 50.500244,
+        "y": 202.50064,
+        "z": 63.99991
       },
       "forward": {
-        "i": 0.0034097391,
-        "j": -0.70696306,
-        "k": 0.70724225
+        "i": 0.0034024254,
+        "j": -0.7069529,
+        "k": 0.7072525
       },
       "up": {
-        "i": -0.99994195,
-        "j": 0.004818994,
-        "k": 0.009637988
+        "i": -0.9999018,
+        "j": 0.0072108577,
+        "k": 0.012018096
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -4665,19 +4673,19 @@
       "variant_quota_index": 70,
       "variant_index": 8,
       "position": {
-        "x": 51.987793,
-        "y": 209.50107,
-        "z": 60.500008
+        "x": 51.987762,
+        "y": 209.50119,
+        "z": 60.499947
       },
       "forward": {
-        "i": 0.009636253,
-        "j": 0.00019167965,
-        "k": -0.9999536
+        "i": 0.0120161045,
+        "j": 0.00019167467,
+        "k": -0.99992776
       },
       "up": {
-        "i": 0.99990714,
-        "j": 0.009637653,
-        "k": 0.009637653
+        "i": 0.9998555,
+        "j": 0.01201754,
+        "k": 0.01201754
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -4699,19 +4707,19 @@
       "variant_quota_index": 70,
       "variant_index": 8,
       "position": {
-        "x": 51.989166,
-        "y": 213.00021,
-        "z": 63.999977
+        "x": 51.98915,
+        "y": 213.00034,
+        "z": 63.99991
       },
       "forward": {
-        "i": 0.004818294,
-        "j": 0.00019168633,
-        "k": -0.99998844
+        "i": 0.007209996,
+        "j": 0.00019168356,
+        "k": -0.999974
       },
       "up": {
-        "i": 0.99997675,
-        "j": 0.0048191617,
-        "k": 0.0048191617
+        "i": 0.999948,
+        "j": 0.007211191,
+        "k": 0.007211191
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -4733,19 +4741,19 @@
       "variant_quota_index": 70,
       "variant_index": 8,
       "position": {
-        "x": 51.989166,
-        "y": 216.501,
-        "z": 67.50023
+        "x": 51.98915,
+        "y": 216.50107,
+        "z": 67.500145
       },
       "forward": {
-        "i": 0.004820142,
-        "j": -0.00019168633,
-        "k": -0.99998844
+        "i": 0.0072127604,
+        "j": -0.00019168356,
+        "k": -0.999974
       },
       "up": {
-        "i": 0.99997675,
-        "j": 0.0048191617,
-        "k": 0.0048191617
+        "i": 0.999948,
+        "j": 0.007211191,
+        "k": 0.007211191
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -4767,19 +4775,19 @@
       "variant_quota_index": 70,
       "variant_index": 8,
       "position": {
-        "x": 51.98964,
-        "y": 216.501,
-        "z": 60.500008
+        "x": 51.98961,
+        "y": 216.50107,
+        "z": 60.499947
       },
       "forward": {
-        "i": 0.004818294,
-        "j": 0.00019168633,
-        "k": -0.99998844
+        "i": 0.007209996,
+        "j": 0.00019168356,
+        "k": -0.999974
       },
       "up": {
-        "i": 0.99997675,
-        "j": 0.0048191617,
-        "k": 0.0048191617
+        "i": 0.999948,
+        "j": 0.007211191,
+        "k": 0.007211191
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -4801,19 +4809,19 @@
       "variant_quota_index": 70,
       "variant_index": 8,
       "position": {
-        "x": 51.98413,
-        "y": 220.00082,
-        "z": 63.999977
+        "x": 51.9841,
+        "y": 220.00089,
+        "z": 63.99991
       },
       "forward": {
-        "i": 0.004818294,
-        "j": 0.00019168633,
-        "k": -0.99998844
+        "i": 0.007209996,
+        "j": 0.00019168356,
+        "k": -0.999974
       },
       "up": {
-        "i": 0.99997675,
-        "j": 0.0048191617,
-        "k": 0.0048191617
+        "i": 0.999948,
+        "j": 0.007211191,
+        "k": 0.007211191
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -4835,19 +4843,19 @@
       "variant_quota_index": 70,
       "variant_index": 8,
       "position": {
-        "x": 51.989166,
-        "y": 220.00143,
-        "z": 71.000206
+        "x": 51.98915,
+        "y": 220.00156,
+        "z": 71.00011
       },
       "forward": {
-        "i": 0.004818294,
-        "j": 0.00019168633,
-        "k": -0.99998844
+        "i": 0.007209996,
+        "j": 0.00019168356,
+        "k": -0.999974
       },
       "up": {
-        "i": 0.99997675,
-        "j": 0.0048191617,
-        "k": 0.0048191617
+        "i": 0.999948,
+        "j": 0.007211191,
+        "k": 0.007211191
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -4869,19 +4877,19 @@
       "variant_quota_index": 71,
       "variant_index": 15,
       "position": {
-        "x": 50.500275,
-        "y": 202.50052,
-        "z": 71.000206
+        "x": 50.500244,
+        "y": 202.50064,
+        "z": 71.00011
       },
       "forward": {
-        "i": 0.0034097391,
-        "j": -0.70696306,
-        "k": 0.70724225
+        "i": 0.0034024254,
+        "j": -0.7069529,
+        "k": 0.7072525
       },
       "up": {
-        "i": -0.99994195,
-        "j": 0.004818994,
-        "k": 0.009637988
+        "i": -0.9999018,
+        "j": 0.0072108577,
+        "k": 0.012018096
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -4903,19 +4911,19 @@
       "variant_quota_index": 71,
       "variant_index": 15,
       "position": {
-        "x": 50.500275,
-        "y": 223.50058,
-        "z": 71.000206
+        "x": 50.500244,
+        "y": 223.5007,
+        "z": 71.00011
       },
       "forward": {
-        "i": 0.006815323,
-        "j": 0.70696306,
-        "k": 0.70721763
+        "i": 0.010198165,
+        "j": 0.7069529,
+        "k": 0.7071871
       },
       "up": {
-        "i": -0.99997675,
-        "j": 0.0048191617,
-        "k": 0.0048191617
+        "i": -0.999948,
+        "j": 0.007211191,
+        "k": 0.007211191
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -4937,19 +4945,19 @@
       "variant_quota_index": 71,
       "variant_index": 15,
       "position": {
-        "x": 50.500275,
-        "y": 206.00064,
-        "z": 74.500175
+        "x": 50.500244,
+        "y": 206.00076,
+        "z": 74.50007
       },
       "forward": {
-        "i": 0.010223204,
-        "j": 0.7069631,
-        "k": 0.7071766
+        "i": 0.013597429,
+        "j": 0.7069529,
+        "k": 0.70712996
       },
       "up": {
-        "i": -0.99994195,
-        "j": 0.004818994,
-        "k": 0.009637988
+        "i": -0.9999018,
+        "j": 0.0072108577,
+        "k": 0.012018096
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -4971,19 +4979,19 @@
       "variant_quota_index": 71,
       "variant_index": 15,
       "position": {
-        "x": 50.500275,
-        "y": 220.00046,
-        "z": 74.500175
+        "x": 50.500244,
+        "y": 220.00058,
+        "z": 74.50007
       },
       "forward": {
-        "i": -0.0034014252,
-        "j": -0.7066671,
-        "k": 0.70753807
+        "i": -0.0033908193,
+        "j": -0.7066488,
+        "k": 0.7075563
       },
       "up": {
-        "i": -0.99994195,
-        "j": 0.009637988,
-        "k": 0.004818994
+        "i": -0.9999018,
+        "j": 0.012018096,
+        "k": 0.0072108577
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -5005,19 +5013,19 @@
       "variant_quota_index": 70,
       "variant_index": 8,
       "position": {
-        "x": 51.991013,
-        "y": 206.00064,
-        "z": 63.999977
+        "x": 51.990982,
+        "y": 206.00076,
+        "z": 63.99991
       },
       "forward": {
-        "i": 0.009639024,
-        "j": -0.0001916863,
-        "k": -0.9999535
+        "i": 0.01201979,
+        "j": -0.00019168353,
+        "k": -0.99992776
       },
       "up": {
-        "i": 0.99994195,
-        "j": 0.004818994,
-        "k": 0.009637988
+        "i": 0.9999018,
+        "j": 0.0072108577,
+        "k": 0.012018096
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -5039,19 +5047,19 @@
       "variant_quota_index": 70,
       "variant_index": 8,
       "position": {
-        "x": 51.98825,
-        "y": 209.50076,
-        "z": 67.50023
+        "x": 51.988235,
+        "y": 209.50089,
+        "z": 67.500145
       },
       "forward": {
-        "i": 0.004818294,
-        "j": 0.00019168633,
-        "k": -0.99998844
+        "i": 0.007209996,
+        "j": 0.00019168356,
+        "k": -0.999974
       },
       "up": {
-        "i": 0.99997675,
-        "j": 0.0048191617,
-        "k": 0.0048191617
+        "i": 0.999948,
+        "j": 0.007211191,
+        "k": 0.007211191
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -5073,19 +5081,19 @@
       "variant_quota_index": 70,
       "variant_index": 8,
       "position": {
-        "x": 51.98825,
-        "y": 213.00021,
-        "z": 71.000206
+        "x": 51.988235,
+        "y": 213.00034,
+        "z": 71.00011
       },
       "forward": {
-        "i": 0.009636253,
-        "j": 0.00019167965,
-        "k": -0.9999536
+        "i": 0.0120161045,
+        "j": 0.00019167467,
+        "k": -0.99992776
       },
       "up": {
-        "i": 0.99990714,
-        "j": 0.009637653,
-        "k": 0.009637653
+        "i": 0.9998555,
+        "j": 0.01201754,
+        "k": 0.01201754
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -5107,19 +5115,19 @@
       "variant_quota_index": 70,
       "variant_index": 8,
       "position": {
-        "x": 51.98825,
-        "y": 205.99997,
-        "z": 71.000206
+        "x": 51.988235,
+        "y": 206.00009,
+        "z": 71.00011
       },
       "forward": {
-        "i": 0.009639024,
-        "j": -0.0001916863,
-        "k": -0.9999535
+        "i": 0.01201979,
+        "j": -0.00019168353,
+        "k": -0.99992776
       },
       "up": {
-        "i": 0.99994195,
-        "j": 0.004818994,
-        "k": 0.009637988
+        "i": 0.9999018,
+        "j": 0.0072108577,
+        "k": 0.012018096
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -5141,19 +5149,19 @@
       "variant_quota_index": 55,
       "variant_index": 0,
       "position": {
-        "x": 73.80081,
-        "y": 211.20047,
-        "z": 60.00592
+        "x": 73.80075,
+        "y": 211.20053,
+        "z": 60.005867
       },
       "forward": {
-        "i": -1.0,
-        "j": -0.00019160412,
-        "k": 0.0000018467856
+        "i": -0.9999971,
+        "j": -0.00022048682,
+        "k": -0.0024011387
       },
       "up": {
-        "i": 0.0,
-        "j": 0.009638101,
-        "k": 0.9999536
+        "i": -0.0024036153,
+        "j": 0.012018374,
+        "k": 0.9999249
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -5175,19 +5183,19 @@
       "variant_quota_index": 55,
       "variant_index": 0,
       "position": {
-        "x": 73.7999,
-        "y": 209.40073,
-        "z": 60.00592
+        "x": 73.799835,
+        "y": 209.40079,
+        "z": 60.005867
       },
       "forward": {
-        "i": -0.9999535,
-        "j": -0.00019159219,
-        "k": 0.009639947
+        "i": -0.99992776,
+        "j": -0.00019158729,
+        "k": 0.012020708
       },
       "up": {
-        "i": 0.009637653,
-        "j": 0.009637653,
-        "k": 0.99990714
+        "i": 0.01201754,
+        "j": 0.01201754,
+        "k": 0.9998555
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -5209,19 +5217,19 @@
       "variant_quota_index": 55,
       "variant_index": 0,
       "position": {
-        "x": 73.7999,
-        "y": 216.60074,
-        "z": 60.00647
+        "x": 73.799835,
+        "y": 216.6008,
+        "z": 60.00641
       },
       "forward": {
-        "i": -0.99998844,
-        "j": 0.00023820109,
-        "k": 0.0048169224
+        "i": -0.9999741,
+        "j": 0.00027841324,
+        "k": 0.007208033
       },
       "up": {
-        "i": 0.004818994,
-        "j": 0.009637988,
-        "k": 0.99994195
+        "i": 0.0072108577,
+        "j": 0.012018096,
+        "k": 0.9999018
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -5243,19 +5251,19 @@
       "variant_quota_index": 55,
       "variant_index": 0,
       "position": {
-        "x": 53.20041,
-        "y": 216.60141,
-        "z": 60.00483
+        "x": 53.20038,
+        "y": 216.60147,
+        "z": 60.004776
       },
       "forward": {
-        "i": 0.99998844,
-        "j": 0.00014518999,
-        "k": -0.004820618
+        "i": 0.9999741,
+        "j": 0.000104967956,
+        "k": -0.0072126407
       },
       "up": {
-        "i": 0.004818994,
-        "j": 0.009637988,
-        "k": 0.99994195
+        "i": 0.0072108577,
+        "j": 0.012018096,
+        "k": 0.9999018
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -5277,19 +5285,19 @@
       "variant_quota_index": 55,
       "variant_index": 0,
       "position": {
-        "x": 53.19995,
-        "y": 209.40073,
-        "z": 60.00592
+        "x": 53.19992,
+        "y": 209.40079,
+        "z": 60.005867
       },
       "forward": {
-        "i": 0.9999536,
-        "j": -0.00019167965,
-        "k": -0.009636253
+        "i": 0.99992776,
+        "j": -0.00019167467,
+        "k": -0.0120161045
       },
       "up": {
-        "i": 0.009637653,
-        "j": 0.009637653,
-        "k": 0.99990714
+        "i": 0.01201754,
+        "j": 0.01201754,
+        "k": 0.9998555
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -5311,19 +5319,19 @@
       "variant_quota_index": 57,
       "variant_index": 0,
       "position": {
-        "x": 74.30017,
-        "y": 213.00058,
-        "z": 60.10016
+        "x": 74.30011,
+        "y": 213.00064,
+        "z": 60.100105
       },
       "forward": {
-        "i": 0.009636253,
-        "j": 0.00019167965,
-        "k": -0.9999536
+        "i": 0.0120161045,
+        "j": 0.00019167467,
+        "k": -0.99992776
       },
       "up": {
-        "i": 0.99990714,
-        "j": 0.009637653,
-        "k": 0.009637653
+        "i": 0.9998555,
+        "j": 0.01201754,
+        "k": 0.01201754
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -5353,18 +5361,18 @@
       "variant_index": 0,
       "position": {
         "x": 52.700104,
-        "y": 213.00058,
-        "z": 60.10016
+        "y": 213.00064,
+        "z": 60.100105
       },
       "forward": {
-        "i": 0.009636253,
-        "j": -0.00019167965,
-        "k": 0.9999536
+        "i": 0.0120161045,
+        "j": -0.00019167467,
+        "k": 0.99992776
       },
       "up": {
-        "i": -0.99990714,
-        "j": 0.009637653,
-        "k": 0.009637653
+        "i": -0.9998555,
+        "j": 0.01201754,
+        "k": 0.01201754
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -5393,19 +5401,19 @@
       "variant_quota_index": 60,
       "variant_index": 1,
       "position": {
-        "x": 63.500153,
-        "y": 213.00058,
-        "z": 63.999977
+        "x": 63.50009,
+        "y": 213.00064,
+        "z": 63.99991
       },
       "forward": {
-        "i": 0.009636253,
-        "j": 0.00019167965,
-        "k": -0.9999536
+        "i": 0.0120161045,
+        "j": 0.00019167467,
+        "k": -0.99992776
       },
       "up": {
-        "i": 0.99990714,
-        "j": 0.009637653,
-        "k": 0.009637653
+        "i": 0.9998555,
+        "j": 0.01201754,
+        "k": 0.01201754
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -5434,19 +5442,19 @@
       "variant_quota_index": 71,
       "variant_index": 15,
       "position": {
-        "x": 76.5,
-        "y": 215.50076,
-        "z": 66.50008
+        "x": 76.49994,
+        "y": 215.50082,
+        "z": 66.5
       },
       "forward": {
-        "i": 0.009636253,
-        "j": 0.00019167965,
-        "k": -0.9999536
+        "i": 0.0120161045,
+        "j": 0.00019167467,
+        "k": -0.99992776
       },
       "up": {
-        "i": 0.99990714,
-        "j": 0.009637653,
-        "k": 0.009637653
+        "i": 0.9998555,
+        "j": 0.01201754,
+        "k": 0.01201754
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -5468,19 +5476,19 @@
       "variant_quota_index": 71,
       "variant_index": 15,
       "position": {
-        "x": 76.5,
-        "y": 215.50076,
-        "z": 61.500153
+        "x": 76.49994,
+        "y": 215.50082,
+        "z": 61.50009
       },
       "forward": {
-        "i": 0.009636253,
-        "j": 0.00019167965,
-        "k": -0.9999536
+        "i": 0.0120161045,
+        "j": 0.00019167467,
+        "k": -0.99992776
       },
       "up": {
-        "i": 0.99990714,
-        "j": 0.009637653,
-        "k": 0.009637653
+        "i": 0.9998555,
+        "j": 0.01201754,
+        "k": 0.01201754
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -5502,19 +5510,19 @@
       "variant_quota_index": 71,
       "variant_index": 15,
       "position": {
-        "x": 76.5,
-        "y": 205.50064,
-        "z": 61.500153
+        "x": 76.49994,
+        "y": 205.50076,
+        "z": 61.50009
       },
       "forward": {
-        "i": 0.009636253,
-        "j": 0.00019167965,
-        "k": -0.9999536
+        "i": 0.0120161045,
+        "j": 0.00019167467,
+        "k": -0.99992776
       },
       "up": {
-        "i": 0.99990714,
-        "j": 0.009637653,
-        "k": 0.009637653
+        "i": 0.9998555,
+        "j": 0.01201754,
+        "k": 0.01201754
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -5536,19 +5544,19 @@
       "variant_quota_index": 70,
       "variant_index": 8,
       "position": {
-        "x": 75.02075,
-        "y": 213.00089,
-        "z": 63.999977
+        "x": 75.02069,
+        "y": 213.00095,
+        "z": 63.99991
       },
       "forward": {
-        "i": 0.0034092627,
-        "j": 0.70720935,
-        "k": -0.7069961
+        "i": 0.003401244,
+        "j": 0.70719105,
+        "k": -0.7070143
       },
       "up": {
-        "i": -0.99994195,
-        "j": 0.009637988,
-        "k": 0.004818994
+        "i": -0.9999018,
+        "j": 0.012018096,
+        "k": 0.0072108577
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -5570,19 +5578,19 @@
       "variant_quota_index": 71,
       "variant_index": 15,
       "position": {
-        "x": 76.5,
-        "y": 205.50064,
-        "z": 66.50008
+        "x": 76.49994,
+        "y": 205.50076,
+        "z": 66.5
       },
       "forward": {
-        "i": 0.009636253,
-        "j": 0.00019167965,
-        "k": -0.9999536
+        "i": 0.0120161045,
+        "j": 0.00019167467,
+        "k": -0.99992776
       },
       "up": {
-        "i": 0.99990714,
-        "j": 0.009637653,
-        "k": 0.009637653
+        "i": 0.9998555,
+        "j": 0.01201754,
+        "k": 0.01201754
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -5604,19 +5612,19 @@
       "variant_quota_index": 71,
       "variant_index": 15,
       "position": {
-        "x": 76.5,
-        "y": 220.50076,
-        "z": 61.500153
+        "x": 76.49994,
+        "y": 220.50089,
+        "z": 61.50009
       },
       "forward": {
-        "i": 0.009636253,
-        "j": 0.00019167965,
-        "k": -0.9999536
+        "i": 0.0120161045,
+        "j": 0.00019167467,
+        "k": -0.99992776
       },
       "up": {
-        "i": 0.99990714,
-        "j": 0.009637653,
-        "k": 0.009637653
+        "i": 0.9998555,
+        "j": 0.01201754,
+        "k": 0.01201754
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -5638,19 +5646,19 @@
       "variant_quota_index": 71,
       "variant_index": 15,
       "position": {
-        "x": 76.5,
-        "y": 220.50076,
-        "z": 66.50008
+        "x": 76.49994,
+        "y": 220.50089,
+        "z": 66.5
       },
       "forward": {
-        "i": 0.009636253,
-        "j": 0.00019167965,
-        "k": -0.9999536
+        "i": 0.0120161045,
+        "j": 0.00019167467,
+        "k": -0.99992776
       },
       "up": {
-        "i": 0.99990714,
-        "j": 0.009637653,
-        "k": 0.009637653
+        "i": 0.9998555,
+        "j": 0.01201754,
+        "k": 0.01201754
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -5672,19 +5680,19 @@
       "variant_quota_index": 71,
       "variant_index": 15,
       "position": {
-        "x": 76.5,
-        "y": 225.50046,
-        "z": 66.50008
+        "x": 76.49994,
+        "y": 225.50058,
+        "z": 66.5
       },
       "forward": {
-        "i": 0.009636253,
-        "j": 0.00019167965,
-        "k": -0.9999536
+        "i": 0.0120161045,
+        "j": 0.00019167467,
+        "k": -0.99992776
       },
       "up": {
-        "i": 0.99990714,
-        "j": 0.009637653,
-        "k": 0.009637653
+        "i": 0.9998555,
+        "j": 0.01201754,
+        "k": 0.01201754
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -5706,19 +5714,19 @@
       "variant_quota_index": 71,
       "variant_index": 15,
       "position": {
-        "x": 76.5,
-        "y": 225.50046,
-        "z": 61.500153
+        "x": 76.49994,
+        "y": 225.50058,
+        "z": 61.50009
       },
       "forward": {
-        "i": 0.009636253,
-        "j": 0.00019167965,
-        "k": -0.9999536
+        "i": 0.0120161045,
+        "j": 0.00019167467,
+        "k": -0.99992776
       },
       "up": {
-        "i": 0.99990714,
-        "j": 0.009637653,
-        "k": 0.009637653
+        "i": 0.9998555,
+        "j": 0.01201754,
+        "k": 0.01201754
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -5740,19 +5748,19 @@
       "variant_quota_index": 71,
       "variant_index": 15,
       "position": {
-        "x": 76.5,
-        "y": 200.50064,
-        "z": 61.500153
+        "x": 76.49994,
+        "y": 200.50076,
+        "z": 61.50009
       },
       "forward": {
-        "i": 0.009636253,
-        "j": 0.00019167965,
-        "k": -0.9999536
+        "i": 0.0120161045,
+        "j": 0.00019167467,
+        "k": -0.99992776
       },
       "up": {
-        "i": 0.99990714,
-        "j": 0.009637653,
-        "k": 0.009637653
+        "i": 0.9998555,
+        "j": 0.01201754,
+        "k": 0.01201754
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -5774,19 +5782,19 @@
       "variant_quota_index": 71,
       "variant_index": 15,
       "position": {
-        "x": 76.5,
-        "y": 200.50064,
-        "z": 66.50008
+        "x": 76.49994,
+        "y": 200.50076,
+        "z": 66.5
       },
       "forward": {
-        "i": 0.009636253,
-        "j": 0.00019167965,
-        "k": -0.9999536
+        "i": 0.0120161045,
+        "j": 0.00019167467,
+        "k": -0.99992776
       },
       "up": {
-        "i": 0.99990714,
-        "j": 0.009637653,
-        "k": 0.009637653
+        "i": 0.9998555,
+        "j": 0.01201754,
+        "k": 0.01201754
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -5808,19 +5816,19 @@
       "variant_quota_index": 71,
       "variant_index": 15,
       "position": {
-        "x": 76.5,
-        "y": 215.50076,
-        "z": 71.50001
+        "x": 76.49994,
+        "y": 215.50082,
+        "z": 71.49991
       },
       "forward": {
-        "i": 0.009636253,
-        "j": 0.00019167965,
-        "k": -0.9999536
+        "i": 0.0120161045,
+        "j": 0.00019167467,
+        "k": -0.99992776
       },
       "up": {
-        "i": 0.99990714,
-        "j": 0.009637653,
-        "k": 0.009637653
+        "i": 0.9998555,
+        "j": 0.01201754,
+        "k": 0.01201754
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -5842,19 +5850,19 @@
       "variant_quota_index": 71,
       "variant_index": 15,
       "position": {
-        "x": 76.5,
-        "y": 210.5007,
-        "z": 71.50001
+        "x": 76.49994,
+        "y": 210.50082,
+        "z": 71.49991
       },
       "forward": {
-        "i": 0.009636253,
-        "j": 0.00019167965,
-        "k": -0.9999536
+        "i": 0.0120161045,
+        "j": 0.00019167467,
+        "k": -0.99992776
       },
       "up": {
-        "i": 0.99990714,
-        "j": 0.009637653,
-        "k": 0.009637653
+        "i": 0.9998555,
+        "j": 0.01201754,
+        "k": 0.01201754
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -5876,19 +5884,19 @@
       "variant_quota_index": 71,
       "variant_index": 15,
       "position": {
-        "x": 76.5,
-        "y": 205.50064,
-        "z": 71.50001
+        "x": 76.49994,
+        "y": 205.50076,
+        "z": 71.49991
       },
       "forward": {
-        "i": 0.009636253,
-        "j": 0.00019167965,
-        "k": -0.9999536
+        "i": 0.0120161045,
+        "j": 0.00019167467,
+        "k": -0.99992776
       },
       "up": {
-        "i": 0.99990714,
-        "j": 0.009637653,
-        "k": 0.009637653
+        "i": 0.9998555,
+        "j": 0.01201754,
+        "k": 0.01201754
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -5910,19 +5918,19 @@
       "variant_quota_index": 71,
       "variant_index": 15,
       "position": {
-        "x": 76.5,
-        "y": 220.50076,
-        "z": 71.50001
+        "x": 76.49994,
+        "y": 220.50089,
+        "z": 71.49991
       },
       "forward": {
-        "i": 0.009636253,
-        "j": 0.00019167965,
-        "k": -0.9999536
+        "i": 0.0120161045,
+        "j": 0.00019167467,
+        "k": -0.99992776
       },
       "up": {
-        "i": 0.99990714,
-        "j": 0.009637653,
-        "k": 0.009637653
+        "i": 0.9998555,
+        "j": 0.01201754,
+        "k": 0.01201754
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -5944,19 +5952,19 @@
       "variant_quota_index": 71,
       "variant_index": 15,
       "position": {
-        "x": 76.5,
-        "y": 210.5007,
-        "z": 76.500206
+        "x": 76.49994,
+        "y": 210.50082,
+        "z": 76.500084
       },
       "forward": {
-        "i": 0.009636253,
-        "j": 0.00019167965,
-        "k": -0.9999536
+        "i": 0.0120161045,
+        "j": 0.00019167467,
+        "k": -0.99992776
       },
       "up": {
-        "i": 0.99990714,
-        "j": 0.009637653,
-        "k": 0.009637653
+        "i": 0.9998555,
+        "j": 0.01201754,
+        "k": 0.01201754
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -5978,19 +5986,19 @@
       "variant_quota_index": 71,
       "variant_index": 15,
       "position": {
-        "x": 76.5,
-        "y": 215.50076,
-        "z": 76.500206
+        "x": 76.49994,
+        "y": 215.50082,
+        "z": 76.500084
       },
       "forward": {
-        "i": 0.009636253,
-        "j": 0.00019167965,
-        "k": -0.9999536
+        "i": 0.0120161045,
+        "j": 0.00019167467,
+        "k": -0.99992776
       },
       "up": {
-        "i": 0.99990714,
-        "j": 0.009637653,
-        "k": 0.009637653
+        "i": 0.9998555,
+        "j": 0.01201754,
+        "k": 0.01201754
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -6012,19 +6020,19 @@
       "variant_quota_index": 70,
       "variant_index": 8,
       "position": {
-        "x": 75.01663,
-        "y": 218.00095,
-        "z": 63.999977
+        "x": 75.01654,
+        "y": 218.001,
+        "z": 63.99991
       },
       "forward": {
-        "i": 0.010222057,
-        "j": 0.7069385,
-        "k": 0.70720124
+        "i": 0.013596419,
+        "j": 0.7069202,
+        "k": 0.7071626
       },
       "up": {
-        "i": -0.99994195,
-        "j": 0.009637988,
-        "k": 0.004818994
+        "i": -0.9999018,
+        "j": 0.012018096,
+        "k": 0.0072108577
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -6046,19 +6054,19 @@
       "variant_quota_index": 70,
       "variant_index": 8,
       "position": {
-        "x": 75.00009,
-        "y": 223.00064,
-        "z": 63.999977
+        "x": 75.00003,
+        "y": 223.0007,
+        "z": 63.99991
       },
       "forward": {
-        "i": 0.0034097391,
-        "j": -0.70696306,
-        "k": 0.70724225
+        "i": 0.0034024254,
+        "j": -0.7069529,
+        "k": 0.7072525
       },
       "up": {
-        "i": -0.99994195,
-        "j": 0.004818994,
-        "k": 0.009637988
+        "i": -0.9999018,
+        "j": 0.0072108577,
+        "k": 0.012018096
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -6080,19 +6088,19 @@
       "variant_quota_index": 70,
       "variant_index": 8,
       "position": {
-        "x": 75.016174,
-        "y": 208.0015,
-        "z": 63.999977
+        "x": 75.01608,
+        "y": 208.00162,
+        "z": 63.99991
       },
       "forward": {
-        "i": 0.0034097391,
-        "j": -0.70696306,
-        "k": 0.70724225
+        "i": 0.0034024254,
+        "j": -0.7069529,
+        "k": 0.7072525
       },
       "up": {
-        "i": -0.99994195,
-        "j": 0.004818994,
-        "k": 0.009637988
+        "i": -0.9999018,
+        "j": 0.0072108577,
+        "k": 0.012018096
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -6114,9 +6122,9 @@
       "variant_quota_index": 74,
       "variant_index": 9,
       "position": {
-        "x": 77.90033,
-        "y": 204.00076,
-        "z": 57.19995
+        "x": 77.90024,
+        "y": 204.00089,
+        "z": 57.199905
       },
       "forward": {
         "i": 0.00057514105,
@@ -6148,9 +6156,9 @@
       "variant_quota_index": 74,
       "variant_index": 9,
       "position": {
-        "x": 77.90033,
-        "y": 222.0007,
-        "z": 57.19995
+        "x": 77.90024,
+        "y": 222.00076,
+        "z": 57.199905
       },
       "forward": {
         "i": 0.00019164482,
@@ -6182,19 +6190,19 @@
       "variant_quota_index": 41,
       "variant_index": 0,
       "position": {
-        "x": 63.499237,
-        "y": 222.47354,
-        "z": 60.809143
+        "x": 63.499176,
+        "y": 222.4736,
+        "z": 60.80909
       },
       "forward": {
-        "i": 0.9999896,
-        "j": -0.004468653,
-        "k": 0.0009830195
+        "i": 0.99997675,
+        "j": -0.006585416,
+        "k": 0.0017477986
       },
       "up": {
-        "i": 0.004539207,
-        "j": 0.94188607,
-        "k": -0.33590153
+        "i": 0.0067890594,
+        "j": 0.9414126,
+        "k": -0.33718866
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -6216,9 +6224,9 @@
       "variant_quota_index": 71,
       "variant_index": 6,
       "position": {
-        "x": 77.700226,
-        "y": 200.10074,
-        "z": 60.10016
+        "x": 77.700134,
+        "y": 200.1008,
+        "z": 60.100105
       },
       "forward": {
         "i": -0.7067001,
@@ -6250,9 +6258,9 @@
       "variant_quota_index": 71,
       "variant_index": 6,
       "position": {
-        "x": 77.700226,
-        "y": 225.90073,
-        "z": 60.10016
+        "x": 77.700134,
+        "y": 225.90079,
+        "z": 60.100105
       },
       "forward": {
         "i": 0.70724225,
@@ -6284,9 +6292,9 @@
       "variant_quota_index": 71,
       "variant_index": 6,
       "position": {
-        "x": 49.40013,
-        "y": 225.90073,
-        "z": 60.10016
+        "x": 49.4001,
+        "y": 225.90079,
+        "z": 60.100105
       },
       "forward": {
         "i": 0.70697117,
@@ -6318,19 +6326,19 @@
       "variant_quota_index": 73,
       "variant_index": 14,
       "position": {
-        "x": 64.20007,
-        "y": 213.00058,
-        "z": 59.100014
+        "x": 64.20001,
+        "y": 213.00064,
+        "z": 59.09996
       },
       "forward": {
-        "i": 0.0048200293,
-        "j": -0.99998844,
-        "k": -0.00016841802
+        "i": 0.0072123855,
+        "j": -0.999974,
+        "k": -0.00013963722
       },
       "up": {
-        "i": 0.99997675,
-        "j": 0.0048191617,
-        "k": 0.0048191617
+        "i": 0.999948,
+        "j": 0.007211191,
+        "k": 0.007211191
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -6352,19 +6360,19 @@
       "variant_quota_index": 70,
       "variant_index": 8,
       "position": {
-        "x": 75.01663,
-        "y": 203.0015,
-        "z": 63.999977
+        "x": 75.01654,
+        "y": 203.00156,
+        "z": 63.99991
       },
       "forward": {
-        "i": 0.0034097391,
-        "j": -0.70696306,
-        "k": 0.70724225
+        "i": 0.0034024254,
+        "j": -0.7069529,
+        "k": 0.7072525
       },
       "up": {
-        "i": -0.99994195,
-        "j": 0.004818994,
-        "k": 0.009637988
+        "i": -0.9999018,
+        "j": 0.0072108577,
+        "k": 0.012018096
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -6386,19 +6394,19 @@
       "variant_quota_index": 70,
       "variant_index": 8,
       "position": {
-        "x": 75.01294,
-        "y": 218.00125,
-        "z": 69.000175
+        "x": 75.01288,
+        "y": 218.00131,
+        "z": 69.00009
       },
       "forward": {
-        "i": -0.0034092662,
-        "j": -0.7072096,
-        "k": 0.70699584
+        "i": -0.0034012487,
+        "j": -0.7071913,
+        "k": 0.7070141
       },
       "up": {
-        "i": -0.99994195,
-        "j": 0.009637988,
-        "k": 0.004818994
+        "i": -0.9999018,
+        "j": 0.012018096,
+        "k": 0.0072108577
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -6420,19 +6428,19 @@
       "variant_quota_index": 70,
       "variant_index": 8,
       "position": {
-        "x": 75.01572,
-        "y": 213.00156,
-        "z": 69.000175
+        "x": 75.015625,
+        "y": 213.00162,
+        "z": 69.00009
       },
       "forward": {
-        "i": 0.0034097391,
-        "j": -0.70696306,
-        "k": 0.70724225
+        "i": 0.0034024254,
+        "j": -0.7069529,
+        "k": 0.7072525
       },
       "up": {
-        "i": -0.99994195,
-        "j": 0.004818994,
-        "k": 0.009637988
+        "i": -0.9999018,
+        "j": 0.0072108577,
+        "k": 0.012018096
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -6454,19 +6462,19 @@
       "variant_quota_index": 70,
       "variant_index": 8,
       "position": {
-        "x": 75.01663,
-        "y": 208.00119,
-        "z": 69.000175
+        "x": 75.01654,
+        "y": 208.00125,
+        "z": 69.00009
       },
       "forward": {
-        "i": -0.0034092662,
-        "j": -0.7072096,
-        "k": 0.70699584
+        "i": -0.0034012487,
+        "j": -0.7071913,
+        "k": 0.7070141
       },
       "up": {
-        "i": -0.99994195,
-        "j": 0.009637988,
-        "k": 0.004818994
+        "i": -0.9999018,
+        "j": 0.012018096,
+        "k": 0.0072108577
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -6488,19 +6496,19 @@
       "variant_quota_index": 70,
       "variant_index": 8,
       "position": {
-        "x": 75.01111,
-        "y": 213.00156,
-        "z": 73.9982
+        "x": 75.01105,
+        "y": 213.00162,
+        "z": 73.998085
       },
       "forward": {
-        "i": 0.0034097391,
-        "j": -0.70696306,
-        "k": 0.70724225
+        "i": 0.0034024254,
+        "j": -0.7069529,
+        "k": 0.7072525
       },
       "up": {
-        "i": -0.99994195,
-        "j": 0.004818994,
-        "k": 0.009637988
+        "i": -0.9999018,
+        "j": 0.0072108577,
+        "k": 0.012018096
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -6522,9 +6530,9 @@
       "variant_quota_index": 71,
       "variant_index": 6,
       "position": {
-        "x": 63.500153,
-        "y": 227.20053,
-        "z": 60.10016
+        "x": 63.50009,
+        "y": 227.20059,
+        "z": 60.100105
       },
       "forward": {
         "i": 1.0,
@@ -6556,9 +6564,9 @@
       "variant_quota_index": 71,
       "variant_index": 6,
       "position": {
-        "x": 48.99991,
-        "y": 200.40054,
-        "z": 60.10016
+        "x": 48.999878,
+        "y": 200.40067,
+        "z": 60.100105
       },
       "forward": {
         "i": -0.7072425,
@@ -6590,19 +6598,19 @@
       "variant_quota_index": 73,
       "variant_index": 14,
       "position": {
-        "x": 64.20007,
-        "y": 217.00064,
-        "z": 59.100014
+        "x": 64.20001,
+        "y": 217.00076,
+        "z": 59.09996
       },
       "forward": {
-        "i": 0.009639053,
-        "j": -0.9999536,
-        "k": -0.00009874726
+        "i": 0.012018977,
+        "j": -0.9999278,
+        "k": -0.000047199268
       },
       "up": {
-        "i": 0.99990714,
-        "j": 0.009637653,
-        "k": 0.009637653
+        "i": 0.9998555,
+        "j": 0.01201754,
+        "k": 0.01201754
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -6624,19 +6632,19 @@
       "variant_quota_index": 73,
       "variant_index": 14,
       "position": {
-        "x": 62.8002,
-        "y": 209.00046,
-        "z": 59.100014
+        "x": 62.80017,
+        "y": 209.00058,
+        "z": 59.09996
       },
       "forward": {
-        "i": 0.009635358,
-        "j": 0.9999535,
-        "k": -0.0002844928
+        "i": 0.01201437,
+        "j": 0.9999278,
+        "k": -0.00033603096
       },
       "up": {
-        "i": -0.99990714,
-        "j": 0.009637653,
-        "k": 0.009637653
+        "i": -0.9998555,
+        "j": 0.01201754,
+        "k": 0.01201754
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -6658,9 +6666,9 @@
       "variant_quota_index": 53,
       "variant_index": 2,
       "position": {
-        "x": 52.10025,
-        "y": 213.00058,
-        "z": 63.999977
+        "x": 52.10022,
+        "y": 213.00064,
+        "z": 63.99991
       },
       "forward": {
         "i": 1.0,
@@ -6692,9 +6700,9 @@
       "variant_quota_index": 53,
       "variant_index": 2,
       "position": {
-        "x": 74.900055,
-        "y": 213.00058,
-        "z": 63.999977
+        "x": 74.89996,
+        "y": 213.00064,
+        "z": 63.99991
       },
       "forward": {
         "i": 1.0,
@@ -6726,19 +6734,19 @@
       "variant_quota_index": 56,
       "variant_index": 0,
       "position": {
-        "x": 66.00015,
-        "y": 213.00058,
-        "z": 61.500153
+        "x": 66.00009,
+        "y": 213.00064,
+        "z": 61.50009
       },
       "forward": {
-        "i": -0.9601296,
-        "j": -0.24591202,
-        "k": -0.13295996
+        "i": -0.96011114,
+        "j": -0.24680059,
+        "k": -0.1314384
       },
       "up": {
-        "i": 0.008343455,
-        "j": -0.50060767,
-        "k": 0.8656341
+        "i": 0.010399524,
+        "j": -0.5012551,
+        "k": 0.8652371
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -6760,19 +6768,19 @@
       "variant_quota_index": 46,
       "variant_index": 0,
       "position": {
-        "x": 48.800247,
-        "y": 208.00052,
-        "z": 61.00035
+        "x": 48.800232,
+        "y": 208.00064,
+        "z": 61.00029
       },
       "forward": {
-        "i": 0.004820142,
-        "j": -0.00019168633,
-        "k": -0.99998844
+        "i": 0.0072127604,
+        "j": -0.00019168356,
+        "k": -0.999974
       },
       "up": {
-        "i": 0.99997675,
-        "j": 0.0048191617,
-        "k": 0.0048191617
+        "i": 0.999948,
+        "j": 0.007211191,
+        "k": 0.007211191
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -6794,19 +6802,19 @@
       "variant_quota_index": 74,
       "variant_index": 9,
       "position": {
-        "x": 49.600235,
-        "y": 206.60068,
-        "z": 60.500008
+        "x": 49.600204,
+        "y": 206.60074,
+        "z": 60.499947
       },
       "forward": {
-        "i": 0.004818182,
-        "j": -0.99998844,
-        "k": 0.00021495463
+        "i": 0.007209621,
+        "j": -0.999974,
+        "k": 0.0002437299
       },
       "up": {
-        "i": 0.99997675,
-        "j": 0.0048191617,
-        "k": 0.0048191617
+        "i": 0.999948,
+        "j": 0.007211191,
+        "k": 0.007211191
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -6828,19 +6836,19 @@
       "variant_quota_index": 46,
       "variant_index": 0,
       "position": {
-        "x": 48.800247,
-        "y": 218.00058,
-        "z": 61.00035
+        "x": 48.800232,
+        "y": 218.0007,
+        "z": 61.00029
       },
       "forward": {
-        "i": 0.009639024,
-        "j": -0.0001916863,
-        "k": -0.9999535
+        "i": 0.01201979,
+        "j": -0.00019168353,
+        "k": -0.99992776
       },
       "up": {
-        "i": 0.99994195,
-        "j": 0.004818994,
-        "k": 0.009637988
+        "i": 0.9999018,
+        "j": 0.0072108577,
+        "k": 0.012018096
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -6862,19 +6870,19 @@
       "variant_quota_index": 46,
       "variant_index": 0,
       "position": {
-        "x": 74.2001,
-        "y": 218.00058,
-        "z": 61.00035
+        "x": 74.20004,
+        "y": 218.0007,
+        "z": 61.00029
       },
       "forward": {
-        "i": 0.009636253,
-        "j": 0.00019167965,
-        "k": -0.9999536
+        "i": 0.0120161045,
+        "j": 0.00019167467,
+        "k": -0.99992776
       },
       "up": {
-        "i": 0.99990714,
-        "j": 0.009637653,
-        "k": 0.009637653
+        "i": 0.9998555,
+        "j": 0.01201754,
+        "k": 0.01201754
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -6896,19 +6904,19 @@
       "variant_quota_index": 46,
       "variant_index": 0,
       "position": {
-        "x": 74.2001,
-        "y": 208.00052,
-        "z": 61.000626
+        "x": 74.20004,
+        "y": 208.00064,
+        "z": 61.000565
       },
       "forward": {
-        "i": 0.009636253,
-        "j": 0.00019167965,
-        "k": -0.9999536
+        "i": 0.0120161045,
+        "j": 0.00019167467,
+        "k": -0.99992776
       },
       "up": {
-        "i": 0.99990714,
-        "j": 0.009637653,
-        "k": 0.009637653
+        "i": 0.9998555,
+        "j": 0.01201754,
+        "k": 0.01201754
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -6930,19 +6938,19 @@
       "variant_quota_index": 74,
       "variant_index": 9,
       "position": {
-        "x": 49.600235,
-        "y": 219.40042,
-        "z": 60.500008
+        "x": 49.600204,
+        "y": 219.40054,
+        "z": 60.499947
       },
       "forward": {
-        "i": -0.0048181815,
-        "j": 0.99998844,
-        "k": -0.00021498642
+        "i": -0.0072096214,
+        "j": 0.999974,
+        "k": -0.00024376168
       },
       "up": {
-        "i": 0.99997675,
-        "j": 0.0048191617,
-        "k": 0.0048191617
+        "i": 0.999948,
+        "j": 0.007211191,
+        "k": 0.007211191
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -6964,19 +6972,19 @@
       "variant_quota_index": 74,
       "variant_index": 9,
       "position": {
-        "x": 77.400055,
-        "y": 206.60068,
-        "z": 60.500008
+        "x": 77.39996,
+        "y": 206.60074,
+        "z": 60.499947
       },
       "forward": {
-        "i": -0.0048206183,
-        "j": -0.99998844,
-        "k": -0.00014527742
+        "i": -0.0072126416,
+        "j": -0.9999741,
+        "k": -0.000105055384
       },
       "up": {
-        "i": -0.99994195,
-        "j": 0.004818994,
-        "k": 0.009637988
+        "i": -0.9999018,
+        "j": 0.0072108577,
+        "k": 0.012018096
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {
@@ -6998,19 +7006,19 @@
       "variant_quota_index": 74,
       "variant_index": 9,
       "position": {
-        "x": 77.400055,
-        "y": 219.40042,
-        "z": 60.500008
+        "x": 77.39996,
+        "y": 219.40054,
+        "z": 60.499947
       },
       "forward": {
-        "i": 0.009635358,
-        "j": 0.9999535,
-        "k": -0.0002844928
+        "i": 0.01201437,
+        "j": 0.9999278,
+        "k": -0.00033603096
       },
       "up": {
-        "i": -0.99990714,
-        "j": 0.009637653,
-        "k": 0.009637653
+        "i": -0.9998555,
+        "j": 0.01201754,
+        "k": 0.01201754
       },
       "spawn_relative_to": -1,
       "multiplayer_game_object_properties": {

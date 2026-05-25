@@ -5,25 +5,33 @@
     "m_build_number": -1,
     "m_base_variant": {
       "m_metadata": {
-        "file_type": 6,
-        "size_in_bytes": 21289,
-        "unique_id": 4967016692002710496,
-        "parent_unique_id": 4967016692002710496,
-        "root_unique_id": 4967016692002710496,
-        "game_id": 0,
-        "activity": 3,
-        "game_mode": 3,
-        "game_engine_type": 2,
-        "map_id": -1,
-        "megalo_category_index": 0,
-        "creation_time": "2010-09-14 00:00:00",
-        "creator_xuid": "0000000000000000",
-        "creator_name": "",
-        "creator_xuid_is_online": true,
-        "modification_time": "2010-09-14 00:00:00",
-        "modifier_xuid": "0000000000000000",
-        "modifier_name": "",
-        "modifier_xuid_is_online": true,
+        "general": {
+          "file_type": 6,
+          "size_in_bytes": 21289,
+          "unique_id": 4967016692002710496,
+          "parent_unique_id": 4967016692002710496,
+          "root_unique_id": 4967016692002710496,
+          "game_id": 0,
+          "activity": 3,
+          "game_mode": 3,
+          "game_engine_type": 2,
+          "map_id": -1
+        },
+        "display": {
+          "megalo_category_index": 0
+        },
+        "creation_history": {
+          "timestamp": "2010-09-14 00:00:00",
+          "xuid": "0000000000000000",
+          "name": "",
+          "is_online": true
+        },
+        "modification_history": {
+          "timestamp": "2010-09-14 00:00:00",
+          "xuid": "0000000000000000",
+          "name": "",
+          "is_online": true
+        },
         "name": "CAPTURE THE FLAG",
         "description": "$hr_gvar_Capture_the_Flag_desc",
         "game_variant_data": {
@@ -5107,7 +5115,7 @@
             "m_player": {
               "m_type": 0,
               "m_player": {
-                "m_explicit_player_type": 25
+                "m_explicit_player_type": "current"
               }
             },
             "m_killer_type": 4
@@ -5133,7 +5141,7 @@
                 "m_immediate_value": 2
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -5145,7 +5153,7 @@
             "m_object": {
               "m_type": 0,
               "m_object": {
-                "m_explicit_object_type": 1
+                "m_explicit_object_type": "global_0"
               }
             },
             "m_filter_index": 0
@@ -5159,7 +5167,7 @@
           "m_object_reference_1": {
             "m_type": 0,
             "m_object": {
-              "m_explicit_object_type": 1
+              "m_explicit_object_type": "global_0"
             }
           }
         },
@@ -5172,7 +5180,7 @@
             "m_player": {
               "m_type": 0,
               "m_player": {
-                "m_explicit_player_type": 25
+                "m_explicit_player_type": "current"
               }
             },
             "m_killer_type": 4
@@ -5198,7 +5206,7 @@
                 "m_immediate_value": 4
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -5210,7 +5218,7 @@
             "m_player": {
               "m_type": 0,
               "m_player": {
-                "m_explicit_player_type": 17
+                "m_explicit_player_type": "global_0"
               }
             },
             "m_killer_type": 2
@@ -5236,7 +5244,7 @@
                 "m_immediate_value": 5
               }
             },
-            "m_comparison": 5
+            "m_comparison": "not_equal_to"
           }
         },
         {
@@ -5248,7 +5256,7 @@
             "m_player": {
               "m_type": 0,
               "m_player": {
-                "m_explicit_player_type": 25
+                "m_explicit_player_type": "current"
               }
             },
             "m_killer_type": 31
@@ -5263,7 +5271,7 @@
             "m_player": {
               "m_type": 0,
               "m_player": {
-                "m_explicit_player_type": 25
+                "m_explicit_player_type": "current"
               }
             },
             "m_killer_type": 4
@@ -5289,7 +5297,7 @@
                 "m_immediate_value": 5
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -5303,7 +5311,7 @@
               "m_custom_variable": {
                 "m_type": 1,
                 "m_player": {
-                  "m_explicit_player_type": 17
+                  "m_explicit_player_type": "global_0"
                 },
                 "m_variable_index": 0
               }
@@ -5315,7 +5323,7 @@
                 "m_immediate_value": 2
               }
             },
-            "m_comparison": 1
+            "m_comparison": "greater_than"
           }
         },
         {
@@ -5327,7 +5335,7 @@
             "m_player": {
               "m_type": 0,
               "m_player": {
-                "m_explicit_player_type": 25
+                "m_explicit_player_type": "current"
               }
             },
             "m_killer_type": 4
@@ -5344,7 +5352,7 @@
               "m_object": {
                 "m_type": 0,
                 "m_object": {
-                  "m_explicit_object_type": 1
+                  "m_explicit_object_type": "global_0"
                 }
               }
             },
@@ -5353,11 +5361,11 @@
               "m_object": {
                 "m_type": 0,
                 "m_object": {
-                  "m_explicit_object_type": 0
+                  "m_explicit_object_type": "no_object"
                 }
               }
             },
-            "m_comparison": 5
+            "m_comparison": "not_equal_to"
           }
         },
         {
@@ -5380,7 +5388,7 @@
                 "m_immediate_value": 3
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -5394,7 +5402,7 @@
               "m_custom_variable": {
                 "m_type": 1,
                 "m_player": {
-                  "m_explicit_player_type": 17
+                  "m_explicit_player_type": "global_0"
                 },
                 "m_variable_index": 1
               }
@@ -5406,7 +5414,7 @@
                 "m_immediate_value": 4
               }
             },
-            "m_comparison": 1
+            "m_comparison": "greater_than"
           }
         },
         {
@@ -5418,7 +5426,7 @@
             "m_object": {
               "m_type": 0,
               "m_object": {
-                "m_explicit_object_type": 1
+                "m_explicit_object_type": "global_0"
               }
             },
             "m_filter_index": 1
@@ -5432,7 +5440,7 @@
           "m_object_reference_1": {
             "m_type": 0,
             "m_object": {
-              "m_explicit_object_type": 1
+              "m_explicit_object_type": "global_0"
             }
           }
         },
@@ -5445,7 +5453,7 @@
             "m_player": {
               "m_type": 0,
               "m_player": {
-                "m_explicit_player_type": 25
+                "m_explicit_player_type": "current"
               }
             },
             "m_killer_type": 4
@@ -5459,7 +5467,7 @@
           "m_timer": {
             "m_type": "player",
             "m_player": {
-              "m_explicit_player_type": 25
+              "m_explicit_player_type": "current"
             },
             "m_variable_index": 0
           }
@@ -5484,7 +5492,7 @@
                 "m_immediate_value": 2
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -5507,7 +5515,7 @@
                 "m_immediate_value": 1
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -5518,7 +5526,7 @@
           "m_player_reference_1": {
             "m_type": 0,
             "m_player": {
-              "m_explicit_player_type": 25
+              "m_explicit_player_type": "current"
             }
           }
         },
@@ -5530,7 +5538,7 @@
           "m_player_reference_1": {
             "m_type": 0,
             "m_player": {
-              "m_explicit_player_type": 25
+              "m_explicit_player_type": "current"
             }
           }
         },
@@ -5554,7 +5562,7 @@
                 "m_immediate_value": 1
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -5568,7 +5576,7 @@
               "m_team": {
                 "m_type": 4,
                 "m_player": {
-                  "m_explicit_player_type": 25
+                  "m_explicit_player_type": "current"
                 }
               }
             },
@@ -5577,11 +5585,11 @@
               "m_team": {
                 "m_type": 0,
                 "m_team": {
-                  "m_explicit_team_type": 2
+                  "m_explicit_team_type": "team_1"
                 }
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -5604,7 +5612,7 @@
                 "m_immediate_value": 1
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -5618,7 +5626,7 @@
               "m_team": {
                 "m_type": 4,
                 "m_player": {
-                  "m_explicit_player_type": 25
+                  "m_explicit_player_type": "current"
                 }
               }
             },
@@ -5627,11 +5635,11 @@
               "m_team": {
                 "m_type": 0,
                 "m_team": {
-                  "m_explicit_team_type": 1
+                  "m_explicit_team_type": "team_0"
                 }
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -5653,7 +5661,7 @@
                 "m_immediate_value": 0
               }
             },
-            "m_comparison": 5
+            "m_comparison": "not_equal_to"
           }
         },
         {
@@ -5676,7 +5684,7 @@
                 "m_immediate_value": 2
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -5699,7 +5707,7 @@
                 "m_immediate_value": 0
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -5722,7 +5730,7 @@
                 "m_immediate_value": 3
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -5744,7 +5752,7 @@
                 "m_immediate_value": 0
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -5767,7 +5775,7 @@
                 "m_immediate_value": 2
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -5790,7 +5798,7 @@
                 "m_immediate_value": 0
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -5813,7 +5821,7 @@
                 "m_immediate_value": 3
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -5836,7 +5844,7 @@
                 "m_immediate_value": 1
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -5850,7 +5858,7 @@
               "m_team": {
                 "m_type": 4,
                 "m_player": {
-                  "m_explicit_player_type": 25
+                  "m_explicit_player_type": "current"
                 }
               }
             },
@@ -5859,11 +5867,11 @@
               "m_team": {
                 "m_type": 0,
                 "m_team": {
-                  "m_explicit_team_type": 2
+                  "m_explicit_team_type": "team_1"
                 }
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -5886,7 +5894,7 @@
                 "m_immediate_value": 1
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -5900,7 +5908,7 @@
               "m_team": {
                 "m_type": 4,
                 "m_player": {
-                  "m_explicit_player_type": 25
+                  "m_explicit_player_type": "current"
                 }
               }
             },
@@ -5909,11 +5917,11 @@
               "m_team": {
                 "m_type": 0,
                 "m_team": {
-                  "m_explicit_team_type": 1
+                  "m_explicit_team_type": "team_0"
                 }
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -5927,7 +5935,7 @@
               "m_custom_variable": {
                 "m_type": 1,
                 "m_player": {
-                  "m_explicit_player_type": 25
+                  "m_explicit_player_type": "current"
                 },
                 "m_variable_index": 2
               }
@@ -5939,7 +5947,7 @@
                 "m_immediate_value": 0
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -5950,7 +5958,7 @@
           "m_timer": {
             "m_type": "player",
             "m_player": {
-              "m_explicit_player_type": 25
+              "m_explicit_player_type": "current"
             },
             "m_variable_index": 3
           }
@@ -5966,7 +5974,7 @@
               "m_object": {
                 "m_type": 3,
                 "m_team": {
-                  "m_explicit_team_type": 18
+                  "m_explicit_team_type": "current"
                 },
                 "m_variable_index": 0
               }
@@ -5976,11 +5984,11 @@
               "m_object": {
                 "m_type": 0,
                 "m_object": {
-                  "m_explicit_object_type": 0
+                  "m_explicit_object_type": "no_object"
                 }
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -5994,7 +6002,7 @@
               "m_team": {
                 "m_type": 5,
                 "m_object": {
-                  "m_explicit_object_type": 17
+                  "m_explicit_object_type": "current"
                 }
               }
             },
@@ -6003,11 +6011,11 @@
               "m_team": {
                 "m_type": 0,
                 "m_team": {
-                  "m_explicit_team_type": 18
+                  "m_explicit_team_type": "current"
                 }
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -6021,7 +6029,7 @@
               "m_object": {
                 "m_type": 3,
                 "m_team": {
-                  "m_explicit_team_type": 18
+                  "m_explicit_team_type": "current"
                 },
                 "m_variable_index": 0
               }
@@ -6031,11 +6039,11 @@
               "m_object": {
                 "m_type": 0,
                 "m_object": {
-                  "m_explicit_object_type": 0
+                  "m_explicit_object_type": "no_object"
                 }
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -6058,7 +6066,7 @@
                 "m_immediate_value": 0
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -6072,7 +6080,7 @@
               "m_team": {
                 "m_type": 0,
                 "m_team": {
-                  "m_explicit_team_type": 18
+                  "m_explicit_team_type": "current"
                 }
               }
             },
@@ -6081,11 +6089,11 @@
               "m_team": {
                 "m_type": 0,
                 "m_team": {
-                  "m_explicit_team_type": 9
+                  "m_explicit_team_type": "neutral_team"
                 }
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -6096,7 +6104,7 @@
           "m_team_reference": {
             "m_type": 0,
             "m_team": {
-              "m_explicit_team_type": 18
+              "m_explicit_team_type": "current"
             }
           }
         },
@@ -6120,7 +6128,7 @@
                 "m_immediate_value": 1
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -6134,7 +6142,7 @@
               "m_team": {
                 "m_type": 0,
                 "m_team": {
-                  "m_explicit_team_type": 18
+                  "m_explicit_team_type": "current"
                 }
               }
             },
@@ -6143,11 +6151,11 @@
               "m_team": {
                 "m_type": 0,
                 "m_team": {
-                  "m_explicit_team_type": 1
+                  "m_explicit_team_type": "team_0"
                 }
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -6170,7 +6178,7 @@
                 "m_immediate_value": 2
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -6184,7 +6192,7 @@
               "m_team": {
                 "m_type": 0,
                 "m_team": {
-                  "m_explicit_team_type": 18
+                  "m_explicit_team_type": "current"
                 }
               }
             },
@@ -6193,11 +6201,11 @@
               "m_team": {
                 "m_type": 0,
                 "m_team": {
-                  "m_explicit_team_type": 9
+                  "m_explicit_team_type": "neutral_team"
                 }
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -6220,7 +6228,7 @@
                 "m_immediate_value": 3
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -6231,7 +6239,7 @@
           "m_object_reference_1": {
             "m_type": 0,
             "m_object": {
-              "m_explicit_object_type": 17
+              "m_explicit_object_type": "current"
             }
           },
           "m_object_type_reference": {
@@ -6258,7 +6266,7 @@
                 "m_immediate_value": 1
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -6281,7 +6289,7 @@
                 "m_immediate_value": 2
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -6295,7 +6303,7 @@
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 17
+                  "m_explicit_player_type": "global_0"
                 }
               }
             },
@@ -6304,11 +6312,11 @@
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 0
+                  "m_explicit_player_type": "no_player"
                 }
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -6322,7 +6330,7 @@
               "m_team": {
                 "m_type": 4,
                 "m_player": {
-                  "m_explicit_player_type": 17
+                  "m_explicit_player_type": "global_0"
                 }
               }
             },
@@ -6331,11 +6339,11 @@
               "m_team": {
                 "m_type": 0,
                 "m_team": {
-                  "m_explicit_team_type": 18
+                  "m_explicit_team_type": "current"
                 }
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -6349,7 +6357,7 @@
               "m_object": {
                 "m_type": 3,
                 "m_team": {
-                  "m_explicit_team_type": 18
+                  "m_explicit_team_type": "current"
                 },
                 "m_variable_index": 1
               }
@@ -6359,11 +6367,11 @@
               "m_object": {
                 "m_type": 0,
                 "m_object": {
-                  "m_explicit_object_type": 17
+                  "m_explicit_object_type": "current"
                 }
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -6374,7 +6382,7 @@
           "m_object_reference_1": {
             "m_type": 0,
             "m_object": {
-              "m_explicit_object_type": 17
+              "m_explicit_object_type": "current"
             }
           },
           "m_object_type_reference": {
@@ -6401,7 +6409,7 @@
                 "m_immediate_value": 1
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -6424,7 +6432,7 @@
                 "m_immediate_value": 1
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -6447,7 +6455,7 @@
                 "m_immediate_value": 0
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -6470,7 +6478,7 @@
                 "m_immediate_value": 1
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -6493,7 +6501,7 @@
                 "m_immediate_value": 0
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -6507,7 +6515,7 @@
               "m_team": {
                 "m_type": 0,
                 "m_team": {
-                  "m_explicit_team_type": 18
+                  "m_explicit_team_type": "current"
                 }
               }
             },
@@ -6516,11 +6524,11 @@
               "m_team": {
                 "m_type": 0,
                 "m_team": {
-                  "m_explicit_team_type": 9
+                  "m_explicit_team_type": "neutral_team"
                 }
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -6531,7 +6539,7 @@
           "m_team_reference": {
             "m_type": 0,
             "m_team": {
-              "m_explicit_team_type": 18
+              "m_explicit_team_type": "current"
             }
           }
         },
@@ -6546,7 +6554,7 @@
               "m_object": {
                 "m_type": 3,
                 "m_team": {
-                  "m_explicit_team_type": 18
+                  "m_explicit_team_type": "current"
                 },
                 "m_variable_index": 1
               }
@@ -6556,11 +6564,11 @@
               "m_object": {
                 "m_type": 0,
                 "m_object": {
-                  "m_explicit_object_type": 0
+                  "m_explicit_object_type": "no_object"
                 }
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -6574,7 +6582,7 @@
               "m_object": {
                 "m_type": 3,
                 "m_team": {
-                  "m_explicit_team_type": 18
+                  "m_explicit_team_type": "current"
                 },
                 "m_variable_index": 0
               }
@@ -6584,11 +6592,11 @@
               "m_object": {
                 "m_type": 0,
                 "m_object": {
-                  "m_explicit_object_type": 0
+                  "m_explicit_object_type": "no_object"
                 }
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -6611,7 +6619,7 @@
                 "m_immediate_value": 1
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -6625,7 +6633,7 @@
               "m_team": {
                 "m_type": 0,
                 "m_team": {
-                  "m_explicit_team_type": 18
+                  "m_explicit_team_type": "current"
                 }
               }
             },
@@ -6634,11 +6642,11 @@
               "m_team": {
                 "m_type": 0,
                 "m_team": {
-                  "m_explicit_team_type": 9
+                  "m_explicit_team_type": "neutral_team"
                 }
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -6652,7 +6660,7 @@
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 17
+                  "m_explicit_player_type": "global_0"
                 }
               }
             },
@@ -6661,11 +6669,11 @@
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 0
+                  "m_explicit_player_type": "no_player"
                 }
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -6676,7 +6684,7 @@
           "m_timer": {
             "m_type": "player",
             "m_player": {
-              "m_explicit_player_type": 17
+              "m_explicit_player_type": "global_0"
             },
             "m_variable_index": 2
           }
@@ -6692,7 +6700,7 @@
               "m_team": {
                 "m_type": 4,
                 "m_player": {
-                  "m_explicit_player_type": 25
+                  "m_explicit_player_type": "current"
                 }
               }
             },
@@ -6701,11 +6709,11 @@
               "m_team": {
                 "m_type": 5,
                 "m_object": {
-                  "m_explicit_object_type": 1
+                  "m_explicit_object_type": "global_0"
                 }
               }
             },
-            "m_comparison": 5
+            "m_comparison": "not_equal_to"
           }
         },
         {
@@ -6719,7 +6727,7 @@
               "m_object": {
                 "m_type": 0,
                 "m_object": {
-                  "m_explicit_object_type": 2
+                  "m_explicit_object_type": "global_1"
                 }
               }
             },
@@ -6728,11 +6736,11 @@
               "m_object": {
                 "m_type": 0,
                 "m_object": {
-                  "m_explicit_object_type": 0
+                  "m_explicit_object_type": "no_object"
                 }
               }
             },
-            "m_comparison": 5
+            "m_comparison": "not_equal_to"
           }
         },
         {
@@ -6755,7 +6763,7 @@
                 "m_immediate_value": 15
               }
             },
-            "m_comparison": 0
+            "m_comparison": "less_than"
           }
         },
         {
@@ -6769,7 +6777,7 @@
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 17
+                  "m_explicit_player_type": "global_0"
                 }
               }
             },
@@ -6778,11 +6786,11 @@
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 0
+                  "m_explicit_player_type": "no_player"
                 }
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -6796,7 +6804,7 @@
               "m_custom_variable": {
                 "m_type": 2,
                 "m_object": {
-                  "m_explicit_object_type": 1
+                  "m_explicit_object_type": "global_0"
                 },
                 "m_variable_index": 0
               }
@@ -6808,7 +6816,7 @@
                 "m_immediate_value": 0
               }
             },
-            "m_comparison": 5
+            "m_comparison": "not_equal_to"
           }
         },
         {
@@ -6831,7 +6839,7 @@
                 "m_immediate_value": 1
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -6854,7 +6862,7 @@
                 "m_immediate_value": 0
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -6877,7 +6885,7 @@
                 "m_immediate_value": 3
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -6891,7 +6899,7 @@
               "m_custom_variable": {
                 "m_type": 2,
                 "m_object": {
-                  "m_explicit_object_type": 3
+                  "m_explicit_object_type": "global_2"
                 },
                 "m_variable_index": 0
               }
@@ -6903,7 +6911,7 @@
                 "m_immediate_value": 0
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -6926,7 +6934,7 @@
                 "m_immediate_value": 1
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -6940,7 +6948,7 @@
               "m_team": {
                 "m_type": 5,
                 "m_object": {
-                  "m_explicit_object_type": 1
+                  "m_explicit_object_type": "global_0"
                 }
               }
             },
@@ -6949,11 +6957,11 @@
               "m_team": {
                 "m_type": 0,
                 "m_team": {
-                  "m_explicit_team_type": 9
+                  "m_explicit_team_type": "neutral_team"
                 }
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -6976,7 +6984,7 @@
                 "m_immediate_value": 1
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -6990,7 +6998,7 @@
               "m_team": {
                 "m_type": 5,
                 "m_object": {
-                  "m_explicit_object_type": 1
+                  "m_explicit_object_type": "global_0"
                 }
               }
             },
@@ -6999,11 +7007,11 @@
               "m_team": {
                 "m_type": 0,
                 "m_team": {
-                  "m_explicit_team_type": 9
+                  "m_explicit_team_type": "neutral_team"
                 }
               }
             },
-            "m_comparison": 5
+            "m_comparison": "not_equal_to"
           }
         },
         {
@@ -7026,7 +7034,7 @@
                 "m_immediate_value": 1
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -7040,7 +7048,7 @@
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 17
+                  "m_explicit_player_type": "global_0"
                 }
               }
             },
@@ -7049,11 +7057,11 @@
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 0
+                  "m_explicit_player_type": "no_player"
                 }
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -7064,13 +7072,13 @@
           "m_object_reference_1": {
             "m_type": 4,
             "m_player": {
-              "m_explicit_player_type": 17
+              "m_explicit_player_type": "global_0"
             }
           },
           "m_object_reference_2": {
             "m_type": 3,
             "m_team": {
-              "m_explicit_team_type": 10
+              "m_explicit_team_type": "global_0"
             },
             "m_variable_index": 0
           }
@@ -7095,7 +7103,7 @@
                 "m_immediate_value": 1
               }
             },
-            "m_comparison": 5
+            "m_comparison": "not_equal_to"
           }
         },
         {
@@ -7109,7 +7117,7 @@
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 17
+                  "m_explicit_player_type": "global_0"
                 }
               }
             },
@@ -7118,11 +7126,11 @@
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 0
+                  "m_explicit_player_type": "no_player"
                 }
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -7136,7 +7144,7 @@
               "m_custom_variable": {
                 "m_type": 2,
                 "m_object": {
-                  "m_explicit_object_type": 1
+                  "m_explicit_object_type": "global_0"
                 },
                 "m_variable_index": 0
               }
@@ -7148,7 +7156,7 @@
                 "m_immediate_value": 1
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -7162,7 +7170,7 @@
               "m_object": {
                 "m_type": 0,
                 "m_object": {
-                  "m_explicit_object_type": 1
+                  "m_explicit_object_type": "global_0"
                 }
               }
             },
@@ -7171,11 +7179,11 @@
               "m_object": {
                 "m_type": 0,
                 "m_object": {
-                  "m_explicit_object_type": 0
+                  "m_explicit_object_type": "no_object"
                 }
               }
             },
-            "m_comparison": 5
+            "m_comparison": "not_equal_to"
           }
         },
         {
@@ -7187,7 +7195,7 @@
             "m_player": {
               "m_type": 0,
               "m_player": {
-                "m_explicit_player_type": 25
+                "m_explicit_player_type": "current"
               }
             },
             "m_killer_type": 4
@@ -7213,7 +7221,7 @@
                 "m_immediate_value": 1
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -7227,7 +7235,7 @@
               "m_team": {
                 "m_type": 4,
                 "m_player": {
-                  "m_explicit_player_type": 25
+                  "m_explicit_player_type": "current"
                 }
               }
             },
@@ -7236,11 +7244,11 @@
               "m_team": {
                 "m_type": 0,
                 "m_team": {
-                  "m_explicit_team_type": 18
+                  "m_explicit_team_type": "current"
                 }
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -7251,13 +7259,13 @@
           "m_object_reference_1": {
             "m_type": 4,
             "m_player": {
-              "m_explicit_player_type": 25
+              "m_explicit_player_type": "current"
             }
           },
           "m_object_reference_2": {
             "m_type": 2,
             "m_object": {
-              "m_explicit_object_type": 1
+              "m_explicit_object_type": "global_0"
             },
             "m_variable_index": 1
           }
@@ -7273,7 +7281,7 @@
               "m_custom_timer": {
                 "m_type": "object",
                 "m_object": {
-                  "m_explicit_object_type": 17
+                  "m_explicit_object_type": "current"
                 },
                 "m_variable_index": 0
               }
@@ -7285,7 +7293,7 @@
                 "m_immediate_value": 6
               }
             },
-            "m_comparison": 0
+            "m_comparison": "less_than"
           }
         },
         {
@@ -7308,7 +7316,7 @@
                 "m_immediate_value": 2
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -7331,7 +7339,7 @@
                 "m_immediate_value": 2
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -7354,7 +7362,7 @@
                 "m_immediate_value": 3
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -7377,7 +7385,7 @@
                 "m_immediate_value": 3
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -7391,7 +7399,7 @@
               "m_team": {
                 "m_type": 0,
                 "m_team": {
-                  "m_explicit_team_type": 18
+                  "m_explicit_team_type": "current"
                 }
               }
             },
@@ -7400,11 +7408,11 @@
               "m_team": {
                 "m_type": 0,
                 "m_team": {
-                  "m_explicit_team_type": 9
+                  "m_explicit_team_type": "neutral_team"
                 }
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -7427,7 +7435,7 @@
                 "m_immediate_value": 3
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -7441,7 +7449,7 @@
               "m_team": {
                 "m_type": 0,
                 "m_team": {
-                  "m_explicit_team_type": 18
+                  "m_explicit_team_type": "current"
                 }
               }
             },
@@ -7450,11 +7458,11 @@
               "m_team": {
                 "m_type": 0,
                 "m_team": {
-                  "m_explicit_team_type": 9
+                  "m_explicit_team_type": "neutral_team"
                 }
               }
             },
-            "m_comparison": 5
+            "m_comparison": "not_equal_to"
           }
         },
         {
@@ -7465,7 +7473,7 @@
           "m_object_reference_1": {
             "m_type": 0,
             "m_object": {
-              "m_explicit_object_type": 1
+              "m_explicit_object_type": "global_0"
             }
           }
         },
@@ -7477,7 +7485,7 @@
           "m_timer": {
             "m_type": "object",
             "m_object": {
-              "m_explicit_object_type": 1
+              "m_explicit_object_type": "global_0"
             },
             "m_variable_index": 0
           }
@@ -7493,7 +7501,7 @@
               "m_custom_variable": {
                 "m_type": 1,
                 "m_player": {
-                  "m_explicit_player_type": 25
+                  "m_explicit_player_type": "current"
                 },
                 "m_variable_index": 3
               }
@@ -7505,7 +7513,7 @@
                 "m_immediate_value": 1
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -7519,7 +7527,7 @@
               "m_team": {
                 "m_type": 4,
                 "m_player": {
-                  "m_explicit_player_type": 25
+                  "m_explicit_player_type": "current"
                 }
               }
             },
@@ -7528,11 +7536,11 @@
               "m_team": {
                 "m_type": 0,
                 "m_team": {
-                  "m_explicit_team_type": 18
+                  "m_explicit_team_type": "current"
                 }
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -7546,7 +7554,7 @@
               "m_custom_variable": {
                 "m_type": 11,
                 "m_player": {
-                  "m_explicit_player_type": 25
+                  "m_explicit_player_type": "current"
                 },
                 "m_statistic_index": 2
               }
@@ -7558,7 +7566,7 @@
                 "m_immediate_value": 1
               }
             },
-            "m_comparison": 1
+            "m_comparison": "greater_than"
           }
         },
         {
@@ -7569,7 +7577,7 @@
           "m_timer": {
             "m_type": "object",
             "m_object": {
-              "m_explicit_object_type": 2
+              "m_explicit_object_type": "global_1"
             },
             "m_variable_index": 1
           }
@@ -7585,7 +7593,7 @@
               "m_object": {
                 "m_type": 0,
                 "m_object": {
-                  "m_explicit_object_type": 1
+                  "m_explicit_object_type": "global_0"
                 }
               }
             },
@@ -7594,11 +7602,11 @@
               "m_object": {
                 "m_type": 0,
                 "m_object": {
-                  "m_explicit_object_type": 0
+                  "m_explicit_object_type": "no_object"
                 }
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -7612,7 +7620,7 @@
               "m_custom_variable": {
                 "m_type": 2,
                 "m_object": {
-                  "m_explicit_object_type": 1
+                  "m_explicit_object_type": "global_0"
                 },
                 "m_variable_index": 0
               }
@@ -7624,7 +7632,7 @@
                 "m_immediate_value": 2
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -7638,7 +7646,7 @@
               "m_custom_variable": {
                 "m_type": 2,
                 "m_object": {
-                  "m_explicit_object_type": 1
+                  "m_explicit_object_type": "global_0"
                 },
                 "m_variable_index": 0
               }
@@ -7650,7 +7658,7 @@
                 "m_immediate_value": 3
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -7673,7 +7681,7 @@
                 "m_immediate_value": 2
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -7696,7 +7704,7 @@
                 "m_immediate_value": 2
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -7719,7 +7727,7 @@
                 "m_immediate_value": 3
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -7742,7 +7750,7 @@
                 "m_immediate_value": 3
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -7756,7 +7764,7 @@
               "m_team": {
                 "m_type": 0,
                 "m_team": {
-                  "m_explicit_team_type": 18
+                  "m_explicit_team_type": "current"
                 }
               }
             },
@@ -7765,11 +7773,11 @@
               "m_team": {
                 "m_type": 0,
                 "m_team": {
-                  "m_explicit_team_type": 9
+                  "m_explicit_team_type": "neutral_team"
                 }
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -7792,7 +7800,7 @@
                 "m_immediate_value": 3
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -7806,7 +7814,7 @@
               "m_team": {
                 "m_type": 0,
                 "m_team": {
-                  "m_explicit_team_type": 18
+                  "m_explicit_team_type": "current"
                 }
               }
             },
@@ -7815,11 +7823,11 @@
               "m_team": {
                 "m_type": 0,
                 "m_team": {
-                  "m_explicit_team_type": 9
+                  "m_explicit_team_type": "neutral_team"
                 }
               }
             },
-            "m_comparison": 5
+            "m_comparison": "not_equal_to"
           }
         },
         {
@@ -7833,7 +7841,7 @@
               "m_custom_variable": {
                 "m_type": 2,
                 "m_object": {
-                  "m_explicit_object_type": 1
+                  "m_explicit_object_type": "global_0"
                 },
                 "m_variable_index": 0
               }
@@ -7845,7 +7853,7 @@
                 "m_immediate_value": 2
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -7859,7 +7867,7 @@
               "m_custom_variable": {
                 "m_type": 2,
                 "m_object": {
-                  "m_explicit_object_type": 1
+                  "m_explicit_object_type": "global_0"
                 },
                 "m_variable_index": 3
               }
@@ -7871,7 +7879,7 @@
                 "m_immediate_value": 1
               }
             },
-            "m_comparison": 5
+            "m_comparison": "not_equal_to"
           }
         },
         {
@@ -7894,7 +7902,7 @@
                 "m_immediate_value": 2
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -7917,7 +7925,7 @@
                 "m_immediate_value": 2
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -7940,7 +7948,7 @@
                 "m_immediate_value": 3
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -7963,7 +7971,7 @@
                 "m_immediate_value": 3
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -7977,7 +7985,7 @@
               "m_team": {
                 "m_type": 0,
                 "m_team": {
-                  "m_explicit_team_type": 18
+                  "m_explicit_team_type": "current"
                 }
               }
             },
@@ -7986,11 +7994,11 @@
               "m_team": {
                 "m_type": 0,
                 "m_team": {
-                  "m_explicit_team_type": 9
+                  "m_explicit_team_type": "neutral_team"
                 }
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -8013,7 +8021,7 @@
                 "m_immediate_value": 3
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -8027,7 +8035,7 @@
               "m_team": {
                 "m_type": 0,
                 "m_team": {
-                  "m_explicit_team_type": 18
+                  "m_explicit_team_type": "current"
                 }
               }
             },
@@ -8036,11 +8044,11 @@
               "m_team": {
                 "m_type": 0,
                 "m_team": {
-                  "m_explicit_team_type": 9
+                  "m_explicit_team_type": "neutral_team"
                 }
               }
             },
-            "m_comparison": 5
+            "m_comparison": "not_equal_to"
           }
         },
         {
@@ -8054,7 +8062,7 @@
               "m_custom_variable": {
                 "m_type": 2,
                 "m_object": {
-                  "m_explicit_object_type": 1
+                  "m_explicit_object_type": "global_0"
                 },
                 "m_variable_index": 0
               }
@@ -8066,7 +8074,7 @@
                 "m_immediate_value": 1
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -8080,7 +8088,7 @@
               "m_custom_variable": {
                 "m_type": 2,
                 "m_object": {
-                  "m_explicit_object_type": 1
+                  "m_explicit_object_type": "global_0"
                 },
                 "m_variable_index": 2
               }
@@ -8092,7 +8100,7 @@
                 "m_immediate_value": 1
               }
             },
-            "m_comparison": 5
+            "m_comparison": "not_equal_to"
           }
         },
         {
@@ -8106,7 +8114,7 @@
               "m_custom_variable": {
                 "m_type": 2,
                 "m_object": {
-                  "m_explicit_object_type": 1
+                  "m_explicit_object_type": "global_0"
                 },
                 "m_variable_index": 0
               }
@@ -8118,7 +8126,7 @@
                 "m_immediate_value": 1
               }
             },
-            "m_comparison": 5
+            "m_comparison": "not_equal_to"
           }
         },
         {
@@ -8132,7 +8140,7 @@
               "m_custom_variable": {
                 "m_type": 2,
                 "m_object": {
-                  "m_explicit_object_type": 1
+                  "m_explicit_object_type": "global_0"
                 },
                 "m_variable_index": 0
               }
@@ -8144,7 +8152,7 @@
                 "m_immediate_value": 1
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -8158,7 +8166,7 @@
               "m_custom_variable": {
                 "m_type": 2,
                 "m_object": {
-                  "m_explicit_object_type": 1
+                  "m_explicit_object_type": "global_0"
                 },
                 "m_variable_index": 0
               }
@@ -8170,7 +8178,7 @@
                 "m_immediate_value": 0
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -8181,7 +8189,7 @@
           "m_timer": {
             "m_type": "object",
             "m_object": {
-              "m_explicit_object_type": 1
+              "m_explicit_object_type": "global_0"
             },
             "m_variable_index": 3
           }
@@ -8197,7 +8205,7 @@
               "m_object": {
                 "m_type": 0,
                 "m_object": {
-                  "m_explicit_object_type": 1
+                  "m_explicit_object_type": "global_0"
                 }
               }
             },
@@ -8206,11 +8214,11 @@
               "m_object": {
                 "m_type": 0,
                 "m_object": {
-                  "m_explicit_object_type": 0
+                  "m_explicit_object_type": "no_object"
                 }
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -8221,7 +8229,7 @@
           "m_object_reference_1": {
             "m_type": 0,
             "m_object": {
-              "m_explicit_object_type": 2
+              "m_explicit_object_type": "global_1"
             }
           },
           "m_object_type_reference": {
@@ -8239,7 +8247,7 @@
               "m_custom_timer": {
                 "m_type": "player",
                 "m_player": {
-                  "m_explicit_player_type": 25
+                  "m_explicit_player_type": "current"
                 },
                 "m_variable_index": 1
               }
@@ -8251,7 +8259,7 @@
                 "m_immediate_value": 0
               }
             },
-            "m_comparison": 1
+            "m_comparison": "greater_than"
           }
         },
         {
@@ -8262,7 +8270,7 @@
           "m_timer": {
             "m_type": "player",
             "m_player": {
-              "m_explicit_player_type": 25
+              "m_explicit_player_type": "current"
             },
             "m_variable_index": 1
           }
@@ -8287,7 +8295,7 @@
                 "m_immediate_value": 4
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -8299,7 +8307,7 @@
             "m_player": {
               "m_type": 2,
               "m_object": {
-                "m_explicit_object_type": 1
+                "m_explicit_object_type": "global_0"
               },
               "m_variable_index": 0
             },
@@ -8314,7 +8322,7 @@
           "m_team_reference": {
             "m_type": 0,
             "m_team": {
-              "m_explicit_team_type": 18
+              "m_explicit_team_type": "current"
             }
           }
         },
@@ -8329,7 +8337,7 @@
               "m_object": {
                 "m_type": 2,
                 "m_object": {
-                  "m_explicit_object_type": 17
+                  "m_explicit_object_type": "current"
                 },
                 "m_variable_index": 0
               }
@@ -8339,11 +8347,11 @@
               "m_object": {
                 "m_type": 0,
                 "m_object": {
-                  "m_explicit_object_type": 0
+                  "m_explicit_object_type": "no_object"
                 }
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -8357,7 +8365,7 @@
               "m_object": {
                 "m_type": 2,
                 "m_object": {
-                  "m_explicit_object_type": 17
+                  "m_explicit_object_type": "current"
                 },
                 "m_variable_index": 1
               }
@@ -8367,11 +8375,11 @@
               "m_object": {
                 "m_type": 0,
                 "m_object": {
-                  "m_explicit_object_type": 0
+                  "m_explicit_object_type": "no_object"
                 }
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -8385,7 +8393,7 @@
               "m_team": {
                 "m_type": 4,
                 "m_player": {
-                  "m_explicit_player_type": 25
+                  "m_explicit_player_type": "current"
                 }
               }
             },
@@ -8394,11 +8402,11 @@
               "m_team": {
                 "m_type": 5,
                 "m_object": {
-                  "m_explicit_object_type": 1
+                  "m_explicit_object_type": "global_0"
                 }
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -8409,13 +8417,13 @@
           "m_object_reference_1": {
             "m_type": 4,
             "m_player": {
-              "m_explicit_player_type": 25
+              "m_explicit_player_type": "current"
             }
           },
           "m_object_reference_2": {
             "m_type": 2,
             "m_object": {
-              "m_explicit_object_type": 1
+              "m_explicit_object_type": "global_0"
             },
             "m_variable_index": 0
           }
@@ -8440,7 +8448,7 @@
                 "m_immediate_value": 1
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -8454,7 +8462,7 @@
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 25
+                  "m_explicit_player_type": "current"
                 }
               }
             },
@@ -8463,12 +8471,12 @@
               "m_player": {
                 "m_type": 2,
                 "m_object": {
-                  "m_explicit_object_type": 1
+                  "m_explicit_object_type": "global_0"
                 },
                 "m_variable_index": 0
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -8482,7 +8490,7 @@
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 17
+                  "m_explicit_player_type": "global_0"
                 }
               }
             },
@@ -8491,11 +8499,11 @@
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 0
+                  "m_explicit_player_type": "no_player"
                 }
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -8509,7 +8517,7 @@
               "m_player": {
                 "m_type": 2,
                 "m_object": {
-                  "m_explicit_object_type": 1
+                  "m_explicit_object_type": "global_0"
                 },
                 "m_variable_index": 0
               }
@@ -8519,11 +8527,11 @@
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 0
+                  "m_explicit_player_type": "no_player"
                 }
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -8537,7 +8545,7 @@
               "m_team": {
                 "m_type": 5,
                 "m_object": {
-                  "m_explicit_object_type": 17
+                  "m_explicit_object_type": "current"
                 }
               }
             },
@@ -8546,11 +8554,11 @@
               "m_team": {
                 "m_type": 0,
                 "m_team": {
-                  "m_explicit_team_type": 18
+                  "m_explicit_team_type": "current"
                 }
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -8564,7 +8572,7 @@
               "m_custom_variable": {
                 "m_type": 2,
                 "m_object": {
-                  "m_explicit_object_type": 1
+                  "m_explicit_object_type": "global_0"
                 },
                 "m_variable_index": 0
               }
@@ -8576,7 +8584,7 @@
                 "m_immediate_value": 0
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -8590,7 +8598,7 @@
               "m_team": {
                 "m_type": 5,
                 "m_object": {
-                  "m_explicit_object_type": 17
+                  "m_explicit_object_type": "current"
                 }
               }
             },
@@ -8599,11 +8607,11 @@
               "m_team": {
                 "m_type": 0,
                 "m_team": {
-                  "m_explicit_team_type": 18
+                  "m_explicit_team_type": "current"
                 }
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -8617,7 +8625,7 @@
               "m_custom_variable": {
                 "m_type": 2,
                 "m_object": {
-                  "m_explicit_object_type": 1
+                  "m_explicit_object_type": "global_0"
                 },
                 "m_variable_index": 0
               }
@@ -8629,7 +8637,7 @@
                 "m_immediate_value": 0
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -8640,7 +8648,7 @@
           "m_team_reference": {
             "m_type": 0,
             "m_team": {
-              "m_explicit_team_type": 18
+              "m_explicit_team_type": "current"
             }
           }
         },
@@ -8655,7 +8663,7 @@
               "m_object": {
                 "m_type": 0,
                 "m_object": {
-                  "m_explicit_object_type": 1
+                  "m_explicit_object_type": "global_0"
                 }
               }
             },
@@ -8664,11 +8672,11 @@
               "m_object": {
                 "m_type": 0,
                 "m_object": {
-                  "m_explicit_object_type": 0
+                  "m_explicit_object_type": "no_object"
                 }
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -8682,7 +8690,7 @@
               "m_team": {
                 "m_type": 0,
                 "m_team": {
-                  "m_explicit_team_type": 18
+                  "m_explicit_team_type": "current"
                 }
               }
             },
@@ -8691,11 +8699,11 @@
               "m_team": {
                 "m_type": 0,
                 "m_team": {
-                  "m_explicit_team_type": 9
+                  "m_explicit_team_type": "neutral_team"
                 }
               }
             },
-            "m_comparison": 5
+            "m_comparison": "not_equal_to"
           }
         },
         {
@@ -8706,7 +8714,7 @@
           "m_team_reference": {
             "m_type": 0,
             "m_team": {
-              "m_explicit_team_type": 18
+              "m_explicit_team_type": "current"
             }
           }
         },
@@ -8721,7 +8729,7 @@
               "m_object": {
                 "m_type": 3,
                 "m_team": {
-                  "m_explicit_team_type": 18
+                  "m_explicit_team_type": "current"
                 },
                 "m_variable_index": 1
               }
@@ -8731,11 +8739,11 @@
               "m_object": {
                 "m_type": 0,
                 "m_object": {
-                  "m_explicit_object_type": 0
+                  "m_explicit_object_type": "no_object"
                 }
               }
             },
-            "m_comparison": 5
+            "m_comparison": "not_equal_to"
           }
         },
         {
@@ -8749,7 +8757,7 @@
               "m_custom_variable": {
                 "m_type": 2,
                 "m_object": {
-                  "m_explicit_object_type": 1
+                  "m_explicit_object_type": "global_0"
                 },
                 "m_variable_index": 0
               }
@@ -8761,7 +8769,7 @@
                 "m_immediate_value": 0
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -8775,7 +8783,7 @@
               "m_custom_variable": {
                 "m_type": 2,
                 "m_object": {
-                  "m_explicit_object_type": 2
+                  "m_explicit_object_type": "global_1"
                 },
                 "m_variable_index": 0
               }
@@ -8787,7 +8795,7 @@
                 "m_immediate_value": 1
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -8801,7 +8809,7 @@
               "m_custom_variable": {
                 "m_type": 2,
                 "m_object": {
-                  "m_explicit_object_type": 2
+                  "m_explicit_object_type": "global_1"
                 },
                 "m_variable_index": 0
               }
@@ -8813,7 +8821,7 @@
                 "m_immediate_value": 2
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -8827,7 +8835,7 @@
               "m_object": {
                 "m_type": 0,
                 "m_object": {
-                  "m_explicit_object_type": 1
+                  "m_explicit_object_type": "global_0"
                 }
               }
             },
@@ -8836,11 +8844,11 @@
               "m_object": {
                 "m_type": 0,
                 "m_object": {
-                  "m_explicit_object_type": 0
+                  "m_explicit_object_type": "no_object"
                 }
               }
             },
-            "m_comparison": 5
+            "m_comparison": "not_equal_to"
           }
         },
         {
@@ -8863,7 +8871,7 @@
                 "m_immediate_value": 1
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -8886,7 +8894,7 @@
                 "m_immediate_value": 100
               }
             },
-            "m_comparison": 1
+            "m_comparison": "greater_than"
           }
         },
         {
@@ -8909,7 +8917,7 @@
                 "m_immediate_value": 2
               }
             },
-            "m_comparison": 3
+            "m_comparison": "less_than_or_equal_to"
           }
         },
         {
@@ -8920,7 +8928,7 @@
           "m_timer": {
             "m_type": "object",
             "m_object": {
-              "m_explicit_object_type": 17
+              "m_explicit_object_type": "current"
             },
             "m_variable_index": 2
           }
@@ -8936,7 +8944,7 @@
               "m_team": {
                 "m_type": 4,
                 "m_player": {
-                  "m_explicit_player_type": 25
+                  "m_explicit_player_type": "current"
                 }
               }
             },
@@ -8945,11 +8953,11 @@
               "m_team": {
                 "m_type": 0,
                 "m_team": {
-                  "m_explicit_team_type": 1
+                  "m_explicit_team_type": "team_0"
                 }
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -8963,7 +8971,7 @@
               "m_team": {
                 "m_type": 4,
                 "m_player": {
-                  "m_explicit_player_type": 25
+                  "m_explicit_player_type": "current"
                 }
               }
             },
@@ -8972,11 +8980,11 @@
               "m_team": {
                 "m_type": 0,
                 "m_team": {
-                  "m_explicit_team_type": 2
+                  "m_explicit_team_type": "team_1"
                 }
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -8990,7 +8998,7 @@
               "m_team": {
                 "m_type": 4,
                 "m_player": {
-                  "m_explicit_player_type": 25
+                  "m_explicit_player_type": "current"
                 }
               }
             },
@@ -8999,11 +9007,11 @@
               "m_team": {
                 "m_type": 0,
                 "m_team": {
-                  "m_explicit_team_type": 1
+                  "m_explicit_team_type": "team_0"
                 }
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -9026,7 +9034,7 @@
                 "m_immediate_value": 0
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -9049,7 +9057,7 @@
                 "m_immediate_value": 1
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -9063,7 +9071,7 @@
               "m_team": {
                 "m_type": 4,
                 "m_player": {
-                  "m_explicit_player_type": 25
+                  "m_explicit_player_type": "current"
                 }
               }
             },
@@ -9072,11 +9080,11 @@
               "m_team": {
                 "m_type": 0,
                 "m_team": {
-                  "m_explicit_team_type": 2
+                  "m_explicit_team_type": "team_1"
                 }
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -9099,7 +9107,7 @@
                 "m_immediate_value": 0
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -9122,7 +9130,7 @@
                 "m_immediate_value": 1
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -9133,7 +9141,7 @@
           "m_team_reference": {
             "m_type": 0,
             "m_team": {
-              "m_explicit_team_type": 18
+              "m_explicit_team_type": "current"
             }
           }
         },
@@ -9156,7 +9164,7 @@
                 "m_variable_index": 2
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -9178,7 +9186,7 @@
                 "m_immediate_value": 0
               }
             },
-            "m_comparison": 1
+            "m_comparison": "greater_than"
           }
         },
         {
@@ -9228,7 +9236,7 @@
                 "m_immediate_value": 0
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -9251,7 +9259,7 @@
                 "m_immediate_value": 1
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -9273,7 +9281,7 @@
                 "m_immediate_value": 0
               }
             },
-            "m_comparison": 1
+            "m_comparison": "greater_than"
           }
         },
         {
@@ -9294,7 +9302,7 @@
                 "m_type": "sudden_death"
               }
             },
-            "m_comparison": 1
+            "m_comparison": "greater_than"
           }
         },
         {
@@ -9317,7 +9325,7 @@
                 "m_immediate_value": 0
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -9348,7 +9356,7 @@
                 "m_immediate_value": 0
               }
             },
-            "m_comparison": 1
+            "m_comparison": "greater_than"
           }
         },
         {
@@ -9388,7 +9396,7 @@
                 "m_immediate_value": 0
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -9399,7 +9407,7 @@
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 17
+                  "m_explicit_player_type": "global_0"
                 }
               }
             },
@@ -9408,11 +9416,11 @@
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 0
+                  "m_explicit_player_type": "no_player"
                 }
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -9420,13 +9428,13 @@
           "m_player_1": {
             "m_type": 0,
             "m_player": {
-              "m_explicit_player_type": 25
+              "m_explicit_player_type": "current"
             }
           },
           "m_player_2": {
             "m_type": 0,
             "m_player": {
-              "m_explicit_player_type": 17
+              "m_explicit_player_type": "global_0"
             }
           }
         },
@@ -9447,7 +9455,7 @@
                 "m_immediate_value": 0
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -9455,7 +9463,7 @@
           "m_player_1": {
             "m_type": 0,
             "m_player": {
-              "m_explicit_player_type": 25
+              "m_explicit_player_type": "current"
             }
           },
           "m_variable_1": {
@@ -9471,7 +9479,7 @@
               "m_object": {
                 "m_type": 0,
                 "m_object": {
-                  "m_explicit_object_type": 1
+                  "m_explicit_object_type": "global_0"
                 }
               }
             },
@@ -9480,11 +9488,11 @@
               "m_object": {
                 "m_type": 0,
                 "m_object": {
-                  "m_explicit_object_type": 0
+                  "m_explicit_object_type": "no_object"
                 }
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -9492,13 +9500,13 @@
           "m_object": {
             "m_type": 0,
             "m_object": {
-              "m_explicit_object_type": 1
+              "m_explicit_object_type": "global_0"
             }
           },
           "m_player_1": {
             "m_type": 0,
             "m_player": {
-              "m_explicit_player_type": 17
+              "m_explicit_player_type": "global_0"
             }
           }
         },
@@ -9507,20 +9515,20 @@
           "m_submit_incident_with_custom_value_parameters": {
             "m_incident_id": 358,
             "m_target_1": {
-              "m_target": 1,
+              "m_target": "player",
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 17
+                  "m_explicit_player_type": "global_0"
                 }
               }
             },
             "m_target_2": {
-              "m_target": 1,
+              "m_target": "player",
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 17
+                  "m_explicit_player_type": "global_0"
                 }
               }
             },
@@ -9547,7 +9555,7 @@
                 "m_immediate_value": 0
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -9555,7 +9563,7 @@
           "m_player_1": {
             "m_type": 0,
             "m_player": {
-              "m_explicit_player_type": 25
+              "m_explicit_player_type": "current"
             }
           },
           "m_variable_1": {
@@ -9571,7 +9579,7 @@
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 17
+                  "m_explicit_player_type": "global_0"
                 }
               }
             },
@@ -9580,11 +9588,11 @@
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 0
+                  "m_explicit_player_type": "no_player"
                 }
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -9592,13 +9600,13 @@
           "m_player_1": {
             "m_type": 0,
             "m_player": {
-              "m_explicit_player_type": 25
+              "m_explicit_player_type": "current"
             }
           },
           "m_player_2": {
             "m_type": 0,
             "m_player": {
-              "m_explicit_player_type": 17
+              "m_explicit_player_type": "global_0"
             }
           }
         },
@@ -9607,20 +9615,20 @@
           "m_submit_incident_with_custom_value_parameters": {
             "m_incident_id": 358,
             "m_target_1": {
-              "m_target": 1,
+              "m_target": "player",
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 25
+                  "m_explicit_player_type": "current"
                 }
               }
             },
             "m_target_2": {
-              "m_target": 1,
+              "m_target": "player",
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 25
+                  "m_explicit_player_type": "current"
                 }
               }
             },
@@ -9638,7 +9646,7 @@
               "m_custom_variable": {
                 "m_type": 1,
                 "m_player": {
-                  "m_explicit_player_type": 17
+                  "m_explicit_player_type": "global_0"
                 },
                 "m_variable_index": 0
               }
@@ -9650,7 +9658,7 @@
                 "m_immediate_value": 0
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -9661,7 +9669,7 @@
               "m_custom_variable": {
                 "m_type": 1,
                 "m_player": {
-                  "m_explicit_player_type": 25
+                  "m_explicit_player_type": "current"
                 },
                 "m_variable_index": 0
               }
@@ -9673,7 +9681,7 @@
                 "m_immediate_value": 0
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -9684,7 +9692,7 @@
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 17
+                  "m_explicit_player_type": "global_0"
                 }
               }
             },
@@ -9693,11 +9701,11 @@
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 0
+                  "m_explicit_player_type": "no_player"
                 }
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -9705,13 +9713,13 @@
           "m_player_1": {
             "m_type": 0,
             "m_player": {
-              "m_explicit_player_type": 25
+              "m_explicit_player_type": "current"
             }
           },
           "m_player_2": {
             "m_type": 0,
             "m_player": {
-              "m_explicit_player_type": 17
+              "m_explicit_player_type": "global_0"
             }
           }
         },
@@ -9732,7 +9740,7 @@
                 "m_immediate_value": 0
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -9740,7 +9748,7 @@
           "m_player_1": {
             "m_type": 0,
             "m_player": {
-              "m_explicit_player_type": 25
+              "m_explicit_player_type": "current"
             }
           },
           "m_variable_1": {
@@ -9762,7 +9770,7 @@
               "m_custom_variable": {
                 "m_type": 1,
                 "m_player": {
-                  "m_explicit_player_type": 17
+                  "m_explicit_player_type": "global_0"
                 },
                 "m_variable_index": 0
               }
@@ -9774,7 +9782,7 @@
                 "m_immediate_value": 1
               }
             },
-            "m_operation": 0
+            "m_operation": "add"
           }
         },
         {
@@ -9782,20 +9790,20 @@
           "m_submit_incident_with_custom_value_parameters": {
             "m_incident_id": 358,
             "m_target_1": {
-              "m_target": 1,
+              "m_target": "player",
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 17
+                  "m_explicit_player_type": "global_0"
                 }
               }
             },
             "m_target_2": {
-              "m_target": 1,
+              "m_target": "player",
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 17
+                  "m_explicit_player_type": "global_0"
                 }
               }
             },
@@ -9813,7 +9821,7 @@
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 17
+                  "m_explicit_player_type": "global_0"
                 }
               }
             },
@@ -9822,11 +9830,11 @@
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 0
+                  "m_explicit_player_type": "no_player"
                 }
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -9834,13 +9842,13 @@
           "m_player_1": {
             "m_type": 0,
             "m_player": {
-              "m_explicit_player_type": 25
+              "m_explicit_player_type": "current"
             }
           },
           "m_player_2": {
             "m_type": 0,
             "m_player": {
-              "m_explicit_player_type": 17
+              "m_explicit_player_type": "global_0"
             }
           }
         },
@@ -9861,7 +9869,7 @@
                 "m_immediate_value": 0
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -9869,7 +9877,7 @@
           "m_player_1": {
             "m_type": 0,
             "m_player": {
-              "m_explicit_player_type": 25
+              "m_explicit_player_type": "current"
             }
           },
           "m_variable_1": {
@@ -9885,7 +9893,7 @@
               "m_object": {
                 "m_type": 0,
                 "m_object": {
-                  "m_explicit_object_type": 1
+                  "m_explicit_object_type": "global_0"
                 }
               }
             },
@@ -9894,11 +9902,11 @@
               "m_object": {
                 "m_type": 0,
                 "m_object": {
-                  "m_explicit_object_type": 0
+                  "m_explicit_object_type": "no_object"
                 }
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -9906,13 +9914,13 @@
           "m_object": {
             "m_type": 0,
             "m_object": {
-              "m_explicit_object_type": 1
+              "m_explicit_object_type": "global_0"
             }
           },
           "m_player_1": {
             "m_type": 0,
             "m_player": {
-              "m_explicit_player_type": 17
+              "m_explicit_player_type": "global_0"
             }
           }
         },
@@ -9924,7 +9932,7 @@
               "m_custom_variable": {
                 "m_type": 1,
                 "m_player": {
-                  "m_explicit_player_type": 17
+                  "m_explicit_player_type": "global_0"
                 },
                 "m_variable_index": 1
               }
@@ -9936,7 +9944,7 @@
                 "m_immediate_value": 1
               }
             },
-            "m_operation": 0
+            "m_operation": "add"
           }
         },
         {
@@ -9944,20 +9952,20 @@
           "m_submit_incident_with_custom_value_parameters": {
             "m_incident_id": 358,
             "m_target_1": {
-              "m_target": 1,
+              "m_target": "player",
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 17
+                  "m_explicit_player_type": "global_0"
                 }
               }
             },
             "m_target_2": {
-              "m_target": 1,
+              "m_target": "player",
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 17
+                  "m_explicit_player_type": "global_0"
                 }
               }
             },
@@ -9975,7 +9983,7 @@
               "m_object": {
                 "m_type": 0,
                 "m_object": {
-                  "m_explicit_object_type": 1
+                  "m_explicit_object_type": "global_0"
                 }
               }
             },
@@ -9984,11 +9992,11 @@
               "m_object": {
                 "m_type": 0,
                 "m_object": {
-                  "m_explicit_object_type": 0
+                  "m_explicit_object_type": "no_object"
                 }
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -9996,13 +10004,13 @@
           "m_object": {
             "m_type": 0,
             "m_object": {
-              "m_explicit_object_type": 1
+              "m_explicit_object_type": "global_0"
             }
           },
           "m_player_1": {
             "m_type": 0,
             "m_player": {
-              "m_explicit_player_type": 25
+              "m_explicit_player_type": "current"
             }
           }
         },
@@ -10014,7 +10022,7 @@
               "m_custom_timer": {
                 "m_type": "player",
                 "m_player": {
-                  "m_explicit_player_type": 25
+                  "m_explicit_player_type": "current"
                 },
                 "m_variable_index": 0
               }
@@ -10026,7 +10034,7 @@
                 "m_immediate_value": 4
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -10035,11 +10043,11 @@
             "m_timer": {
               "m_type": "player",
               "m_player": {
-                "m_explicit_player_type": 25
+                "m_explicit_player_type": "current"
               },
               "m_variable_index": 0
             },
-            "m_rate": 5
+            "m_rate": "minus_100x"
           }
         },
         {
@@ -10059,7 +10067,7 @@
                 "m_immediate_value": 0
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -10067,7 +10075,7 @@
           "m_player_1": {
             "m_type": 0,
             "m_player": {
-              "m_explicit_player_type": 25
+              "m_explicit_player_type": "current"
             }
           },
           "m_variable_1": {
@@ -10083,7 +10091,7 @@
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 17
+                  "m_explicit_player_type": "global_0"
                 }
               }
             },
@@ -10092,11 +10100,11 @@
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 0
+                  "m_explicit_player_type": "no_player"
                 }
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -10104,13 +10112,13 @@
           "m_player_1": {
             "m_type": 0,
             "m_player": {
-              "m_explicit_player_type": 25
+              "m_explicit_player_type": "current"
             }
           },
           "m_player_2": {
             "m_type": 0,
             "m_player": {
-              "m_explicit_player_type": 17
+              "m_explicit_player_type": "global_0"
             }
           }
         },
@@ -10119,20 +10127,20 @@
           "m_submit_incident_with_custom_value_parameters": {
             "m_incident_id": 358,
             "m_target_1": {
-              "m_target": 1,
+              "m_target": "player",
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 17
+                  "m_explicit_player_type": "global_0"
                 }
               }
             },
             "m_target_2": {
-              "m_target": 1,
+              "m_target": "player",
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 17
+                  "m_explicit_player_type": "global_0"
                 }
               }
             },
@@ -10158,7 +10166,7 @@
                 "m_immediate_value": 1
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -10177,18 +10185,18 @@
                 "m_immediate_value": 0
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
           "m_type": "set_player_loadout_palette",
           "m_set_loadout_palette_parameters": {
             "m_target": {
-              "m_target": 1,
+              "m_target": "player",
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 25
+                  "m_explicit_player_type": "current"
                 }
               }
             },
@@ -10199,11 +10207,11 @@
           "m_type": "set_player_loadout_palette",
           "m_set_loadout_palette_parameters": {
             "m_target": {
-              "m_target": 1,
+              "m_target": "player",
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 25
+                  "m_explicit_player_type": "current"
                 }
               }
             },
@@ -10238,7 +10246,7 @@
           "m_player_1": {
             "m_type": 0,
             "m_player": {
-              "m_explicit_player_type": 25
+              "m_explicit_player_type": "current"
             }
           }
         },
@@ -10251,7 +10259,7 @@
           "m_player_1": {
             "m_type": 0,
             "m_player": {
-              "m_explicit_player_type": 25
+              "m_explicit_player_type": "current"
             }
           }
         },
@@ -10261,7 +10269,7 @@
             "m_player": {
               "m_type": 0,
               "m_player": {
-                "m_explicit_player_type": 25
+                "m_explicit_player_type": "current"
               }
             },
             "m_icon_index": 30
@@ -10283,7 +10291,7 @@
           "m_player_1": {
             "m_type": 0,
             "m_player": {
-              "m_explicit_player_type": 25
+              "m_explicit_player_type": "current"
             }
           }
         },
@@ -10296,7 +10304,7 @@
           "m_player_1": {
             "m_type": 0,
             "m_player": {
-              "m_explicit_player_type": 25
+              "m_explicit_player_type": "current"
             }
           }
         },
@@ -10306,7 +10314,7 @@
             "m_player": {
               "m_type": 0,
               "m_player": {
-                "m_explicit_player_type": 25
+                "m_explicit_player_type": "current"
               }
             },
             "m_icon_index": 31
@@ -10328,7 +10336,7 @@
           "m_player_1": {
             "m_type": 0,
             "m_player": {
-              "m_explicit_player_type": 25
+              "m_explicit_player_type": "current"
             }
           }
         },
@@ -10341,7 +10349,7 @@
           "m_player_1": {
             "m_type": 0,
             "m_player": {
-              "m_explicit_player_type": 25
+              "m_explicit_player_type": "current"
             }
           }
         },
@@ -10351,11 +10359,11 @@
             "m_timer": {
               "m_type": "player",
               "m_player": {
-                "m_explicit_player_type": 25
+                "m_explicit_player_type": "current"
               },
               "m_variable_index": 3
             },
-            "m_rate": 5
+            "m_rate": "minus_100x"
           }
         },
         {
@@ -10387,20 +10395,20 @@
           "m_submit_incident_parameters": {
             "m_incident_id": 122,
             "m_target_1": {
-              "m_target": 1,
+              "m_target": "player",
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 25
+                  "m_explicit_player_type": "current"
                 }
               }
             },
             "m_target_2": {
-              "m_target": 1,
+              "m_target": "player",
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 0
+                  "m_explicit_player_type": "no_player"
                 }
               }
             }
@@ -10411,20 +10419,20 @@
           "m_submit_incident_parameters": {
             "m_incident_id": 123,
             "m_target_1": {
-              "m_target": 1,
+              "m_target": "player",
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 25
+                  "m_explicit_player_type": "current"
                 }
               }
             },
             "m_target_2": {
-              "m_target": 1,
+              "m_target": "player",
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 0
+                  "m_explicit_player_type": "no_player"
                 }
               }
             }
@@ -10467,7 +10475,7 @@
             "m_player": {
               "m_type": 0,
               "m_player": {
-                "m_explicit_player_type": 25
+                "m_explicit_player_type": "current"
               }
             },
             "m_visible": false
@@ -10480,7 +10488,7 @@
             "m_player": {
               "m_type": 0,
               "m_player": {
-                "m_explicit_player_type": 25
+                "m_explicit_player_type": "current"
               }
             },
             "m_visible": false
@@ -10493,7 +10501,7 @@
             "m_player": {
               "m_type": 0,
               "m_player": {
-                "m_explicit_player_type": 25
+                "m_explicit_player_type": "current"
               }
             },
             "m_visible": false
@@ -10518,20 +10526,20 @@
           "m_submit_incident_parameters": {
             "m_incident_id": 109,
             "m_target_1": {
-              "m_target": 1,
+              "m_target": "player",
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 25
+                  "m_explicit_player_type": "current"
                 }
               }
             },
             "m_target_2": {
-              "m_target": 1,
+              "m_target": "player",
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 0
+                  "m_explicit_player_type": "no_player"
                 }
               }
             }
@@ -10545,7 +10553,7 @@
               "m_custom_variable": {
                 "m_type": 1,
                 "m_player": {
-                  "m_explicit_player_type": 25
+                  "m_explicit_player_type": "current"
                 },
                 "m_variable_index": 2
               }
@@ -10557,7 +10565,7 @@
                 "m_immediate_value": 1
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -10580,7 +10588,7 @@
               "m_object": {
                 "m_type": 3,
                 "m_team": {
-                  "m_explicit_team_type": 18
+                  "m_explicit_team_type": "current"
                 },
                 "m_variable_index": 0
               }
@@ -10590,11 +10598,11 @@
               "m_object": {
                 "m_type": 0,
                 "m_object": {
-                  "m_explicit_object_type": 17
+                  "m_explicit_object_type": "current"
                 }
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -10602,11 +10610,11 @@
           "m_object": {
             "m_type": 0,
             "m_object": {
-              "m_explicit_object_type": 17
+              "m_explicit_object_type": "current"
             }
           },
           "m_player_filter_modifier": {
-            "m_type": 2
+            "m_type": "allies"
           }
         },
         {
@@ -10615,10 +10623,10 @@
             "m_object": {
               "m_type": 0,
               "m_object": {
-                "m_explicit_object_type": 17
+                "m_explicit_object_type": "current"
               }
             },
-            "m_navpoint_icon": 5
+            "m_navpoint_icon": "bomb"
           }
         },
         {
@@ -10644,7 +10652,7 @@
                 "m_immediate_value": 1
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -10652,12 +10660,12 @@
           "m_object": {
             "m_type": 3,
             "m_team": {
-              "m_explicit_team_type": 2
+              "m_explicit_team_type": "team_1"
             },
             "m_variable_index": 0
           },
           "m_player_filter_modifier": {
-            "m_type": 1
+            "m_type": "everyone"
           }
         },
         {
@@ -10665,12 +10673,12 @@
           "m_object": {
             "m_type": 3,
             "m_team": {
-              "m_explicit_team_type": 1
+              "m_explicit_team_type": "team_0"
             },
             "m_variable_index": 0
           },
           "m_player_filter_modifier": {
-            "m_type": 0
+            "m_type": "no_one"
           }
         },
         {
@@ -10690,7 +10698,7 @@
                 "m_immediate_value": 1
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -10710,7 +10718,7 @@
                 "m_immediate_value": 1
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -10730,7 +10738,7 @@
                 "m_immediate_value": 1
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -10741,7 +10749,7 @@
               "m_object": {
                 "m_type": 3,
                 "m_team": {
-                  "m_explicit_team_type": 18
+                  "m_explicit_team_type": "current"
                 },
                 "m_variable_index": 1
               }
@@ -10751,11 +10759,11 @@
               "m_object": {
                 "m_type": 0,
                 "m_object": {
-                  "m_explicit_object_type": 17
+                  "m_explicit_object_type": "current"
                 }
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -10775,7 +10783,7 @@
                 "m_immediate_value": 0
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -10792,7 +10800,7 @@
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 17
+                  "m_explicit_player_type": "global_0"
                 }
               }
             },
@@ -10801,11 +10809,11 @@
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 0
+                  "m_explicit_player_type": "no_player"
                 }
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -10813,13 +10821,13 @@
           "m_object": {
             "m_type": 0,
             "m_object": {
-              "m_explicit_object_type": 17
+              "m_explicit_object_type": "current"
             }
           },
           "m_player_1": {
             "m_type": 0,
             "m_player": {
-              "m_explicit_player_type": 17
+              "m_explicit_player_type": "global_0"
             }
           }
         },
@@ -10840,7 +10848,7 @@
                 "m_immediate_value": 0
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -10860,7 +10868,7 @@
                 "m_immediate_value": 0
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -10880,7 +10888,7 @@
                 "m_immediate_value": 1
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -10903,7 +10911,7 @@
               "m_object": {
                 "m_type": 3,
                 "m_team": {
-                  "m_explicit_team_type": 18
+                  "m_explicit_team_type": "current"
                 },
                 "m_variable_index": 1
               }
@@ -10913,11 +10921,11 @@
               "m_object": {
                 "m_type": 0,
                 "m_object": {
-                  "m_explicit_object_type": 17
+                  "m_explicit_object_type": "current"
                 }
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -10937,7 +10945,7 @@
                 "m_immediate_value": 0
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -10955,19 +10963,23 @@
             "m_object_reference_1": {
               "m_type": 3,
               "m_team": {
-                "m_explicit_team_type": 18
+                "m_explicit_team_type": "current"
               },
               "m_variable_index": 1
             },
             "m_object_reference_2": {
               "m_type": 3,
               "m_team": {
-                "m_explicit_team_type": 18
+                "m_explicit_team_type": "current"
               },
               "m_variable_index": 0
             },
             "m_filter_index": -1,
-            "m_flags": 1,
+            "m_flags": {
+              "never_garbage_collect": true,
+              "suppress_effect": true,
+              "absolute_orientation": true
+            },
             "m_offset": 3,
             "m_variant_name_index": 0
           }
@@ -10980,7 +10992,7 @@
               "m_custom_variable": {
                 "m_type": 2,
                 "m_object": {
-                  "m_explicit_object_type": 1
+                  "m_explicit_object_type": "global_0"
                 },
                 "m_variable_index": 0
               }
@@ -10992,7 +11004,7 @@
                 "m_immediate_value": 1
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -11000,12 +11012,12 @@
           "m_object": {
             "m_type": 3,
             "m_team": {
-              "m_explicit_team_type": 18
+              "m_explicit_team_type": "current"
             },
             "m_variable_index": 1
           },
           "m_player_filter_modifier": {
-            "m_type": 1
+            "m_type": "everyone"
           }
         },
         {
@@ -11025,7 +11037,7 @@
                 "m_immediate_value": 0
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -11078,7 +11090,7 @@
               "m_object": {
                 "m_type": 0,
                 "m_object": {
-                  "m_explicit_object_type": 1
+                  "m_explicit_object_type": "global_0"
                 }
               }
             },
@@ -11087,12 +11099,12 @@
               "m_object": {
                 "m_type": 3,
                 "m_team": {
-                  "m_explicit_team_type": 18
+                  "m_explicit_team_type": "current"
                 },
                 "m_variable_index": 1
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -11109,7 +11121,7 @@
               "m_team": {
                 "m_type": 5,
                 "m_object": {
-                  "m_explicit_object_type": 1
+                  "m_explicit_object_type": "global_0"
                 }
               }
             },
@@ -11118,11 +11130,11 @@
               "m_team": {
                 "m_type": 0,
                 "m_team": {
-                  "m_explicit_team_type": 18
+                  "m_explicit_team_type": "current"
                 }
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -11130,12 +11142,12 @@
           "m_object": {
             "m_type": 3,
             "m_team": {
-              "m_explicit_team_type": 18
+              "m_explicit_team_type": "current"
             },
             "m_variable_index": 1
           },
           "m_player_filter_modifier": {
-            "m_type": 3
+            "m_type": "enemies"
           }
         },
         {
@@ -11144,11 +11156,11 @@
             "m_object": {
               "m_type": 3,
               "m_team": {
-                "m_explicit_team_type": 18
+                "m_explicit_team_type": "current"
               },
               "m_variable_index": 1
             },
-            "m_weapon_pickup_priority": 1
+            "m_weapon_pickup_priority": "high"
           }
         },
         {
@@ -11157,11 +11169,11 @@
             "m_object": {
               "m_type": 3,
               "m_team": {
-                "m_explicit_team_type": 18
+                "m_explicit_team_type": "current"
               },
               "m_variable_index": 1
             },
-            "m_navpoint_icon": 7
+            "m_navpoint_icon": "skull"
           }
         },
         {
@@ -11170,11 +11182,11 @@
             "m_object": {
               "m_type": 3,
               "m_team": {
-                "m_explicit_team_type": 18
+                "m_explicit_team_type": "current"
               },
               "m_variable_index": 1
             },
-            "m_priority": 2
+            "m_priority": "high"
           }
         },
         {
@@ -11183,7 +11195,7 @@
             "m_object": {
               "m_type": 0,
               "m_object": {
-                "m_explicit_object_type": 1
+                "m_explicit_object_type": "global_0"
               }
             },
             "m_shape": "cylinder",
@@ -11206,12 +11218,12 @@
           "m_object": {
             "m_type": 3,
             "m_team": {
-              "m_explicit_team_type": 18
+              "m_explicit_team_type": "current"
             },
             "m_variable_index": 1
           },
           "m_player_filter_modifier": {
-            "m_type": 1
+            "m_type": "everyone"
           }
         },
         {
@@ -11220,10 +11232,10 @@
             "m_object": {
               "m_type": 4,
               "m_player": {
-                "m_explicit_player_type": 25
+                "m_explicit_player_type": "current"
               }
             },
-            "m_navpoint_icon": 0
+            "m_navpoint_icon": "speaker"
           }
         },
         {
@@ -11234,7 +11246,7 @@
               "m_player": {
                 "m_type": 2,
                 "m_object": {
-                  "m_explicit_object_type": 1
+                  "m_explicit_object_type": "global_0"
                 },
                 "m_variable_index": 0
               }
@@ -11244,11 +11256,11 @@
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 17
+                  "m_explicit_player_type": "global_0"
                 }
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -11257,7 +11269,7 @@
             "m_player": {
               "m_type": 0,
               "m_player": {
-                "m_explicit_player_type": 17
+                "m_explicit_player_type": "global_0"
               }
             },
             "m_trait_index": 0
@@ -11269,11 +11281,11 @@
             "m_timer": {
               "m_type": "player",
               "m_player": {
-                "m_explicit_player_type": 17
+                "m_explicit_player_type": "global_0"
               },
               "m_variable_index": 2
             },
-            "m_rate": 5
+            "m_rate": "minus_100x"
           }
         },
         {
@@ -11284,7 +11296,7 @@
               "m_custom_variable": {
                 "m_type": 11,
                 "m_player": {
-                  "m_explicit_player_type": 17
+                  "m_explicit_player_type": "global_0"
                 },
                 "m_statistic_index": 1
               }
@@ -11296,7 +11308,7 @@
                 "m_immediate_value": 1
               }
             },
-            "m_operation": 0
+            "m_operation": "add"
           }
         },
         {
@@ -11304,7 +11316,7 @@
           "m_timer": {
             "m_type": "player",
             "m_player": {
-              "m_explicit_player_type": 17
+              "m_explicit_player_type": "global_0"
             },
             "m_variable_index": 2
           }
@@ -11326,7 +11338,7 @@
                 "m_immediate_value": 0
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -11337,7 +11349,7 @@
               "m_object": {
                 "m_type": 0,
                 "m_object": {
-                  "m_explicit_object_type": 2
+                  "m_explicit_object_type": "global_1"
                 }
               }
             },
@@ -11346,11 +11358,11 @@
               "m_object": {
                 "m_type": 4,
                 "m_player": {
-                  "m_explicit_player_type": 25
+                  "m_explicit_player_type": "current"
                 }
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -11359,13 +11371,13 @@
             "m_object_1": {
               "m_type": 4,
               "m_player": {
-                "m_explicit_player_type": 25
+                "m_explicit_player_type": "current"
               }
             },
             "m_object_2": {
               "m_type": 0,
               "m_object": {
-                "m_explicit_object_type": 1
+                "m_explicit_object_type": "global_0"
               }
             },
             "m_variable": {
@@ -11391,7 +11403,7 @@
                 "m_immediate_value": 1
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -11408,7 +11420,7 @@
               "m_object": {
                 "m_type": 0,
                 "m_object": {
-                  "m_explicit_object_type": 3
+                  "m_explicit_object_type": "global_2"
                 }
               }
             },
@@ -11417,12 +11429,12 @@
               "m_object": {
                 "m_type": 3,
                 "m_team": {
-                  "m_explicit_team_type": 10
+                  "m_explicit_team_type": "global_0"
                 },
                 "m_variable_index": 1
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -11442,7 +11454,7 @@
                 "m_immediate_value": 0
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -11452,7 +11464,7 @@
             "m_player": {
               "m_type": 0,
               "m_player": {
-                "m_explicit_player_type": 17
+                "m_explicit_player_type": "global_0"
               }
             },
             "m_visible": true
@@ -11462,15 +11474,15 @@
           "m_type": "set_score",
           "m_set_score_parameters": {
             "m_target": {
-              "m_target": 1,
+              "m_target": "player",
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 17
+                  "m_explicit_player_type": "global_0"
                 }
               }
             },
-            "m_operation": 0,
+            "m_operation": "add",
             "m_variable": {
               "m_type": 5,
               "m_option_index": 5
@@ -11481,15 +11493,15 @@
           "m_type": "set_score",
           "m_set_score_parameters": {
             "m_target": {
-              "m_target": 1,
+              "m_target": "player",
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 17
+                  "m_explicit_player_type": "global_0"
                 }
               }
             },
-            "m_operation": 0,
+            "m_operation": "add",
             "m_variable": {
               "m_type": 5,
               "m_option_index": 4
@@ -11504,7 +11516,7 @@
               "m_custom_variable": {
                 "m_type": 11,
                 "m_player": {
-                  "m_explicit_player_type": 17
+                  "m_explicit_player_type": "global_0"
                 },
                 "m_statistic_index": 0
               }
@@ -11516,7 +11528,7 @@
                 "m_immediate_value": 1
               }
             },
-            "m_operation": 0
+            "m_operation": "add"
           }
         },
         {
@@ -11524,7 +11536,7 @@
           "m_object": {
             "m_type": 3,
             "m_team": {
-              "m_explicit_team_type": 18
+              "m_explicit_team_type": "current"
             },
             "m_variable_index": 1
           }
@@ -11534,16 +11546,16 @@
           "m_submit_incident_parameters": {
             "m_incident_id": 117,
             "m_target_1": {
-              "m_target": 1,
+              "m_target": "player",
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 17
+                  "m_explicit_player_type": "global_0"
                 }
               }
             },
             "m_target_2": {
-              "m_target": 2
+              "m_target": "all_players"
             }
           }
         },
@@ -11555,7 +11567,7 @@
               "m_object": {
                 "m_type": 0,
                 "m_object": {
-                  "m_explicit_object_type": 2
+                  "m_explicit_object_type": "global_1"
                 }
               }
             },
@@ -11564,12 +11576,12 @@
               "m_object": {
                 "m_type": 2,
                 "m_object": {
-                  "m_explicit_object_type": 1
+                  "m_explicit_object_type": "global_0"
                 },
                 "m_variable_index": 1
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -11577,11 +11589,11 @@
           "m_object": {
             "m_type": 0,
             "m_object": {
-              "m_explicit_object_type": 1
+              "m_explicit_object_type": "global_0"
             }
           },
           "m_player_filter_modifier": {
-            "m_type": 0
+            "m_type": "no_one"
           }
         },
         {
@@ -11590,10 +11602,10 @@
             "m_object": {
               "m_type": 4,
               "m_player": {
-                "m_explicit_player_type": 17
+                "m_explicit_player_type": "global_0"
               }
             },
-            "m_navpoint_icon": 7
+            "m_navpoint_icon": "skull"
           }
         },
         {
@@ -11604,7 +11616,7 @@
               "m_custom_variable": {
                 "m_type": 2,
                 "m_object": {
-                  "m_explicit_object_type": 1
+                  "m_explicit_object_type": "global_0"
                 },
                 "m_variable_index": 0
               }
@@ -11616,7 +11628,7 @@
                 "m_immediate_value": 1
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -11627,7 +11639,7 @@
               "m_custom_timer": {
                 "m_type": "object",
                 "m_object": {
-                  "m_explicit_object_type": 1
+                  "m_explicit_object_type": "global_0"
                 },
                 "m_variable_index": 0
               }
@@ -11639,7 +11651,7 @@
                 "m_option_index": 2
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -11650,7 +11662,7 @@
               "m_custom_timer": {
                 "m_type": "object",
                 "m_object": {
-                  "m_explicit_object_type": 2
+                  "m_explicit_object_type": "global_1"
                 },
                 "m_variable_index": 1
               }
@@ -11662,7 +11674,7 @@
                 "m_option_index": 0
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -11671,12 +11683,12 @@
             "m_object": {
               "m_type": 2,
               "m_object": {
-                "m_explicit_object_type": 1
+                "m_explicit_object_type": "global_0"
               },
               "m_variable_index": 1
             },
             "m_player_filter_modifier": {
-              "m_type": 0
+              "m_type": "no_one"
             },
             "m_timer_index": 0
           }
@@ -11698,7 +11710,7 @@
                 "m_immediate_value": 1
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -11709,7 +11721,7 @@
               "m_custom_timer": {
                 "m_type": "player",
                 "m_player": {
-                  "m_explicit_player_type": 17
+                  "m_explicit_player_type": "global_0"
                 },
                 "m_variable_index": 1
               }
@@ -11721,7 +11733,7 @@
                 "m_option_index": 9
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -11732,7 +11744,7 @@
               "m_team": {
                 "m_type": 0,
                 "m_team": {
-                  "m_explicit_team_type": 10
+                  "m_explicit_team_type": "global_0"
                 }
               }
             },
@@ -11741,11 +11753,11 @@
               "m_team": {
                 "m_type": 4,
                 "m_player": {
-                  "m_explicit_player_type": 17
+                  "m_explicit_player_type": "global_0"
                 }
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -11765,7 +11777,7 @@
                 "m_immediate_value": 1
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -11775,7 +11787,7 @@
             "m_player": {
               "m_type": 0,
               "m_player": {
-                "m_explicit_player_type": 17
+                "m_explicit_player_type": "global_0"
               }
             },
             "m_visible": false
@@ -11811,12 +11823,12 @@
             "m_object": {
               "m_type": 2,
               "m_object": {
-                "m_explicit_object_type": 1
+                "m_explicit_object_type": "global_0"
               },
               "m_variable_index": 1
             },
             "m_player_filter_modifier": {
-              "m_type": 2
+              "m_type": "allies"
             },
             "m_timer_index": 1
           }
@@ -11829,7 +11841,7 @@
               "m_custom_variable": {
                 "m_type": 2,
                 "m_object": {
-                  "m_explicit_object_type": 1
+                  "m_explicit_object_type": "global_0"
                 },
                 "m_variable_index": 0
               }
@@ -11841,7 +11853,7 @@
                 "m_immediate_value": 2
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -11856,10 +11868,10 @@
             "m_object": {
               "m_type": 0,
               "m_object": {
-                "m_explicit_object_type": 1
+                "m_explicit_object_type": "global_0"
               }
             },
-            "m_navpoint_icon": 7
+            "m_navpoint_icon": "skull"
           }
         },
         {
@@ -11867,11 +11879,11 @@
           "m_object": {
             "m_type": 0,
             "m_object": {
-              "m_explicit_object_type": 1
+              "m_explicit_object_type": "global_0"
             }
           },
           "m_player_filter_modifier": {
-            "m_type": 1
+            "m_type": "everyone"
           }
         },
         {
@@ -11880,11 +11892,11 @@
             "m_object": {
               "m_type": 3,
               "m_team": {
-                "m_explicit_team_type": 18
+                "m_explicit_team_type": "current"
               },
               "m_variable_index": 1
             },
-            "m_priority": 2
+            "m_priority": "high"
           }
         },
         {
@@ -11895,7 +11907,7 @@
               "m_object": {
                 "m_type": 0,
                 "m_object": {
-                  "m_explicit_object_type": 1
+                  "m_explicit_object_type": "global_0"
                 }
               }
             },
@@ -11904,12 +11916,12 @@
               "m_object": {
                 "m_type": 3,
                 "m_team": {
-                  "m_explicit_team_type": 18
+                  "m_explicit_team_type": "current"
                 },
                 "m_variable_index": 1
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -11920,7 +11932,7 @@
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 17
+                  "m_explicit_player_type": "global_0"
                 }
               }
             },
@@ -11929,11 +11941,11 @@
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 0
+                  "m_explicit_player_type": "no_player"
                 }
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -11953,7 +11965,7 @@
                 "m_immediate_value": 0
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -11961,13 +11973,13 @@
           "m_object": {
             "m_type": 0,
             "m_object": {
-              "m_explicit_object_type": 1
+              "m_explicit_object_type": "global_0"
             }
           },
           "m_player_1": {
             "m_type": 0,
             "m_player": {
-              "m_explicit_player_type": 17
+              "m_explicit_player_type": "global_0"
             }
           }
         },
@@ -12003,7 +12015,7 @@
               "m_object": {
                 "m_type": 1,
                 "m_player": {
-                  "m_explicit_player_type": 25
+                  "m_explicit_player_type": "current"
                 },
                 "m_variable_index": 0
               }
@@ -12013,11 +12025,11 @@
               "m_object": {
                 "m_type": 0,
                 "m_object": {
-                  "m_explicit_object_type": 1
+                  "m_explicit_object_type": "global_0"
                 }
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -12028,7 +12040,7 @@
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 17
+                  "m_explicit_player_type": "global_0"
                 }
               }
             },
@@ -12037,11 +12049,11 @@
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 0
+                  "m_explicit_player_type": "no_player"
                 }
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -12049,13 +12061,13 @@
           "m_player_1": {
             "m_type": 0,
             "m_player": {
-              "m_explicit_player_type": 25
+              "m_explicit_player_type": "current"
             }
           },
           "m_player_2": {
             "m_type": 0,
             "m_player": {
-              "m_explicit_player_type": 17
+              "m_explicit_player_type": "global_0"
             }
           }
         },
@@ -12063,15 +12075,15 @@
           "m_type": "set_score",
           "m_set_score_parameters": {
             "m_target": {
-              "m_target": 1,
+              "m_target": "player",
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 17
+                  "m_explicit_player_type": "global_0"
                 }
               }
             },
-            "m_operation": 0,
+            "m_operation": "add",
             "m_variable": {
               "m_type": 5,
               "m_option_index": 6
@@ -12095,7 +12107,7 @@
                 "m_immediate_value": 0
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -12106,7 +12118,7 @@
               "m_object": {
                 "m_type": 0,
                 "m_object": {
-                  "m_explicit_object_type": 1
+                  "m_explicit_object_type": "global_0"
                 }
               }
             },
@@ -12115,11 +12127,11 @@
               "m_object": {
                 "m_type": 4,
                 "m_player": {
-                  "m_explicit_player_type": 25
+                  "m_explicit_player_type": "current"
                 }
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -12140,11 +12152,11 @@
             "m_timer": {
               "m_type": "object",
               "m_object": {
-                "m_explicit_object_type": 2
+                "m_explicit_object_type": "global_1"
               },
               "m_variable_index": 1
             },
-            "m_rate": 13
+            "m_rate": "minus_1000x"
           }
         },
         {
@@ -12155,7 +12167,7 @@
               "m_custom_variable": {
                 "m_type": 1,
                 "m_player": {
-                  "m_explicit_player_type": 25
+                  "m_explicit_player_type": "current"
                 },
                 "m_variable_index": 3
               }
@@ -12167,7 +12179,7 @@
                 "m_immediate_value": 0
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -12178,7 +12190,7 @@
               "m_custom_variable": {
                 "m_type": 1,
                 "m_player": {
-                  "m_explicit_player_type": 25
+                  "m_explicit_player_type": "current"
                 },
                 "m_variable_index": 3
               }
@@ -12190,7 +12202,7 @@
                 "m_immediate_value": 1
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -12199,11 +12211,11 @@
             "m_timer": {
               "m_type": "object",
               "m_object": {
-                "m_explicit_object_type": 2
+                "m_explicit_object_type": "global_1"
               },
               "m_variable_index": 1
             },
-            "m_rate": 5
+            "m_rate": "minus_100x"
           }
         },
         {
@@ -12218,10 +12230,10 @@
             "m_object": {
               "m_type": 0,
               "m_object": {
-                "m_explicit_object_type": 1
+                "m_explicit_object_type": "global_0"
               }
             },
-            "m_priority": 3
+            "m_priority": "blink"
           }
         },
         {
@@ -12230,10 +12242,10 @@
             "m_object": {
               "m_type": 0,
               "m_object": {
-                "m_explicit_object_type": 17
+                "m_explicit_object_type": "current"
               }
             },
-            "m_priority": 3
+            "m_priority": "blink"
           }
         },
         {
@@ -12241,21 +12253,21 @@
           "m_submit_incident_parameters": {
             "m_incident_id": 118,
             "m_target_1": {
-              "m_target": 1,
+              "m_target": "player",
               "m_player": {
                 "m_type": 2,
                 "m_object": {
-                  "m_explicit_object_type": 1
+                  "m_explicit_object_type": "global_0"
                 },
                 "m_variable_index": 0
               }
             },
             "m_target_2": {
-              "m_target": 0,
+              "m_target": "team",
               "m_team": {
                 "m_type": 0,
                 "m_team": {
-                  "m_explicit_team_type": 18
+                  "m_explicit_team_type": "current"
                 }
               }
             }
@@ -12266,20 +12278,20 @@
           "m_submit_incident_parameters": {
             "m_incident_id": 119,
             "m_target_1": {
-              "m_target": 0,
+              "m_target": "team",
               "m_team": {
                 "m_type": 0,
                 "m_team": {
-                  "m_explicit_team_type": 18
+                  "m_explicit_team_type": "current"
                 }
               }
             },
             "m_target_2": {
-              "m_target": 0,
+              "m_target": "team",
               "m_team": {
                 "m_type": 0,
                 "m_team": {
-                  "m_explicit_team_type": 18
+                  "m_explicit_team_type": "current"
                 }
               }
             }
@@ -12290,21 +12302,21 @@
           "m_submit_incident_parameters": {
             "m_incident_id": 118,
             "m_target_1": {
-              "m_target": 1,
+              "m_target": "player",
               "m_player": {
                 "m_type": 2,
                 "m_object": {
-                  "m_explicit_object_type": 1
+                  "m_explicit_object_type": "global_0"
                 },
                 "m_variable_index": 0
               }
             },
             "m_target_2": {
-              "m_target": 0,
+              "m_target": "team",
               "m_team": {
                 "m_type": 0,
                 "m_team": {
-                  "m_explicit_team_type": 18
+                  "m_explicit_team_type": "current"
                 }
               }
             }
@@ -12315,20 +12327,20 @@
           "m_submit_incident_parameters": {
             "m_incident_id": 119,
             "m_target_1": {
-              "m_target": 0,
+              "m_target": "team",
               "m_team": {
                 "m_type": 0,
                 "m_team": {
-                  "m_explicit_team_type": 18
+                  "m_explicit_team_type": "current"
                 }
               }
             },
             "m_target_2": {
-              "m_target": 0,
+              "m_target": "team",
               "m_team": {
                 "m_type": 0,
                 "m_team": {
-                  "m_explicit_team_type": 18
+                  "m_explicit_team_type": "current"
                 }
               }
             }
@@ -12339,7 +12351,7 @@
           "m_object": {
             "m_type": 0,
             "m_object": {
-              "m_explicit_object_type": 1
+              "m_explicit_object_type": "global_0"
             }
           }
         },
@@ -12375,7 +12387,7 @@
               "m_custom_variable": {
                 "m_type": 11,
                 "m_player": {
-                  "m_explicit_player_type": 25
+                  "m_explicit_player_type": "current"
                 },
                 "m_statistic_index": 2
               }
@@ -12387,22 +12399,22 @@
                 "m_immediate_value": 1
               }
             },
-            "m_operation": 0
+            "m_operation": "add"
           }
         },
         {
           "m_type": "set_score",
           "m_set_score_parameters": {
             "m_target": {
-              "m_target": 1,
+              "m_target": "player",
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 25
+                  "m_explicit_player_type": "current"
                 }
               }
             },
-            "m_operation": 0,
+            "m_operation": "add",
             "m_variable": {
               "m_type": 5,
               "m_option_index": 1
@@ -12417,7 +12429,7 @@
               "m_custom_variable": {
                 "m_type": 1,
                 "m_player": {
-                  "m_explicit_player_type": 25
+                  "m_explicit_player_type": "current"
                 },
                 "m_variable_index": 3
               }
@@ -12429,7 +12441,7 @@
                 "m_immediate_value": 0
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -12437,20 +12449,20 @@
           "m_submit_incident_parameters": {
             "m_incident_id": 357,
             "m_target_1": {
-              "m_target": 1,
+              "m_target": "player",
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 25
+                  "m_explicit_player_type": "current"
                 }
               }
             },
             "m_target_2": {
-              "m_target": 1,
+              "m_target": "player",
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 25
+                  "m_explicit_player_type": "current"
                 }
               }
             }
@@ -12461,7 +12473,7 @@
           "m_object": {
             "m_type": 0,
             "m_object": {
-              "m_explicit_object_type": 1
+              "m_explicit_object_type": "global_0"
             }
           }
         },
@@ -12470,20 +12482,20 @@
           "m_submit_incident_parameters": {
             "m_incident_id": 120,
             "m_target_1": {
-              "m_target": 0,
+              "m_target": "team",
               "m_team": {
                 "m_type": 0,
                 "m_team": {
-                  "m_explicit_team_type": 18
+                  "m_explicit_team_type": "current"
                 }
               }
             },
             "m_target_2": {
-              "m_target": 0,
+              "m_target": "team",
               "m_team": {
                 "m_type": 0,
                 "m_team": {
-                  "m_explicit_team_type": 18
+                  "m_explicit_team_type": "current"
                 }
               }
             }
@@ -12503,7 +12515,7 @@
               "m_object": {
                 "m_type": 0,
                 "m_object": {
-                  "m_explicit_object_type": 1
+                  "m_explicit_object_type": "global_0"
                 }
               }
             },
@@ -12512,12 +12524,12 @@
               "m_object": {
                 "m_type": 3,
                 "m_team": {
-                  "m_explicit_team_type": 18
+                  "m_explicit_team_type": "current"
                 },
                 "m_variable_index": 1
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -12528,7 +12540,7 @@
               "m_object": {
                 "m_type": 0,
                 "m_object": {
-                  "m_explicit_object_type": 2
+                  "m_explicit_object_type": "global_1"
                 }
               }
             },
@@ -12537,12 +12549,12 @@
               "m_object": {
                 "m_type": 2,
                 "m_object": {
-                  "m_explicit_object_type": 1
+                  "m_explicit_object_type": "global_0"
                 },
                 "m_variable_index": 1
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -12551,11 +12563,11 @@
             "m_timer": {
               "m_type": "object",
               "m_object": {
-                "m_explicit_object_type": 1
+                "m_explicit_object_type": "global_0"
               },
               "m_variable_index": 0
             },
-            "m_rate": 5
+            "m_rate": "minus_100x"
           }
         },
         {
@@ -12564,11 +12576,11 @@
             "m_timer": {
               "m_type": "object",
               "m_object": {
-                "m_explicit_object_type": 2
+                "m_explicit_object_type": "global_1"
               },
               "m_variable_index": 1
             },
-            "m_rate": 18
+            "m_rate": "_100x"
           }
         },
         {
@@ -12600,21 +12612,21 @@
           "m_submit_incident_parameters": {
             "m_incident_id": 112,
             "m_target_1": {
-              "m_target": 1,
+              "m_target": "player",
               "m_player": {
                 "m_type": 2,
                 "m_object": {
-                  "m_explicit_object_type": 1
+                  "m_explicit_object_type": "global_0"
                 },
                 "m_variable_index": 0
               }
             },
             "m_target_2": {
-              "m_target": 0,
+              "m_target": "team",
               "m_team": {
                 "m_type": 0,
                 "m_team": {
-                  "m_explicit_team_type": 18
+                  "m_explicit_team_type": "current"
                 }
               }
             }
@@ -12625,21 +12637,21 @@
           "m_submit_incident_parameters": {
             "m_incident_id": 113,
             "m_target_1": {
-              "m_target": 1,
+              "m_target": "player",
               "m_player": {
                 "m_type": 2,
                 "m_object": {
-                  "m_explicit_object_type": 1
+                  "m_explicit_object_type": "global_0"
                 },
                 "m_variable_index": 0
               }
             },
             "m_target_2": {
-              "m_target": 0,
+              "m_target": "team",
               "m_team": {
                 "m_type": 0,
                 "m_team": {
-                  "m_explicit_team_type": 18
+                  "m_explicit_team_type": "current"
                 }
               }
             }
@@ -12650,21 +12662,21 @@
           "m_submit_incident_parameters": {
             "m_incident_id": 112,
             "m_target_1": {
-              "m_target": 1,
+              "m_target": "player",
               "m_player": {
                 "m_type": 2,
                 "m_object": {
-                  "m_explicit_object_type": 1
+                  "m_explicit_object_type": "global_0"
                 },
                 "m_variable_index": 0
               }
             },
             "m_target_2": {
-              "m_target": 0,
+              "m_target": "team",
               "m_team": {
                 "m_type": 0,
                 "m_team": {
-                  "m_explicit_team_type": 18
+                  "m_explicit_team_type": "current"
                 }
               }
             }
@@ -12675,21 +12687,21 @@
           "m_submit_incident_parameters": {
             "m_incident_id": 113,
             "m_target_1": {
-              "m_target": 1,
+              "m_target": "player",
               "m_player": {
                 "m_type": 2,
                 "m_object": {
-                  "m_explicit_object_type": 1
+                  "m_explicit_object_type": "global_0"
                 },
                 "m_variable_index": 0
               }
             },
             "m_target_2": {
-              "m_target": 0,
+              "m_target": "team",
               "m_team": {
                 "m_type": 0,
                 "m_team": {
-                  "m_explicit_team_type": 18
+                  "m_explicit_team_type": "current"
                 }
               }
             }
@@ -12703,7 +12715,7 @@
               "m_custom_variable": {
                 "m_type": 2,
                 "m_object": {
-                  "m_explicit_object_type": 1
+                  "m_explicit_object_type": "global_0"
                 },
                 "m_variable_index": 3
               }
@@ -12715,7 +12727,7 @@
                 "m_immediate_value": 1
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -12747,7 +12759,7 @@
           "m_timer": {
             "m_type": "object",
             "m_object": {
-              "m_explicit_object_type": 1
+              "m_explicit_object_type": "global_0"
             },
             "m_variable_index": 3
           }
@@ -12757,20 +12769,20 @@
           "m_submit_incident_parameters": {
             "m_incident_id": 114,
             "m_target_1": {
-              "m_target": 1,
+              "m_target": "player",
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 17
+                  "m_explicit_player_type": "global_0"
                 }
               }
             },
             "m_target_2": {
-              "m_target": 0,
+              "m_target": "team",
               "m_team": {
                 "m_type": 0,
                 "m_team": {
-                  "m_explicit_team_type": 18
+                  "m_explicit_team_type": "current"
                 }
               }
             }
@@ -12781,20 +12793,20 @@
           "m_submit_incident_parameters": {
             "m_incident_id": 111,
             "m_target_1": {
-              "m_target": 1,
+              "m_target": "player",
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 17
+                  "m_explicit_player_type": "global_0"
                 }
               }
             },
             "m_target_2": {
-              "m_target": 0,
+              "m_target": "team",
               "m_team": {
                 "m_type": 0,
                 "m_team": {
-                  "m_explicit_team_type": 18
+                  "m_explicit_team_type": "current"
                 }
               }
             }
@@ -12805,20 +12817,20 @@
           "m_submit_incident_parameters": {
             "m_incident_id": 114,
             "m_target_1": {
-              "m_target": 1,
+              "m_target": "player",
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 17
+                  "m_explicit_player_type": "global_0"
                 }
               }
             },
             "m_target_2": {
-              "m_target": 0,
+              "m_target": "team",
               "m_team": {
                 "m_type": 0,
                 "m_team": {
-                  "m_explicit_team_type": 18
+                  "m_explicit_team_type": "current"
                 }
               }
             }
@@ -12829,20 +12841,20 @@
           "m_submit_incident_parameters": {
             "m_incident_id": 111,
             "m_target_1": {
-              "m_target": 1,
+              "m_target": "player",
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 17
+                  "m_explicit_player_type": "global_0"
                 }
               }
             },
             "m_target_2": {
-              "m_target": 0,
+              "m_target": "team",
               "m_team": {
                 "m_type": 0,
                 "m_team": {
-                  "m_explicit_team_type": 18
+                  "m_explicit_team_type": "current"
                 }
               }
             }
@@ -12856,7 +12868,7 @@
               "m_custom_variable": {
                 "m_type": 2,
                 "m_object": {
-                  "m_explicit_object_type": 1
+                  "m_explicit_object_type": "global_0"
                 },
                 "m_variable_index": 2
               }
@@ -12868,7 +12880,7 @@
                 "m_immediate_value": 1
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -12900,7 +12912,7 @@
           "m_timer": {
             "m_type": "object",
             "m_object": {
-              "m_explicit_object_type": 1
+              "m_explicit_object_type": "global_0"
             },
             "m_variable_index": 3
           }
@@ -12913,7 +12925,7 @@
               "m_custom_variable": {
                 "m_type": 2,
                 "m_object": {
-                  "m_explicit_object_type": 1
+                  "m_explicit_object_type": "global_0"
                 },
                 "m_variable_index": 2
               }
@@ -12925,7 +12937,7 @@
                 "m_immediate_value": 0
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -12936,7 +12948,7 @@
               "m_custom_variable": {
                 "m_type": 2,
                 "m_object": {
-                  "m_explicit_object_type": 1
+                  "m_explicit_object_type": "global_0"
                 },
                 "m_variable_index": 3
               }
@@ -12948,7 +12960,7 @@
                 "m_immediate_value": 0
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -12959,7 +12971,7 @@
               "m_object": {
                 "m_type": 0,
                 "m_object": {
-                  "m_explicit_object_type": 1
+                  "m_explicit_object_type": "global_0"
                 }
               }
             },
@@ -12968,12 +12980,12 @@
               "m_object": {
                 "m_type": 3,
                 "m_team": {
-                  "m_explicit_team_type": 18
+                  "m_explicit_team_type": "current"
                 },
                 "m_variable_index": 1
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -12984,7 +12996,7 @@
               "m_object": {
                 "m_type": 0,
                 "m_object": {
-                  "m_explicit_object_type": 2
+                  "m_explicit_object_type": "global_1"
                 }
               }
             },
@@ -12993,12 +13005,12 @@
               "m_object": {
                 "m_type": 6,
                 "m_object": {
-                  "m_explicit_object_type": 1
+                  "m_explicit_object_type": "global_0"
                 },
                 "m_variable_index": 0
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -13009,7 +13021,7 @@
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 17
+                  "m_explicit_player_type": "global_0"
                 }
               }
             },
@@ -13018,12 +13030,12 @@
               "m_player": {
                 "m_type": 2,
                 "m_object": {
-                  "m_explicit_object_type": 1
+                  "m_explicit_object_type": "global_0"
                 },
                 "m_variable_index": 0
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -13032,11 +13044,11 @@
             "m_timer": {
               "m_type": "object",
               "m_object": {
-                "m_explicit_object_type": 1
+                "m_explicit_object_type": "global_0"
               },
               "m_variable_index": 3
             },
-            "m_rate": 5
+            "m_rate": "minus_100x"
           }
         },
         {
@@ -13071,7 +13083,7 @@
               "m_object": {
                 "m_type": 0,
                 "m_object": {
-                  "m_explicit_object_type": 1
+                  "m_explicit_object_type": "global_0"
                 }
               }
             },
@@ -13080,11 +13092,11 @@
               "m_object": {
                 "m_type": 4,
                 "m_player": {
-                  "m_explicit_player_type": 25
+                  "m_explicit_player_type": "current"
                 }
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -13095,7 +13107,7 @@
               "m_object": {
                 "m_type": 0,
                 "m_object": {
-                  "m_explicit_object_type": 2
+                  "m_explicit_object_type": "global_1"
                 }
               }
             },
@@ -13104,11 +13116,11 @@
               "m_object": {
                 "m_type": 0,
                 "m_object": {
-                  "m_explicit_object_type": 0
+                  "m_explicit_object_type": "no_object"
                 }
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -13117,14 +13129,14 @@
             "m_player": {
               "m_type": 0,
               "m_player": {
-                "m_explicit_player_type": 25
+                "m_explicit_player_type": "current"
               }
             },
             "m_primary": true,
             "m_object": {
               "m_type": 0,
               "m_object": {
-                "m_explicit_object_type": 2
+                "m_explicit_object_type": "global_1"
               }
             }
           }
@@ -13135,11 +13147,11 @@
             "m_timer": {
               "m_type": "player",
               "m_player": {
-                "m_explicit_player_type": 25
+                "m_explicit_player_type": "current"
               },
               "m_variable_index": 1
             },
-            "m_rate": 5
+            "m_rate": "minus_100x"
           }
         },
         {
@@ -13148,7 +13160,7 @@
             "m_player": {
               "m_type": 0,
               "m_player": {
-                "m_explicit_player_type": 25
+                "m_explicit_player_type": "current"
               }
             },
             "m_trait_index": 1
@@ -13159,14 +13171,14 @@
           "m_player_1": {
             "m_type": 2,
             "m_object": {
-              "m_explicit_object_type": 1
+              "m_explicit_object_type": "global_0"
             },
             "m_variable_index": 0
           },
           "m_player_2": {
             "m_type": 0,
             "m_player": {
-              "m_explicit_player_type": 17
+              "m_explicit_player_type": "global_0"
             }
           }
         },
@@ -13175,20 +13187,20 @@
           "m_submit_incident_with_custom_value_parameters": {
             "m_incident_id": 358,
             "m_target_1": {
-              "m_target": 1,
+              "m_target": "player",
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 17
+                  "m_explicit_player_type": "global_0"
                 }
               }
             },
             "m_target_2": {
-              "m_target": 1,
+              "m_target": "player",
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 17
+                  "m_explicit_player_type": "global_0"
                 }
               }
             },
@@ -13206,7 +13218,7 @@
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 17
+                  "m_explicit_player_type": "global_0"
                 }
               }
             },
@@ -13215,11 +13227,11 @@
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 0
+                  "m_explicit_player_type": "no_player"
                 }
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -13227,14 +13239,14 @@
           "m_player_1": {
             "m_type": 2,
             "m_object": {
-              "m_explicit_object_type": 1
+              "m_explicit_object_type": "global_0"
             },
             "m_variable_index": 0
           },
           "m_player_2": {
             "m_type": 0,
             "m_player": {
-              "m_explicit_player_type": 17
+              "m_explicit_player_type": "global_0"
             }
           }
         },
@@ -13243,20 +13255,20 @@
           "m_submit_incident_parameters": {
             "m_incident_id": 61,
             "m_target_1": {
-              "m_target": 1,
+              "m_target": "player",
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 17
+                  "m_explicit_player_type": "global_0"
                 }
               }
             },
             "m_target_2": {
-              "m_target": 1,
+              "m_target": "player",
               "m_player": {
                 "m_type": 2,
                 "m_object": {
-                  "m_explicit_object_type": 1
+                  "m_explicit_object_type": "global_0"
                 },
                 "m_variable_index": 0
               }
@@ -13267,15 +13279,15 @@
           "m_type": "set_score",
           "m_set_score_parameters": {
             "m_target": {
-              "m_target": 1,
+              "m_target": "player",
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 17
+                  "m_explicit_player_type": "global_0"
                 }
               }
             },
-            "m_operation": 0,
+            "m_operation": "add",
             "m_variable": {
               "m_type": 5,
               "m_option_index": 7
@@ -13299,7 +13311,7 @@
                 "m_immediate_value": 0
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -13307,7 +13319,7 @@
           "m_player_1": {
             "m_type": 2,
             "m_object": {
-              "m_explicit_object_type": 1
+              "m_explicit_object_type": "global_0"
             },
             "m_variable_index": 0
           },
@@ -13330,7 +13342,7 @@
               "m_player": {
                 "m_type": 2,
                 "m_object": {
-                  "m_explicit_object_type": 1
+                  "m_explicit_object_type": "global_0"
                 },
                 "m_variable_index": 0
               }
@@ -13340,11 +13352,11 @@
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 0
+                  "m_explicit_player_type": "no_player"
                 }
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -13355,7 +13367,7 @@
               "m_object": {
                 "m_type": 0,
                 "m_object": {
-                  "m_explicit_object_type": 1
+                  "m_explicit_object_type": "global_0"
                 }
               }
             },
@@ -13364,12 +13376,12 @@
               "m_object": {
                 "m_type": 3,
                 "m_team": {
-                  "m_explicit_team_type": 18
+                  "m_explicit_team_type": "current"
                 },
                 "m_variable_index": 1
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -13387,18 +13399,22 @@
             "m_object_reference_1": {
               "m_type": 2,
               "m_object": {
-                "m_explicit_object_type": 17
+                "m_explicit_object_type": "current"
               },
               "m_variable_index": 0
             },
             "m_object_reference_2": {
               "m_type": 0,
               "m_object": {
-                "m_explicit_object_type": 17
+                "m_explicit_object_type": "current"
               }
             },
             "m_filter_index": -1,
-            "m_flags": 3,
+            "m_flags": {
+              "never_garbage_collect": true,
+              "suppress_effect": true,
+              "absolute_orientation": true
+            },
             "m_offset": 0,
             "m_variant_name_index": 0
           }
@@ -13409,7 +13425,7 @@
             "m_object": {
               "m_type": 2,
               "m_object": {
-                "m_explicit_object_type": 17
+                "m_explicit_object_type": "current"
               },
               "m_variable_index": 0
             },
@@ -13433,12 +13449,12 @@
           "m_object": {
             "m_type": 2,
             "m_object": {
-              "m_explicit_object_type": 17
+              "m_explicit_object_type": "current"
             },
             "m_variable_index": 0
           },
           "m_player_filter_modifier": {
-            "m_type": 0
+            "m_type": "no_one"
           }
         },
         {
@@ -13447,14 +13463,14 @@
             "m_object_1": {
               "m_type": 2,
               "m_object": {
-                "m_explicit_object_type": 17
+                "m_explicit_object_type": "current"
               },
               "m_variable_index": 0
             },
             "m_object_2": {
               "m_type": 0,
               "m_object": {
-                "m_explicit_object_type": 17
+                "m_explicit_object_type": "current"
               }
             },
             "m_offset": 0,
@@ -13470,18 +13486,22 @@
             "m_object_reference_1": {
               "m_type": 2,
               "m_object": {
-                "m_explicit_object_type": 17
+                "m_explicit_object_type": "current"
               },
               "m_variable_index": 1
             },
             "m_object_reference_2": {
               "m_type": 0,
               "m_object": {
-                "m_explicit_object_type": 17
+                "m_explicit_object_type": "current"
               }
             },
             "m_filter_index": -1,
-            "m_flags": 3,
+            "m_flags": {
+              "never_garbage_collect": true,
+              "suppress_effect": true,
+              "absolute_orientation": true
+            },
             "m_offset": 0,
             "m_variant_name_index": 0
           }
@@ -13494,7 +13514,7 @@
               "m_object": {
                 "m_type": 0,
                 "m_object": {
-                  "m_explicit_object_type": 1
+                  "m_explicit_object_type": "global_0"
                 }
               }
             },
@@ -13503,12 +13523,12 @@
               "m_object": {
                 "m_type": 2,
                 "m_object": {
-                  "m_explicit_object_type": 17
+                  "m_explicit_object_type": "current"
                 },
                 "m_variable_index": 1
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -13519,7 +13539,7 @@
               "m_team": {
                 "m_type": 5,
                 "m_object": {
-                  "m_explicit_object_type": 1
+                  "m_explicit_object_type": "global_0"
                 }
               }
             },
@@ -13528,11 +13548,11 @@
               "m_team": {
                 "m_type": 5,
                 "m_object": {
-                  "m_explicit_object_type": 17
+                  "m_explicit_object_type": "current"
                 }
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -13541,7 +13561,7 @@
             "m_object": {
               "m_type": 2,
               "m_object": {
-                "m_explicit_object_type": 17
+                "m_explicit_object_type": "current"
               },
               "m_variable_index": 1
             },
@@ -13565,12 +13585,12 @@
           "m_object": {
             "m_type": 2,
             "m_object": {
-              "m_explicit_object_type": 17
+              "m_explicit_object_type": "current"
             },
             "m_variable_index": 1
           },
           "m_player_filter_modifier": {
-            "m_type": 0
+            "m_type": "no_one"
           }
         },
         {
@@ -13579,14 +13599,14 @@
             "m_object_1": {
               "m_type": 2,
               "m_object": {
-                "m_explicit_object_type": 17
+                "m_explicit_object_type": "current"
               },
               "m_variable_index": 1
             },
             "m_object_2": {
               "m_type": 0,
               "m_object": {
-                "m_explicit_object_type": 17
+                "m_explicit_object_type": "current"
               }
             },
             "m_offset": 0,
@@ -13610,7 +13630,7 @@
                 "m_immediate_value": 1
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -13619,11 +13639,11 @@
             "m_timer": {
               "m_type": "object",
               "m_object": {
-                "m_explicit_object_type": 1
+                "m_explicit_object_type": "global_0"
               },
               "m_variable_index": 0
             },
-            "m_rate": 0
+            "m_rate": "zero"
           }
         },
         {
@@ -13634,7 +13654,7 @@
               "m_object": {
                 "m_type": 0,
                 "m_object": {
-                  "m_explicit_object_type": 1
+                  "m_explicit_object_type": "global_0"
                 }
               }
             },
@@ -13643,11 +13663,11 @@
               "m_object": {
                 "m_type": 0,
                 "m_object": {
-                  "m_explicit_object_type": 17
+                  "m_explicit_object_type": "current"
                 }
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -13664,7 +13684,7 @@
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 17
+                  "m_explicit_player_type": "global_0"
                 }
               }
             },
@@ -13673,11 +13693,11 @@
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 0
+                  "m_explicit_player_type": "no_player"
                 }
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -13685,13 +13705,13 @@
           "m_object": {
             "m_type": 0,
             "m_object": {
-              "m_explicit_object_type": 1
+              "m_explicit_object_type": "global_0"
             }
           },
           "m_player_1": {
             "m_type": 0,
             "m_player": {
-              "m_explicit_player_type": 17
+              "m_explicit_player_type": "global_0"
             }
           }
         },
@@ -13703,7 +13723,7 @@
               "m_player": {
                 "m_type": 2,
                 "m_object": {
-                  "m_explicit_object_type": 1
+                  "m_explicit_object_type": "global_0"
                 },
                 "m_variable_index": 0
               }
@@ -13713,11 +13733,11 @@
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 0
+                  "m_explicit_player_type": "no_player"
                 }
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -13728,7 +13748,7 @@
               "m_object": {
                 "m_type": 0,
                 "m_object": {
-                  "m_explicit_object_type": 1
+                  "m_explicit_object_type": "global_0"
                 }
               }
             },
@@ -13737,11 +13757,11 @@
               "m_object": {
                 "m_type": 0,
                 "m_object": {
-                  "m_explicit_object_type": 17
+                  "m_explicit_object_type": "current"
                 }
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -13755,7 +13775,7 @@
           "m_object": {
             "m_type": 0,
             "m_object": {
-              "m_explicit_object_type": 17
+              "m_explicit_object_type": "current"
             }
           },
           "m_variable_1": {
@@ -13768,11 +13788,11 @@
           "m_object": {
             "m_type": 0,
             "m_object": {
-              "m_explicit_object_type": 17
+              "m_explicit_object_type": "current"
             }
           },
           "m_player_filter_modifier": {
-            "m_type": 0
+            "m_type": "no_one"
           }
         },
         {
@@ -13780,7 +13800,7 @@
           "m_object": {
             "m_type": 0,
             "m_object": {
-              "m_explicit_object_type": 17
+              "m_explicit_object_type": "current"
             }
           },
           "m_variable_1": {
@@ -13793,11 +13813,11 @@
           "m_object": {
             "m_type": 0,
             "m_object": {
-              "m_explicit_object_type": 17
+              "m_explicit_object_type": "current"
             }
           },
           "m_player_filter_modifier": {
-            "m_type": 0
+            "m_type": "no_one"
           }
         },
         {
@@ -13805,7 +13825,7 @@
           "m_object": {
             "m_type": 0,
             "m_object": {
-              "m_explicit_object_type": 17
+              "m_explicit_object_type": "current"
             }
           },
           "m_variable_1": {
@@ -13818,7 +13838,7 @@
           "m_object": {
             "m_type": 0,
             "m_object": {
-              "m_explicit_object_type": 17
+              "m_explicit_object_type": "current"
             }
           },
           "m_variable_1": {
@@ -13831,11 +13851,11 @@
           "m_object": {
             "m_type": 0,
             "m_object": {
-              "m_explicit_object_type": 17
+              "m_explicit_object_type": "current"
             }
           },
           "m_player_filter_modifier": {
-            "m_type": 0
+            "m_type": "no_one"
           }
         },
         {
@@ -13843,7 +13863,7 @@
           "m_object": {
             "m_type": 0,
             "m_object": {
-              "m_explicit_object_type": 17
+              "m_explicit_object_type": "current"
             }
           },
           "m_variable_1": {
@@ -13856,11 +13876,11 @@
           "m_object": {
             "m_type": 0,
             "m_object": {
-              "m_explicit_object_type": 17
+              "m_explicit_object_type": "current"
             }
           },
           "m_player_filter_modifier": {
-            "m_type": 0
+            "m_type": "no_one"
           }
         },
         {
@@ -13868,7 +13888,7 @@
           "m_object": {
             "m_type": 0,
             "m_object": {
-              "m_explicit_object_type": 17
+              "m_explicit_object_type": "current"
             }
           },
           "m_variable_1": {
@@ -13884,7 +13904,7 @@
               "m_object": {
                 "m_type": 0,
                 "m_object": {
-                  "m_explicit_object_type": 1
+                  "m_explicit_object_type": "global_0"
                 }
               }
             },
@@ -13893,12 +13913,12 @@
               "m_object": {
                 "m_type": 3,
                 "m_team": {
-                  "m_explicit_team_type": 18
+                  "m_explicit_team_type": "current"
                 },
                 "m_variable_index": 1
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -13921,7 +13941,7 @@
               "m_object": {
                 "m_type": 0,
                 "m_object": {
-                  "m_explicit_object_type": 1
+                  "m_explicit_object_type": "global_0"
                 }
               }
             },
@@ -13930,12 +13950,12 @@
               "m_object": {
                 "m_type": 3,
                 "m_team": {
-                  "m_explicit_team_type": 18
+                  "m_explicit_team_type": "current"
                 },
                 "m_variable_index": 1
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -13943,7 +13963,7 @@
           "m_object": {
             "m_type": 3,
             "m_team": {
-              "m_explicit_team_type": 18
+              "m_explicit_team_type": "current"
             },
             "m_variable_index": 1
           }
@@ -13956,7 +13976,7 @@
               "m_object": {
                 "m_type": 3,
                 "m_team": {
-                  "m_explicit_team_type": 18
+                  "m_explicit_team_type": "current"
                 },
                 "m_variable_index": 1
               }
@@ -13966,11 +13986,11 @@
               "m_object": {
                 "m_type": 0,
                 "m_object": {
-                  "m_explicit_object_type": 0
+                  "m_explicit_object_type": "no_object"
                 }
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -13980,7 +14000,7 @@
             "m_player": {
               "m_type": 0,
               "m_player": {
-                "m_explicit_player_type": 25
+                "m_explicit_player_type": "current"
               }
             },
             "m_visible": true
@@ -13993,7 +14013,7 @@
             "m_player": {
               "m_type": 0,
               "m_player": {
-                "m_explicit_player_type": 25
+                "m_explicit_player_type": "current"
               }
             },
             "m_visible": true
@@ -14007,7 +14027,7 @@
               "m_object": {
                 "m_type": 0,
                 "m_object": {
-                  "m_explicit_object_type": 1
+                  "m_explicit_object_type": "global_0"
                 }
               }
             },
@@ -14016,11 +14036,11 @@
               "m_object": {
                 "m_type": 4,
                 "m_player": {
-                  "m_explicit_player_type": 25
+                  "m_explicit_player_type": "current"
                 }
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -14031,7 +14051,7 @@
               "m_team": {
                 "m_type": 0,
                 "m_team": {
-                  "m_explicit_team_type": 10
+                  "m_explicit_team_type": "global_0"
                 }
               }
             },
@@ -14040,11 +14060,11 @@
               "m_team": {
                 "m_type": 4,
                 "m_player": {
-                  "m_explicit_player_type": 25
+                  "m_explicit_player_type": "current"
                 }
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -14055,7 +14075,7 @@
               "m_object": {
                 "m_type": 0,
                 "m_object": {
-                  "m_explicit_object_type": 2
+                  "m_explicit_object_type": "global_1"
                 }
               }
             },
@@ -14064,12 +14084,12 @@
               "m_object": {
                 "m_type": 3,
                 "m_team": {
-                  "m_explicit_team_type": 10
+                  "m_explicit_team_type": "global_0"
                 },
                 "m_variable_index": 1
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -14101,7 +14121,7 @@
                 "m_immediate_value": 0
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -14109,7 +14129,7 @@
           "m_object": {
             "m_type": 4,
             "m_player": {
-              "m_explicit_player_type": 25
+              "m_explicit_player_type": "current"
             }
           },
           "m_variable_1": {
@@ -14134,7 +14154,7 @@
                 "m_immediate_value": 0
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -14157,17 +14177,21 @@
             "m_object_reference_1": {
               "m_type": 0,
               "m_object": {
-                "m_explicit_object_type": 0
+                "m_explicit_object_type": "no_object"
               }
             },
             "m_object_reference_2": {
               "m_type": 4,
               "m_player": {
-                "m_explicit_player_type": 25
+                "m_explicit_player_type": "current"
               }
             },
             "m_filter_index": -1,
-            "m_flags": 1,
+            "m_flags": {
+              "never_garbage_collect": true,
+              "suppress_effect": true,
+              "absolute_orientation": true
+            },
             "m_offset": 0,
             "m_variant_name_index": 0
           }
@@ -14178,11 +14202,11 @@
             "m_timer": {
               "m_type": "object",
               "m_object": {
-                "m_explicit_object_type": 17
+                "m_explicit_object_type": "current"
               },
               "m_variable_index": 2
             },
-            "m_rate": 5
+            "m_rate": "minus_100x"
           }
         },
         {
@@ -14190,7 +14214,7 @@
           "m_object": {
             "m_type": 0,
             "m_object": {
-              "m_explicit_object_type": 17
+              "m_explicit_object_type": "current"
             }
           }
         },
@@ -14209,12 +14233,12 @@
               "m_custom_variable": {
                 "m_type": 11,
                 "m_player": {
-                  "m_explicit_player_type": 25
+                  "m_explicit_player_type": "current"
                 },
                 "m_statistic_index": 1
               }
             },
-            "m_operation": 0
+            "m_operation": "add"
           }
         },
         {
@@ -14232,12 +14256,12 @@
               "m_custom_variable": {
                 "m_type": 11,
                 "m_player": {
-                  "m_explicit_player_type": 25
+                  "m_explicit_player_type": "current"
                 },
                 "m_statistic_index": 1
               }
             },
-            "m_operation": 0
+            "m_operation": "add"
           }
         },
         {
@@ -14245,20 +14269,20 @@
           "m_submit_incident_with_custom_value_parameters": {
             "m_incident_id": 358,
             "m_target_1": {
-              "m_target": 1,
+              "m_target": "player",
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 25
+                  "m_explicit_player_type": "current"
                 }
               }
             },
             "m_target_2": {
-              "m_target": 1,
+              "m_target": "player",
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 25
+                  "m_explicit_player_type": "current"
                 }
               }
             },
@@ -14273,20 +14297,20 @@
           "m_submit_incident_with_custom_value_parameters": {
             "m_incident_id": 358,
             "m_target_1": {
-              "m_target": 1,
+              "m_target": "player",
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 25
+                  "m_explicit_player_type": "current"
                 }
               }
             },
             "m_target_2": {
-              "m_target": 1,
+              "m_target": "player",
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 25
+                  "m_explicit_player_type": "current"
                 }
               }
             },
@@ -14304,7 +14328,7 @@
               "m_object": {
                 "m_type": 0,
                 "m_object": {
-                  "m_explicit_object_type": 1
+                  "m_explicit_object_type": "global_0"
                 }
               }
             },
@@ -14313,12 +14337,12 @@
               "m_object": {
                 "m_type": 3,
                 "m_team": {
-                  "m_explicit_team_type": 18
+                  "m_explicit_team_type": "current"
                 },
                 "m_variable_index": 1
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -14338,7 +14362,7 @@
                 "m_immediate_value": 0
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -14357,7 +14381,7 @@
                 "m_type": 20
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -14377,7 +14401,7 @@
                 "m_immediate_value": 1
               }
             },
-            "m_operation": 1
+            "m_operation": "subtract"
           }
         },
         {
@@ -14397,7 +14421,7 @@
                 "m_immediate_value": 0
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -14423,7 +14447,7 @@
                 "m_immediate_value": 0
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -14448,7 +14472,7 @@
                 "m_type": 13
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -14468,7 +14492,7 @@
                 "m_immediate_value": 2
               }
             },
-            "m_operation": 5
+            "m_operation": "modulo_by"
           }
         },
         {
@@ -14499,7 +14523,7 @@
                 "m_immediate_value": 0
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -14519,7 +14543,7 @@
                 "m_immediate_value": 0
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -14527,10 +14551,10 @@
           "m_submit_incident_parameters": {
             "m_incident_id": 295,
             "m_target_1": {
-              "m_target": 2
+              "m_target": "all_players"
             },
             "m_target_2": {
-              "m_target": 2
+              "m_target": "all_players"
             }
           }
         },
@@ -14551,7 +14575,7 @@
                 "m_immediate_value": 1
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -14560,7 +14584,7 @@
             "m_timer": {
               "m_type": "sudden_death"
             },
-            "m_rate": 5
+            "m_rate": "minus_100x"
           }
         },
         {
@@ -14590,7 +14614,7 @@
                 "m_type": "sudden_death"
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -14599,7 +14623,7 @@
             "m_timer": {
               "m_type": "grace_period"
             },
-            "m_rate": 5
+            "m_rate": "minus_100x"
           }
         },
         {
@@ -17903,7 +17927,7 @@
       "m_precision_bloom": 2.0,
       "m_active_camo_energy_curve_min": 0.0,
       "m_active_camo_energy_curve_max": 0.0,
-      "m_armor_lock_damage_drain": 1.2,
+      "m_armor_lock_damage_drain": 1.2007874,
       "m_armor_lock_damage_drain_limit": 2.0,
       "m_magnum_damage": 10.0,
       "m_magnum_fire_delay": 10.0

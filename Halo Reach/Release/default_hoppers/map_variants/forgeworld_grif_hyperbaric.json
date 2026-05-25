@@ -1,24 +1,32 @@
 {
   "m_metadata": {
-    "file_type": 5,
-    "size_in_bytes": 29481,
-    "unique_id": 2617525581619074207,
-    "parent_unique_id": 2617525581619074207,
-    "root_unique_id": 2617525581619074207,
-    "game_id": 0,
-    "activity": 4,
-    "game_mode": 3,
-    "game_engine_type": 0,
-    "map_id": 3006,
-    "megalo_category_index": -1,
-    "creation_time": "2010-09-14 00:00:00",
-    "creator_xuid": "0000000000000000",
-    "creator_name": "",
-    "creator_xuid_is_online": true,
-    "modification_time": "2010-09-14 00:00:00",
-    "modifier_xuid": "0000000000000000",
-    "modifier_name": "",
-    "modifier_xuid_is_online": true,
+    "general": {
+      "file_type": 5,
+      "size_in_bytes": 29481,
+      "unique_id": 2617525581619074207,
+      "parent_unique_id": 2617525581619074207,
+      "root_unique_id": 2617525581619074207,
+      "game_id": 0,
+      "activity": 4,
+      "game_mode": 3,
+      "game_engine_type": 0,
+      "map_id": 3006
+    },
+    "display": {
+      "megalo_category_index": -1
+    },
+    "creation_history": {
+      "timestamp": "2010-09-14 00:00:00",
+      "xuid": "0000000000000000",
+      "name": "",
+      "is_online": true
+    },
+    "modification_history": {
+      "timestamp": "2010-09-14 00:00:00",
+      "xuid": "0000000000000000",
+      "name": "",
+      "is_online": true
+    },
     "name": "Hyperbaric [HE]",
     "description": "This high pressure chamber is now home to Hand Egg Grifball. "
   },
@@ -5146,13 +5154,13 @@
         "z": 60.005867
       },
       "forward": {
-        "i": -0.999974,
-        "j": -0.00019160056,
-        "k": -0.007210859
+        "i": -0.99999714,
+        "j": -0.00020894254,
+        "k": 0.0024023412
       },
       "up": {
-        "i": -0.007211298,
-        "j": 0.002403786,
+        "i": 0.002403786,
+        "j": -0.007211298,
         "k": 0.99997115
       },
       "spawn_relative_to": -1,
@@ -5248,13 +5256,13 @@
         "z": 60.004776
       },
       "forward": {
-        "i": 0.99999714,
-        "j": 0.000191688,
-        "k": -0.0024033878
+        "i": 0.9999971,
+        "j": 0.00019742257,
+        "k": 0.0024033138
       },
       "up": {
-        "i": 0.0024038416,
-        "j": -0.002403782,
+        "i": -0.002403782,
+        "j": 0.0024038416,
         "k": 0.9999943
       },
       "spawn_relative_to": -1,
@@ -6731,13 +6739,13 @@
         "z": 61.50009
       },
       "forward": {
-        "i": -0.865284,
-        "j": -0.0001916007,
-        "k": -0.5012818
+        "i": -0.960161,
+        "j": -0.24279632,
+        "k": -0.13835034
       },
       "up": {
-        "i": -0.5012811,
-        "j": 0.0020800128,
+        "i": 0.0020800128,
+        "j": -0.5012811,
         "k": 0.865282
       },
       "spawn_relative_to": -1,

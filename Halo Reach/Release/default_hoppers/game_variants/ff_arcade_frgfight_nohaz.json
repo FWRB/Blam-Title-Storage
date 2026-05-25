@@ -3,25 +3,33 @@
   "m_survival_variant": {
     "m_base_variant": {
       "m_metadata": {
-        "file_type": 6,
-        "size_in_bytes": 21289,
-        "unique_id": 18425544828642807001,
-        "parent_unique_id": 18425544828642807001,
-        "root_unique_id": 18425544828642807001,
-        "game_id": 0,
-        "activity": 6,
-        "game_mode": 2,
-        "game_engine_type": 4,
-        "map_id": -1,
-        "megalo_category_index": -1,
-        "creation_time": "2010-09-14 00:00:00",
-        "creator_xuid": "0000000000000000",
-        "creator_name": "¦",
-        "creator_xuid_is_online": true,
-        "modification_time": "2010-09-14 00:00:00",
-        "modifier_xuid": "0000000000000000",
-        "modifier_name": "¦",
-        "modifier_xuid_is_online": true,
+        "general": {
+          "file_type": 6,
+          "size_in_bytes": 21289,
+          "unique_id": 18425544828642807001,
+          "parent_unique_id": 18425544828642807001,
+          "root_unique_id": 18425544828642807001,
+          "game_id": 0,
+          "activity": 6,
+          "game_mode": 2,
+          "game_engine_type": 4,
+          "map_id": -1
+        },
+        "display": {
+          "megalo_category_index": -1
+        },
+        "creation_history": {
+          "timestamp": "2010-09-14 00:00:00",
+          "xuid": "0000000000000000",
+          "name": "¦",
+          "is_online": true
+        },
+        "modification_history": {
+          "timestamp": "2010-09-14 00:00:00",
+          "xuid": "0000000000000000",
+          "name": "¦",
+          "is_online": true
+        },
         "name": "FRGFight",
         "description": "Look into the light. The green, glowy, powerful light.",
         "game_variant_data": {
@@ -856,7 +864,13 @@
         ]
       }
     },
-    "m_variant_flags": 0,
+    "m_variant_flags": {
+      "hazards_enabled": false,
+      "all_generators_must_survive": false,
+      "random_generator_spawns": false,
+      "weapon_drops_enabled": false,
+      "ammo_crates_enabled": false
+    },
     "m_campaign_difficulty_level": 1,
     "m_set_count": 16,
     "m_bonus_lives_awarded": 1,

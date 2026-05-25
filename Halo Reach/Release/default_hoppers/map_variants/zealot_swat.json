@@ -1,24 +1,32 @@
 {
   "m_metadata": {
-    "file_type": 5,
-    "size_in_bytes": 29481,
-    "unique_id": 16721238772969845937,
-    "parent_unique_id": 16721238772969845937,
-    "root_unique_id": 16721238772969845937,
-    "game_id": 0,
-    "activity": 4,
-    "game_mode": 3,
-    "game_engine_type": 0,
-    "map_id": 1040,
-    "megalo_category_index": -1,
-    "creation_time": "2010-09-14 00:00:00",
-    "creator_xuid": "0000000000000000",
-    "creator_name": "¦\r\n",
-    "creator_xuid_is_online": true,
-    "modification_time": "2010-09-14 00:00:00",
-    "modifier_xuid": "0000000000000000",
-    "modifier_name": "¦\r\n",
-    "modifier_xuid_is_online": true,
+    "general": {
+      "file_type": 5,
+      "size_in_bytes": 29481,
+      "unique_id": 16721238772969845937,
+      "parent_unique_id": 16721238772969845937,
+      "root_unique_id": 16721238772969845937,
+      "game_id": 0,
+      "activity": 4,
+      "game_mode": 3,
+      "game_engine_type": 0,
+      "map_id": 1040
+    },
+    "display": {
+      "megalo_category_index": -1
+    },
+    "creation_history": {
+      "timestamp": "2010-09-14 00:00:00",
+      "xuid": "0000000000000000",
+      "name": "¦\r\n",
+      "is_online": true
+    },
+    "modification_history": {
+      "timestamp": "2010-09-14 00:00:00",
+      "xuid": "0000000000000000",
+      "name": "¦\r\n",
+      "is_online": true
+    },
     "name": "Zealot SWAT",
     "description": "Vessels like the Ardent Prayer are a prelude to the devastation the Covenant fleet can unleash upon a planet.\n\n2-8 players"
   },
@@ -831,13 +839,13 @@
         "z": 2.6571198
       },
       "forward": {
-        "i": -0.7942038,
-        "j": 0.48321822,
-        "k": 0.36842984
+        "i": -0.8958536,
+        "j": 0.34885633,
+        "k": -0.27521926
       },
       "up": {
-        "i": 0.33712587,
-        "j": -0.15405084,
+        "i": -0.15405084,
+        "j": 0.33712587,
         "k": 0.9287704
       },
       "spawn_relative_to": -1,
@@ -3279,7 +3287,7 @@
         "z": 2.5141544
       },
       "forward": {
-        "i": 0.35290796,
+        "i": 0.35290793,
         "j": -0.93565804,
         "k": 0.0
       },
@@ -5449,7 +5457,7 @@
         "z": 4.5764217
       },
       "forward": {
-        "i": -0.712913,
+        "i": -0.7129129,
         "j": 0.7012526,
         "k": 0.0
       },
@@ -6259,7 +6267,7 @@
         "z": 4.9952517
       },
       "forward": {
-        "i": 0.45764285,
+        "i": 0.45764288,
         "j": 0.8891361,
         "k": 0.0
       },
@@ -6293,7 +6301,7 @@
         "z": 4.9952517
       },
       "forward": {
-        "i": 0.45764285,
+        "i": 0.45764288,
         "j": 0.8891361,
         "k": 0.0
       },
@@ -9430,7 +9438,7 @@
       },
       "forward": {
         "i": 0.9565499,
-        "j": -0.29156882,
+        "j": -0.2915688,
         "k": 0.0
       },
       "up": {
@@ -9497,8 +9505,8 @@
         "z": 9.290272
       },
       "forward": {
-        "i": 0.54001,
-        "j": 0.84165865,
+        "i": 0.54001004,
+        "j": 0.8416587,
         "k": 0.0
       },
       "up": {

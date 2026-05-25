@@ -1,24 +1,32 @@
 {
   "m_metadata": {
-    "file_type": 5,
-    "size_in_bytes": 29481,
-    "unique_id": 9851910484032596658,
-    "parent_unique_id": 15711473325043768592,
-    "root_unique_id": 4239285832325380657,
-    "game_id": 0,
-    "activity": 4,
-    "game_mode": 3,
-    "game_engine_type": 0,
-    "map_id": 1040,
-    "megalo_category_index": -1,
-    "creation_time": "2011-10-30 22:13:44",
-    "creator_xuid": "0000000000000000",
-    "creator_name": "A Haunted Army",
-    "creator_xuid_is_online": true,
-    "modification_time": "2012-01-13 19:25:10",
-    "modifier_xuid": "0000000000000000",
-    "modifier_name": "A Haunted Army",
-    "modifier_xuid_is_online": true,
+    "general": {
+      "file_type": 5,
+      "size_in_bytes": 29481,
+      "unique_id": 9851910484032596658,
+      "parent_unique_id": 15711473325043768592,
+      "root_unique_id": 4239285832325380657,
+      "game_id": 0,
+      "activity": 4,
+      "game_mode": 3,
+      "game_engine_type": 0,
+      "map_id": 1040
+    },
+    "display": {
+      "megalo_category_index": -1
+    },
+    "creation_history": {
+      "timestamp": "2011-10-30 22:13:44",
+      "xuid": "0000000000000000",
+      "name": "A Haunted Army",
+      "is_online": true
+    },
+    "modification_history": {
+      "timestamp": "2012-01-13 19:25:10",
+      "xuid": "0000000000000000",
+      "name": "A Haunted Army",
+      "is_online": true
+    },
     "name": "Parasitic",
     "description": "Blam!"
   },
@@ -99,13 +107,13 @@
         "z": 2.6571198
       },
       "forward": {
-        "i": -0.83679974,
-        "j": 0.4252935,
-        "k": 0.34480667
+        "i": -0.88167125,
+        "j": 0.33843604,
+        "k": -0.32881162
       },
       "up": {
-        "i": 0.25805137,
-        "j": -0.24907553,
+        "i": -0.24907553,
+        "j": 0.25805137,
         "k": 0.93347245
       },
       "spawn_relative_to": -1,
@@ -1935,7 +1943,7 @@
         "z": 2.5141544
       },
       "forward": {
-        "i": 0.35290796,
+        "i": 0.35290793,
         "j": -0.93565804,
         "k": 0.0
       },
@@ -2955,13 +2963,13 @@
         "z": 3.9256916
       },
       "forward": {
-        "i": -0.9997522,
-        "j": -0.014379639,
-        "k": 0.01699553
+        "i": -0.99981886,
+        "j": -0.014559606,
+        "k": 0.01226203
       },
       "up": {
-        "i": -0.016823273,
-        "j": -0.012016648,
+        "i": -0.012016648,
+        "j": -0.016823273,
         "k": -0.9997863
       },
       "spawn_relative_to": -1,
@@ -4663,7 +4671,7 @@
       },
       "forward": {
         "i": 0.99678963,
-        "j": 0.062816985,
+        "j": 0.06281698,
         "k": -0.04964337
       },
       "up": {

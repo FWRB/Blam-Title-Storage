@@ -1014,7 +1014,7 @@
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 17
+                  "m_explicit_player_type": "global_0"
                 }
               }
             },
@@ -1023,11 +1023,11 @@
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 25
+                  "m_explicit_player_type": "current"
                 }
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -1041,7 +1041,7 @@
               "m_object": {
                 "m_type": 0,
                 "m_object": {
-                  "m_explicit_object_type": 2
+                  "m_explicit_object_type": "global_1"
                 }
               }
             },
@@ -1050,11 +1050,11 @@
               "m_object": {
                 "m_type": 0,
                 "m_object": {
-                  "m_explicit_object_type": 0
+                  "m_explicit_object_type": "no_object"
                 }
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -1065,7 +1065,7 @@
           "m_timer": {
             "m_type": "player",
             "m_player": {
-              "m_explicit_player_type": 25
+              "m_explicit_player_type": "current"
             },
             "m_variable_index": 0
           }
@@ -1091,7 +1091,7 @@
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 17
+                  "m_explicit_player_type": "global_0"
                 }
               }
             },
@@ -1100,11 +1100,11 @@
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 0
+                  "m_explicit_player_type": "no_player"
                 }
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -1115,7 +1115,7 @@
           "m_player_reference_1": {
             "m_type": 0,
             "m_player": {
-              "m_explicit_player_type": 17
+              "m_explicit_player_type": "global_0"
             }
           }
         },
@@ -1130,7 +1130,7 @@
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 20
+                  "m_explicit_player_type": "global_3"
                 }
               }
             },
@@ -1139,11 +1139,11 @@
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 18
+                  "m_explicit_player_type": "global_1"
                 }
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -1157,7 +1157,7 @@
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 19
+                  "m_explicit_player_type": "global_2"
                 }
               }
             },
@@ -1166,11 +1166,11 @@
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 20
+                  "m_explicit_player_type": "global_3"
                 }
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -1184,7 +1184,7 @@
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 19
+                  "m_explicit_player_type": "global_2"
                 }
               }
             },
@@ -1193,11 +1193,11 @@
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 0
+                  "m_explicit_player_type": "no_player"
                 }
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -1220,7 +1220,7 @@
                 "m_immediate_value": 1
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -1234,7 +1234,7 @@
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 19
+                  "m_explicit_player_type": "global_2"
                 }
               }
             },
@@ -1243,11 +1243,11 @@
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 18
+                  "m_explicit_player_type": "global_1"
                 }
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -1270,7 +1270,7 @@
                 "m_immediate_value": 5
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -1284,7 +1284,7 @@
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 19
+                  "m_explicit_player_type": "global_2"
                 }
               }
             },
@@ -1293,11 +1293,11 @@
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 18
+                  "m_explicit_player_type": "global_1"
                 }
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -1320,7 +1320,7 @@
                 "m_immediate_value": 10
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -1334,7 +1334,7 @@
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 19
+                  "m_explicit_player_type": "global_2"
                 }
               }
             },
@@ -1343,11 +1343,11 @@
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 18
+                  "m_explicit_player_type": "global_1"
                 }
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -1359,7 +1359,7 @@
             "m_player": {
               "m_type": 0,
               "m_player": {
-                "m_explicit_player_type": 25
+                "m_explicit_player_type": "current"
               }
             },
             "m_killer_type": 31
@@ -1376,7 +1376,7 @@
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 25
+                  "m_explicit_player_type": "current"
                 }
               }
             },
@@ -1385,11 +1385,11 @@
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 18
+                  "m_explicit_player_type": "global_1"
                 }
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -1412,7 +1412,7 @@
                 "m_immediate_value": 1
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -1436,7 +1436,7 @@
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 17
+                  "m_explicit_player_type": "global_0"
                 }
               }
             },
@@ -1445,11 +1445,11 @@
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 0
+                  "m_explicit_player_type": "no_player"
                 }
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -1463,7 +1463,7 @@
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 25
+                  "m_explicit_player_type": "current"
                 }
               }
             },
@@ -1472,11 +1472,11 @@
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 18
+                  "m_explicit_player_type": "global_1"
                 }
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -1490,7 +1490,7 @@
               "m_object": {
                 "m_type": 0,
                 "m_object": {
-                  "m_explicit_object_type": 3
+                  "m_explicit_object_type": "global_2"
                 }
               }
             },
@@ -1499,11 +1499,11 @@
               "m_object": {
                 "m_type": 0,
                 "m_object": {
-                  "m_explicit_object_type": 0
+                  "m_explicit_object_type": "no_object"
                 }
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -1514,7 +1514,7 @@
           "m_object_reference_1": {
             "m_type": 4,
             "m_player": {
-              "m_explicit_player_type": 25
+              "m_explicit_player_type": "current"
             }
           }
         },
@@ -1539,7 +1539,7 @@
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 18
+                  "m_explicit_player_type": "global_1"
                 }
               }
             },
@@ -1548,11 +1548,11 @@
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 17
+                  "m_explicit_player_type": "global_0"
                 }
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -1566,7 +1566,7 @@
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 17
+                  "m_explicit_player_type": "global_0"
                 }
               }
             },
@@ -1575,11 +1575,11 @@
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 0
+                  "m_explicit_player_type": "no_player"
                 }
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -1593,7 +1593,7 @@
               "m_object": {
                 "m_type": 0,
                 "m_object": {
-                  "m_explicit_object_type": 2
+                  "m_explicit_object_type": "global_1"
                 }
               }
             },
@@ -1602,11 +1602,11 @@
               "m_object": {
                 "m_type": 0,
                 "m_object": {
-                  "m_explicit_object_type": 0
+                  "m_explicit_object_type": "no_object"
                 }
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -1617,7 +1617,7 @@
           "m_object_reference_1": {
             "m_type": 0,
             "m_object": {
-              "m_explicit_object_type": 2
+              "m_explicit_object_type": "global_1"
             }
           },
           "m_object_type_reference": {
@@ -1635,7 +1635,7 @@
               "m_custom_variable": {
                 "m_type": 2,
                 "m_object": {
-                  "m_explicit_object_type": 17
+                  "m_explicit_object_type": "current"
                 },
                 "m_variable_index": 0
               }
@@ -1647,7 +1647,7 @@
                 "m_immediate_value": 1
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -1680,7 +1680,7 @@
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 25
+                  "m_explicit_player_type": "current"
                 }
               }
             },
@@ -1689,11 +1689,11 @@
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 17
+                  "m_explicit_player_type": "global_0"
                 }
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -1707,7 +1707,7 @@
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 17
+                  "m_explicit_player_type": "global_0"
                 }
               }
             },
@@ -1716,11 +1716,11 @@
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 0
+                  "m_explicit_player_type": "no_player"
                 }
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -1731,7 +1731,7 @@
           "m_object_reference_1": {
             "m_type": 4,
             "m_player": {
-              "m_explicit_player_type": 17
+              "m_explicit_player_type": "global_0"
             }
           }
         },
@@ -1746,7 +1746,7 @@
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 17
+                  "m_explicit_player_type": "global_0"
                 }
               }
             },
@@ -1755,11 +1755,11 @@
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 0
+                  "m_explicit_player_type": "no_player"
                 }
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         },
         {
@@ -1773,7 +1773,7 @@
               "m_object": {
                 "m_type": 0,
                 "m_object": {
-                  "m_explicit_object_type": 2
+                  "m_explicit_object_type": "global_1"
                 }
               }
             },
@@ -1782,11 +1782,11 @@
               "m_object": {
                 "m_type": 0,
                 "m_object": {
-                  "m_explicit_object_type": 0
+                  "m_explicit_object_type": "no_object"
                 }
               }
             },
-            "m_comparison": 2
+            "m_comparison": "equal_to"
           }
         }
       ],
@@ -1800,7 +1800,7 @@
           "m_player_1": {
             "m_type": 0,
             "m_player": {
-              "m_explicit_player_type": 25
+              "m_explicit_player_type": "current"
             }
           }
         },
@@ -1808,15 +1808,15 @@
           "m_type": "set_score",
           "m_set_score_parameters": {
             "m_target": {
-              "m_target": 1,
+              "m_target": "player",
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 25
+                  "m_explicit_player_type": "current"
                 }
               }
             },
-            "m_operation": 4,
+            "m_operation": "set_to",
             "m_variable": {
               "m_type": 0,
               "m_immediate_value": 0
@@ -1826,11 +1826,11 @@
         {
           "m_type": "unknown_77",
           "m_target": {
-            "m_target": 1,
+            "m_target": "player",
             "m_player": {
               "m_type": 0,
               "m_player": {
-                "m_explicit_player_type": 25
+                "m_explicit_player_type": "current"
               }
             }
           },
@@ -1842,7 +1842,7 @@
             "m_sound_index": 12,
             "m_immediate": false,
             "m_target": {
-              "m_target": 2
+              "m_target": "all_players"
             }
           }
         },
@@ -1859,7 +1859,7 @@
               "m_type": "global",
               "m_variable_index": 0
             },
-            "m_rate": 5
+            "m_rate": "minus_100x"
           }
         },
         {
@@ -1869,7 +1869,7 @@
               "m_type": "global",
               "m_variable_index": 1
             },
-            "m_rate": 5
+            "m_rate": "minus_100x"
           }
         },
         {
@@ -1880,7 +1880,7 @@
               "m_object": {
                 "m_type": 0,
                 "m_object": {
-                  "m_explicit_object_type": 2
+                  "m_explicit_object_type": "global_1"
                 }
               }
             },
@@ -1889,11 +1889,11 @@
               "m_object": {
                 "m_type": 4,
                 "m_player": {
-                  "m_explicit_player_type": 17
+                  "m_explicit_player_type": "global_0"
                 }
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -1902,11 +1902,11 @@
             "m_timer": {
               "m_type": "player",
               "m_player": {
-                "m_explicit_player_type": 25
+                "m_explicit_player_type": "current"
               },
               "m_variable_index": 0
             },
-            "m_rate": 5
+            "m_rate": "minus_100x"
           }
         },
         {
@@ -1917,7 +1917,7 @@
               "m_custom_variable": {
                 "m_type": 11,
                 "m_player": {
-                  "m_explicit_player_type": 25
+                  "m_explicit_player_type": "current"
                 },
                 "m_statistic_index": 0
               }
@@ -1929,7 +1929,7 @@
                 "m_immediate_value": 1
               }
             },
-            "m_operation": 0
+            "m_operation": "add"
           }
         },
         {
@@ -1937,7 +1937,7 @@
           "m_timer": {
             "m_type": "player",
             "m_player": {
-              "m_explicit_player_type": 25
+              "m_explicit_player_type": "current"
             },
             "m_variable_index": 0
           }
@@ -1948,11 +1948,11 @@
             "m_timer": {
               "m_type": "player",
               "m_player": {
-                "m_explicit_player_type": 25
+                "m_explicit_player_type": "current"
               },
               "m_variable_index": 0
             },
-            "m_rate": 0
+            "m_rate": "zero"
           }
         },
         {
@@ -1963,7 +1963,7 @@
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 17
+                  "m_explicit_player_type": "global_0"
                 }
               }
             },
@@ -1972,11 +1972,11 @@
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 0
+                  "m_explicit_player_type": "no_player"
                 }
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -1993,7 +1993,7 @@
               "m_type": "global",
               "m_variable_index": 1
             },
-            "m_rate": 5
+            "m_rate": "minus_100x"
           }
         },
         {
@@ -2010,7 +2010,7 @@
               "m_type": "global",
               "m_variable_index": 1
             },
-            "m_rate": 5
+            "m_rate": "minus_100x"
           }
         },
         {
@@ -2030,22 +2030,22 @@
                 "m_immediate_value": 1
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
           "m_type": "set_score",
           "m_set_score_parameters": {
             "m_target": {
-              "m_target": 1,
+              "m_target": "player",
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 19
+                  "m_explicit_player_type": "global_2"
                 }
               }
             },
-            "m_operation": 0,
+            "m_operation": "add",
             "m_variable": {
               "m_type": 5,
               "m_option_index": 1
@@ -2057,20 +2057,20 @@
           "m_submit_incident_parameters": {
             "m_incident_id": 37,
             "m_target_1": {
-              "m_target": 1,
+              "m_target": "player",
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 19
+                  "m_explicit_player_type": "global_2"
                 }
               }
             },
             "m_target_2": {
-              "m_target": 1,
+              "m_target": "player",
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 20
+                  "m_explicit_player_type": "global_3"
                 }
               }
             }
@@ -2081,20 +2081,20 @@
           "m_submit_incident_parameters": {
             "m_incident_id": 157,
             "m_target_1": {
-              "m_target": 1,
+              "m_target": "player",
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 19
+                  "m_explicit_player_type": "global_2"
                 }
               }
             },
             "m_target_2": {
-              "m_target": 1,
+              "m_target": "player",
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 20
+                  "m_explicit_player_type": "global_3"
                 }
               }
             }
@@ -2105,20 +2105,20 @@
           "m_submit_incident_parameters": {
             "m_incident_id": 158,
             "m_target_1": {
-              "m_target": 1,
+              "m_target": "player",
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 19
+                  "m_explicit_player_type": "global_2"
                 }
               }
             },
             "m_target_2": {
-              "m_target": 1,
+              "m_target": "player",
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 20
+                  "m_explicit_player_type": "global_3"
                 }
               }
             }
@@ -2132,7 +2132,7 @@
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 18
+                  "m_explicit_player_type": "global_1"
                 }
               }
             },
@@ -2141,11 +2141,11 @@
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 17
+                  "m_explicit_player_type": "global_0"
                 }
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -2156,7 +2156,7 @@
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 19
+                  "m_explicit_player_type": "global_2"
                 }
               }
             },
@@ -2165,11 +2165,11 @@
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 0
+                  "m_explicit_player_type": "no_player"
                 }
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -2180,7 +2180,7 @@
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 20
+                  "m_explicit_player_type": "global_3"
                 }
               }
             },
@@ -2189,11 +2189,11 @@
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 25
+                  "m_explicit_player_type": "current"
                 }
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -2213,7 +2213,7 @@
                 "m_immediate_value": 0
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -2221,13 +2221,13 @@
           "m_player_1": {
             "m_type": 0,
             "m_player": {
-              "m_explicit_player_type": 25
+              "m_explicit_player_type": "current"
             }
           },
           "m_player_2": {
             "m_type": 0,
             "m_player": {
-              "m_explicit_player_type": 19
+              "m_explicit_player_type": "global_2"
             }
           }
         },
@@ -2260,7 +2260,7 @@
                 "m_immediate_value": 0
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -2268,7 +2268,7 @@
           "m_player_1": {
             "m_type": 0,
             "m_player": {
-              "m_explicit_player_type": 19
+              "m_explicit_player_type": "global_2"
             }
           },
           "m_variable_1": {
@@ -2292,15 +2292,15 @@
           "m_type": "set_score",
           "m_set_score_parameters": {
             "m_target": {
-              "m_target": 1,
+              "m_target": "player",
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 19
+                  "m_explicit_player_type": "global_2"
                 }
               }
             },
-            "m_operation": 0,
+            "m_operation": "add",
             "m_variable": {
               "m_type": 5,
               "m_option_index": 0
@@ -2312,20 +2312,20 @@
           "m_submit_incident_parameters": {
             "m_incident_id": 38,
             "m_target_1": {
-              "m_target": 1,
+              "m_target": "player",
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 19
+                  "m_explicit_player_type": "global_2"
                 }
               }
             },
             "m_target_2": {
-              "m_target": 1,
+              "m_target": "player",
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 18
+                  "m_explicit_player_type": "global_1"
                 }
               }
             }
@@ -2340,7 +2340,7 @@
           "m_player_1": {
             "m_type": 0,
             "m_player": {
-              "m_explicit_player_type": 18
+              "m_explicit_player_type": "global_1"
             }
           }
         },
@@ -2352,7 +2352,7 @@
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 17
+                  "m_explicit_player_type": "global_0"
                 }
               }
             },
@@ -2361,18 +2361,18 @@
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 19
+                  "m_explicit_player_type": "global_2"
                 }
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
           "m_type": "show_message_to",
           "m_hud_post_message_parameters": {
             "m_target": {
-              "m_target": 2
+              "m_target": "all_players"
             },
             "m_sound_index": 13,
             "m_string": {
@@ -2383,7 +2383,7 @@
                   "m_player": {
                     "m_type": 0,
                     "m_player": {
-                      "m_explicit_player_type": 17
+                      "m_explicit_player_type": "global_0"
                     }
                   }
                 }
@@ -2396,20 +2396,20 @@
           "m_submit_incident_parameters": {
             "m_incident_id": 113,
             "m_target_1": {
-              "m_target": 1,
+              "m_target": "player",
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 17
+                  "m_explicit_player_type": "global_0"
                 }
               }
             },
             "m_target_2": {
-              "m_target": 1,
+              "m_target": "player",
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 0
+                  "m_explicit_player_type": "no_player"
                 }
               }
             }
@@ -2429,7 +2429,7 @@
               "m_type": "global",
               "m_variable_index": 0
             },
-            "m_rate": 5
+            "m_rate": "minus_100x"
           }
         },
         {
@@ -2438,7 +2438,7 @@
             "m_player": {
               "m_type": 0,
               "m_player": {
-                "m_explicit_player_type": 25
+                "m_explicit_player_type": "current"
               }
             },
             "m_enabled": true
@@ -2450,7 +2450,7 @@
             "m_player": {
               "m_type": 0,
               "m_player": {
-                "m_explicit_player_type": 25
+                "m_explicit_player_type": "current"
               }
             },
             "m_enabled": false
@@ -2464,7 +2464,7 @@
           "m_player_1": {
             "m_type": 0,
             "m_player": {
-              "m_explicit_player_type": 17
+              "m_explicit_player_type": "global_0"
             }
           },
           "m_unknown_data": 1
@@ -2475,10 +2475,10 @@
             "m_object": {
               "m_type": 4,
               "m_player": {
-                "m_explicit_player_type": 17
+                "m_explicit_player_type": "global_0"
               }
             },
-            "m_operation": 4,
+            "m_operation": "set_to",
             "m_variable": {
               "m_type": 0,
               "m_immediate_value": 200
@@ -2491,11 +2491,11 @@
             "m_player": {
               "m_type": 0,
               "m_player": {
-                "m_explicit_player_type": 17
+                "m_explicit_player_type": "global_0"
               }
             },
-            "m_grenade_type": 0,
-            "m_math_operation": 4,
+            "m_grenade_type": "frag_grenade",
+            "m_math_operation": "set_to",
             "m_variable": {
               "m_type": 0,
               "m_immediate_value": 0
@@ -2508,11 +2508,11 @@
             "m_player": {
               "m_type": 0,
               "m_player": {
-                "m_explicit_player_type": 17
+                "m_explicit_player_type": "global_0"
               }
             },
-            "m_grenade_type": 1,
-            "m_math_operation": 4,
+            "m_grenade_type": "plasma_grenade",
+            "m_math_operation": "set_to",
             "m_variable": {
               "m_type": 0,
               "m_immediate_value": 0
@@ -2524,7 +2524,7 @@
           "m_object_1": {
             "m_type": 0,
             "m_object": {
-              "m_explicit_object_type": 1
+              "m_explicit_object_type": "global_0"
             }
           }
         },
@@ -2537,17 +2537,21 @@
             "m_object_reference_1": {
               "m_type": 0,
               "m_object": {
-                "m_explicit_object_type": 1
+                "m_explicit_object_type": "global_0"
               }
             },
             "m_object_reference_2": {
               "m_type": 4,
               "m_player": {
-                "m_explicit_player_type": 17
+                "m_explicit_player_type": "global_0"
               }
             },
             "m_filter_index": -1,
-            "m_flags": 1,
+            "m_flags": {
+              "never_garbage_collect": true,
+              "suppress_effect": true,
+              "absolute_orientation": true
+            },
             "m_offset": 0
           }
         },
@@ -2557,13 +2561,13 @@
             "m_object_1": {
               "m_type": 0,
               "m_object": {
-                "m_explicit_object_type": 1
+                "m_explicit_object_type": "global_0"
               }
             },
             "m_object_2": {
               "m_type": 4,
               "m_player": {
-                "m_explicit_player_type": 17
+                "m_explicit_player_type": "global_0"
               }
             },
             "m_offset": 5
@@ -2577,7 +2581,7 @@
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 18
+                  "m_explicit_player_type": "global_1"
                 }
               }
             },
@@ -2586,11 +2590,11 @@
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 17
+                  "m_explicit_player_type": "global_0"
                 }
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -2601,7 +2605,7 @@
               "m_object": {
                 "m_type": 0,
                 "m_object": {
-                  "m_explicit_object_type": 2
+                  "m_explicit_object_type": "global_1"
                 }
               }
             },
@@ -2610,11 +2614,11 @@
               "m_object": {
                 "m_type": 4,
                 "m_player": {
-                  "m_explicit_player_type": 17
+                  "m_explicit_player_type": "global_0"
                 }
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -2625,7 +2629,7 @@
               "m_object": {
                 "m_type": 0,
                 "m_object": {
-                  "m_explicit_object_type": 3
+                  "m_explicit_object_type": "global_2"
                 }
               }
             },
@@ -2634,11 +2638,11 @@
               "m_object": {
                 "m_type": 4,
                 "m_player": {
-                  "m_explicit_player_type": 25
+                  "m_explicit_player_type": "current"
                 }
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -2649,7 +2653,7 @@
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 17
+                  "m_explicit_player_type": "global_0"
                 }
               }
             },
@@ -2658,18 +2662,18 @@
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 25
+                  "m_explicit_player_type": "current"
                 }
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
           "m_type": "show_message_to",
           "m_hud_post_message_parameters": {
             "m_target": {
-              "m_target": 2
+              "m_target": "all_players"
             },
             "m_sound_index": 13,
             "m_string": {
@@ -2682,11 +2686,11 @@
           "m_type": "show_message_to",
           "m_hud_post_message_parameters": {
             "m_target": {
-              "m_target": 1,
+              "m_target": "player",
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 25
+                  "m_explicit_player_type": "current"
                 }
               }
             },
@@ -2702,20 +2706,20 @@
           "m_submit_incident_parameters": {
             "m_incident_id": 113,
             "m_target_1": {
-              "m_target": 1,
+              "m_target": "player",
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 17
+                  "m_explicit_player_type": "global_0"
                 }
               }
             },
             "m_target_2": {
-              "m_target": 1,
+              "m_target": "player",
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 0
+                  "m_explicit_player_type": "no_player"
                 }
               }
             }
@@ -2727,7 +2731,7 @@
             "m_player": {
               "m_type": 0,
               "m_player": {
-                "m_explicit_player_type": 25
+                "m_explicit_player_type": "current"
               }
             },
             "m_enabled": true
@@ -2739,7 +2743,7 @@
             "m_player": {
               "m_type": 0,
               "m_player": {
-                "m_explicit_player_type": 25
+                "m_explicit_player_type": "current"
               }
             },
             "m_enabled": false
@@ -2753,7 +2757,7 @@
           "m_player_1": {
             "m_type": 0,
             "m_player": {
-              "m_explicit_player_type": 17
+              "m_explicit_player_type": "global_0"
             }
           },
           "m_unknown_data": 1
@@ -2764,10 +2768,10 @@
             "m_object": {
               "m_type": 4,
               "m_player": {
-                "m_explicit_player_type": 17
+                "m_explicit_player_type": "global_0"
               }
             },
-            "m_operation": 4,
+            "m_operation": "set_to",
             "m_variable": {
               "m_type": 0,
               "m_immediate_value": 200
@@ -2780,11 +2784,11 @@
             "m_player": {
               "m_type": 0,
               "m_player": {
-                "m_explicit_player_type": 17
+                "m_explicit_player_type": "global_0"
               }
             },
-            "m_grenade_type": 0,
-            "m_math_operation": 4,
+            "m_grenade_type": "frag_grenade",
+            "m_math_operation": "set_to",
             "m_variable": {
               "m_type": 0,
               "m_immediate_value": 0
@@ -2797,11 +2801,11 @@
             "m_player": {
               "m_type": 0,
               "m_player": {
-                "m_explicit_player_type": 17
+                "m_explicit_player_type": "global_0"
               }
             },
-            "m_grenade_type": 1,
-            "m_math_operation": 4,
+            "m_grenade_type": "plasma_grenade",
+            "m_math_operation": "set_to",
             "m_variable": {
               "m_type": 0,
               "m_immediate_value": 0
@@ -2816,7 +2820,7 @@
               "m_custom_variable": {
                 "m_type": 1,
                 "m_player": {
-                  "m_explicit_player_type": 25
+                  "m_explicit_player_type": "current"
                 },
                 "m_variable_index": 0
               }
@@ -2828,7 +2832,7 @@
                 "m_immediate_value": 0
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -2845,7 +2849,7 @@
               "m_type": "global",
               "m_variable_index": 0
             },
-            "m_rate": 5
+            "m_rate": "minus_100x"
           }
         },
         {
@@ -2853,7 +2857,7 @@
           "m_object_1": {
             "m_type": 0,
             "m_object": {
-              "m_explicit_object_type": 1
+              "m_explicit_object_type": "global_0"
             }
           }
         },
@@ -2866,17 +2870,21 @@
             "m_object_reference_1": {
               "m_type": 0,
               "m_object": {
-                "m_explicit_object_type": 1
+                "m_explicit_object_type": "global_0"
               }
             },
             "m_object_reference_2": {
               "m_type": 4,
               "m_player": {
-                "m_explicit_player_type": 17
+                "m_explicit_player_type": "global_0"
               }
             },
             "m_filter_index": -1,
-            "m_flags": 1,
+            "m_flags": {
+              "never_garbage_collect": true,
+              "suppress_effect": true,
+              "absolute_orientation": true
+            },
             "m_offset": 0
           }
         },
@@ -2886,13 +2894,13 @@
             "m_object_1": {
               "m_type": 0,
               "m_object": {
-                "m_explicit_object_type": 1
+                "m_explicit_object_type": "global_0"
               }
             },
             "m_object_2": {
               "m_type": 4,
               "m_player": {
-                "m_explicit_player_type": 17
+                "m_explicit_player_type": "global_0"
               }
             },
             "m_offset": 5
@@ -2904,10 +2912,10 @@
             "m_object": {
               "m_type": 4,
               "m_player": {
-                "m_explicit_player_type": 25
+                "m_explicit_player_type": "current"
               }
             },
-            "m_navpoint_icon": 4
+            "m_navpoint_icon": "diamond"
           }
         },
         {
@@ -2915,11 +2923,11 @@
           "m_object_1": {
             "m_type": 4,
             "m_player": {
-              "m_explicit_player_type": 25
+              "m_explicit_player_type": "current"
             }
           },
           "m_player_filter_modifier": {
-            "m_type": 0
+            "m_type": "no_one"
           }
         },
         {
@@ -2928,10 +2936,10 @@
             "m_object": {
               "m_type": 4,
               "m_player": {
-                "m_explicit_player_type": 25
+                "m_explicit_player_type": "current"
               }
             },
-            "m_priority": 0
+            "m_priority": "low"
           }
         },
         {
@@ -2939,7 +2947,7 @@
           "m_object_1": {
             "m_type": 4,
             "m_player": {
-              "m_explicit_player_type": 25
+              "m_explicit_player_type": "current"
             }
           },
           "m_variable_1": {
@@ -2958,7 +2966,7 @@
           "m_object_1": {
             "m_type": 4,
             "m_player": {
-              "m_explicit_player_type": 17
+              "m_explicit_player_type": "global_0"
             }
           },
           "m_variable_1": {
@@ -2972,7 +2980,7 @@
             "m_player": {
               "m_type": 0,
               "m_player": {
-                "m_explicit_player_type": 17
+                "m_explicit_player_type": "global_0"
               }
             },
             "m_trait_index": 0
@@ -2984,10 +2992,10 @@
             "m_object": {
               "m_type": 4,
               "m_player": {
-                "m_explicit_player_type": 17
+                "m_explicit_player_type": "global_0"
               }
             },
-            "m_navpoint_icon": 4
+            "m_navpoint_icon": "diamond"
           }
         },
         {
@@ -2995,11 +3003,11 @@
           "m_object_1": {
             "m_type": 4,
             "m_player": {
-              "m_explicit_player_type": 17
+              "m_explicit_player_type": "global_0"
             }
           },
           "m_player_filter_modifier": {
-            "m_type": 1
+            "m_type": "everyone"
           }
         },
         {
@@ -3008,10 +3016,10 @@
             "m_object": {
               "m_type": 4,
               "m_player": {
-                "m_explicit_player_type": 17
+                "m_explicit_player_type": "global_0"
               }
             },
-            "m_priority": 2
+            "m_priority": "high"
           }
         },
         {
@@ -3023,7 +3031,7 @@
           "m_player_1": {
             "m_type": 0,
             "m_player": {
-              "m_explicit_player_type": 17
+              "m_explicit_player_type": "global_0"
             }
           }
         },
@@ -3033,7 +3041,7 @@
             "m_player": {
               "m_type": 0,
               "m_player": {
-                "m_explicit_player_type": 17
+                "m_explicit_player_type": "global_0"
               }
             },
             "m_trait_index": 1
@@ -3044,7 +3052,7 @@
           "m_object_1": {
             "m_type": 4,
             "m_player": {
-              "m_explicit_player_type": 17
+              "m_explicit_player_type": "global_0"
             }
           },
           "m_variable_1": {
@@ -3058,10 +3066,10 @@
             "m_object": {
               "m_type": 4,
               "m_player": {
-                "m_explicit_player_type": 17
+                "m_explicit_player_type": "global_0"
               }
             },
-            "m_navpoint_icon": 8
+            "m_navpoint_icon": "crown"
           }
         },
         {
@@ -3072,7 +3080,7 @@
               "m_custom_variable": {
                 "m_type": 2,
                 "m_object": {
-                  "m_explicit_object_type": 17
+                  "m_explicit_object_type": "current"
                 },
                 "m_variable_index": 0
               }
@@ -3084,7 +3092,7 @@
                 "m_immediate_value": 1
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -3095,7 +3103,7 @@
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 18
+                  "m_explicit_player_type": "global_1"
                 }
               }
             },
@@ -3104,11 +3112,11 @@
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 0
+                  "m_explicit_player_type": "no_player"
                 }
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -3116,13 +3124,13 @@
           "m_object_1": {
             "m_type": 0,
             "m_object": {
-              "m_explicit_object_type": 17
+              "m_explicit_object_type": "current"
             }
           },
           "m_player_1": {
             "m_type": 0,
             "m_player": {
-              "m_explicit_player_type": 18
+              "m_explicit_player_type": "global_1"
             }
           }
         },
@@ -3134,7 +3142,7 @@
               "m_custom_variable": {
                 "m_type": 2,
                 "m_object": {
-                  "m_explicit_object_type": 17
+                  "m_explicit_object_type": "current"
                 },
                 "m_variable_index": 0
               }
@@ -3146,7 +3154,7 @@
                 "m_immediate_value": 0
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -3157,7 +3165,7 @@
               "m_object": {
                 "m_type": 0,
                 "m_object": {
-                  "m_explicit_object_type": 2
+                  "m_explicit_object_type": "global_1"
                 }
               }
             },
@@ -3166,11 +3174,11 @@
               "m_object": {
                 "m_type": 0,
                 "m_object": {
-                  "m_explicit_object_type": 0
+                  "m_explicit_object_type": "no_object"
                 }
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -3179,14 +3187,14 @@
             "m_player": {
               "m_type": 0,
               "m_player": {
-                "m_explicit_player_type": 17
+                "m_explicit_player_type": "global_0"
               }
             },
             "m_primary": false,
             "m_object": {
               "m_type": 0,
               "m_object": {
-                "m_explicit_object_type": 2
+                "m_explicit_object_type": "global_1"
               }
             }
           }
@@ -3197,7 +3205,7 @@
             "m_player": {
               "m_type": 0,
               "m_player": {
-                "m_explicit_player_type": 17
+                "m_explicit_player_type": "global_0"
               }
             },
             "m_enabled": false
@@ -3208,7 +3216,7 @@
           "m_object_1": {
             "m_type": 0,
             "m_object": {
-              "m_explicit_object_type": 17
+              "m_explicit_object_type": "current"
             }
           }
         },
@@ -3223,7 +3231,7 @@
               "m_team": {
                 "m_type": 4,
                 "m_player": {
-                  "m_explicit_player_type": 25
+                  "m_explicit_player_type": "current"
                 }
               }
             },
@@ -3232,11 +3240,11 @@
               "m_team": {
                 "m_type": 0,
                 "m_team": {
-                  "m_explicit_team_type": 0
+                  "m_explicit_team_type": "no_team"
                 }
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -3247,7 +3255,7 @@
               "m_team": {
                 "m_type": 4,
                 "m_player": {
-                  "m_explicit_player_type": 25
+                  "m_explicit_player_type": "current"
                 }
               }
             },
@@ -3256,11 +3264,11 @@
               "m_team": {
                 "m_type": 0,
                 "m_team": {
-                  "m_explicit_team_type": 1
+                  "m_explicit_team_type": "team_0"
                 }
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -3271,7 +3279,7 @@
               "m_team": {
                 "m_type": 4,
                 "m_player": {
-                  "m_explicit_player_type": 25
+                  "m_explicit_player_type": "current"
                 }
               }
             },
@@ -3280,11 +3288,11 @@
               "m_team": {
                 "m_type": 0,
                 "m_team": {
-                  "m_explicit_team_type": 2
+                  "m_explicit_team_type": "team_1"
                 }
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -3292,7 +3300,7 @@
           "m_object_1": {
             "m_type": 4,
             "m_player": {
-              "m_explicit_player_type": 17
+              "m_explicit_player_type": "global_0"
             }
           }
         },
@@ -3304,7 +3312,7 @@
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 17
+                  "m_explicit_player_type": "global_0"
                 }
               }
             },
@@ -3313,11 +3321,11 @@
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 0
+                  "m_explicit_player_type": "no_player"
                 }
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -3328,7 +3336,7 @@
               "m_object": {
                 "m_type": 0,
                 "m_object": {
-                  "m_explicit_object_type": 2
+                  "m_explicit_object_type": "global_1"
                 }
               }
             },
@@ -3337,11 +3345,11 @@
               "m_object": {
                 "m_type": 4,
                 "m_player": {
-                  "m_explicit_player_type": 17
+                  "m_explicit_player_type": "global_0"
                 }
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -3352,7 +3360,7 @@
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 17
+                  "m_explicit_player_type": "global_0"
                 }
               }
             },
@@ -3361,11 +3369,11 @@
               "m_player": {
                 "m_type": 0,
                 "m_player": {
-                  "m_explicit_player_type": 0
+                  "m_explicit_player_type": "no_player"
                 }
               }
             },
-            "m_operation": 4
+            "m_operation": "set_to"
           }
         },
         {
@@ -3373,7 +3381,7 @@
           "m_object_1": {
             "m_type": 0,
             "m_object": {
-              "m_explicit_object_type": 17
+              "m_explicit_object_type": "current"
             }
           }
         }

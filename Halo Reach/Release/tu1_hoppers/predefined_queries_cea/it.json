@@ -1,9 +1,8 @@
 {
   "queries": [
     {
-      "unknown1": 12,
-      "unknown2": 0,
-      "unknown3": 0,
+      "searchId": 12,
+      "shareId": "0x0000000000000000",
       "name": "I più scaricati",
       "description": "Lista di file ordinati in base al numero di download negli ultimi 7 giorni."
     }

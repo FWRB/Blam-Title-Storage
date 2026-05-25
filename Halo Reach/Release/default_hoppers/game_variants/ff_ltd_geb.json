@@ -3,25 +3,33 @@
   "m_survival_variant": {
     "m_base_variant": {
       "m_metadata": {
-        "file_type": 6,
-        "size_in_bytes": 21289,
-        "unique_id": 10377287765074977198,
-        "parent_unique_id": 10377287765074977198,
-        "root_unique_id": 10377287765074977198,
-        "game_id": 0,
-        "activity": 6,
-        "game_mode": 2,
-        "game_engine_type": 4,
-        "map_id": -1,
-        "megalo_category_index": -1,
-        "creation_time": "2010-09-14 00:00:00",
-        "creator_xuid": "0000000000000000",
-        "creator_name": "",
-        "creator_xuid_is_online": true,
-        "modification_time": "2010-09-14 00:00:00",
-        "modifier_xuid": "0000000000000000",
-        "modifier_name": "",
-        "modifier_xuid_is_online": true,
+        "general": {
+          "file_type": 6,
+          "size_in_bytes": 21289,
+          "unique_id": 10377287765074977198,
+          "parent_unique_id": 10377287765074977198,
+          "root_unique_id": 10377287765074977198,
+          "game_id": 0,
+          "activity": 6,
+          "game_mode": 2,
+          "game_engine_type": 4,
+          "map_id": -1
+        },
+        "display": {
+          "megalo_category_index": -1
+        },
+        "creation_history": {
+          "timestamp": "2010-09-14 00:00:00",
+          "xuid": "0000000000000000",
+          "name": "",
+          "is_online": true
+        },
+        "modification_history": {
+          "timestamp": "2010-09-14 00:00:00",
+          "xuid": "0000000000000000",
+          "name": "",
+          "is_online": true
+        },
         "name": "FF Limited",
         "description": "With limited lives, fight against increasingly difficult odds. One Set and you're done.",
         "game_variant_data": {
@@ -856,7 +864,13 @@
         ]
       }
     },
-    "m_variant_flags": 25,
+    "m_variant_flags": {
+      "hazards_enabled": true,
+      "all_generators_must_survive": true,
+      "random_generator_spawns": true,
+      "weapon_drops_enabled": true,
+      "ammo_crates_enabled": true
+    },
     "m_campaign_difficulty_level": 1,
     "m_set_count": 16,
     "m_bonus_lives_awarded": 1,

@@ -1,37 +1,32 @@
 {
   "queries": [
     {
-      "unknown1": 15,
-      "unknown2": 1,
-      "unknown3": 0,
+      "searchId": 15,
+      "shareId": "0x0000000100000000",
       "name": "Most Downloaded",
       "description": "Files sorted by number of downloads."
     },
     {
-      "unknown1": 16,
-      "unknown2": 0,
-      "unknown3": 0,
+      "searchId": 16,
+      "shareId": "0x0000000000000000",
       "name": "Most Recommended",
       "description": "Files sorted by number of recommendations."
     },
     {
-      "unknown1": 17,
-      "unknown2": 0,
-      "unknown3": 0,
+      "searchId": 17,
+      "shareId": "0x0000000000000000",
       "name": "Recently Uploaded",
       "description": "Files sorted by date of upload."
     },
     {
-      "unknown1": 18,
-      "unknown2": 0,
-      "unknown3": 0,
+      "searchId": 18,
+      "shareId": "0x0000000000000000",
       "name": "Recently Downloaded",
       "description": "Files other players have recently downloaded."
     },
     {
-      "unknown1": 0,
-      "unknown2": 4294967295,
-      "unknown3": 4294967043,
+      "searchId": 0,
+      "shareId": "0xFFFFFFFFFFFFFF03",
       "name": "Bungie Favorites",
       "description": "Community favorites picked by the Blam Network team."
     }

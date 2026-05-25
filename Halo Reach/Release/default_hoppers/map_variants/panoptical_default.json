@@ -1,24 +1,32 @@
 {
   "m_metadata": {
-    "file_type": 5,
-    "size_in_bytes": 29481,
-    "unique_id": 16776421246246721881,
-    "parent_unique_id": 16776421246246721881,
-    "root_unique_id": 16776421246246721881,
-    "game_id": 0,
-    "activity": 4,
-    "game_mode": 3,
-    "game_engine_type": 0,
-    "map_id": 1035,
-    "megalo_category_index": -1,
-    "creation_time": "2010-09-14 00:00:00",
-    "creator_xuid": "0000000000000000",
-    "creator_name": "¦",
-    "creator_xuid_is_online": true,
-    "modification_time": "2010-09-14 00:00:00",
-    "modifier_xuid": "0000000000000000",
-    "modifier_name": "¦",
-    "modifier_xuid_is_online": true,
+    "general": {
+      "file_type": 5,
+      "size_in_bytes": 29481,
+      "unique_id": 16776421246246721881,
+      "parent_unique_id": 16776421246246721881,
+      "root_unique_id": 16776421246246721881,
+      "game_id": 0,
+      "activity": 4,
+      "game_mode": 3,
+      "game_engine_type": 0,
+      "map_id": 1035
+    },
+    "display": {
+      "megalo_category_index": -1
+    },
+    "creation_history": {
+      "timestamp": "2010-09-14 00:00:00",
+      "xuid": "0000000000000000",
+      "name": "¦",
+      "is_online": true
+    },
+    "modification_history": {
+      "timestamp": "2010-09-14 00:00:00",
+      "xuid": "0000000000000000",
+      "name": "¦",
+      "is_online": true
+    },
     "name": "Boardwalk",
     "description": "New Alexandria’s civilian concourses provide access to rapid transit and views of Reach’s serene vistas. 4-12 mans. V7"
   },
@@ -991,13 +999,13 @@
         "z": -0.2325859
       },
       "forward": {
-        "i": 0.9626492,
-        "j": -0.23225254,
-        "k": -0.13915938
+        "i": 0.97602624,
+        "j": -0.20944765,
+        "k": 0.059199132
       },
       "up": {
-        "i": 0.13568588,
-        "j": -0.03094583,
+        "i": -0.03094583,
+        "j": 0.13568588,
         "k": 0.99026847
       },
       "spawn_relative_to": -1,
@@ -6636,7 +6644,7 @@
       },
       "forward": {
         "i": -0.9814161,
-        "j": 0.1918923,
+        "j": 0.19189228,
         "k": 0.0
       },
       "up": {
@@ -11734,7 +11742,7 @@
       },
       "forward": {
         "i": -0.94121987,
-        "j": 0.33779156,
+        "j": 0.33779153,
         "k": 0.001450554
       },
       "up": {
@@ -11802,12 +11810,12 @@
       },
       "forward": {
         "i": 0.9998938,
-        "j": 0.014380635,
-        "k": -0.002369032
+        "j": 0.014386249,
+        "k": 0.0023689575
       },
       "up": {
-        "i": 0.0024038416,
-        "j": -0.002403782,
+        "i": -0.002403782,
+        "j": 0.0024038416,
         "k": 0.9999943
       },
       "spawn_relative_to": -1,
