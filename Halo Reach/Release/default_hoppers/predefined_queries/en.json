@@ -29,6 +29,12 @@
       "shareId": "0xFFFFFFFFFFFFFF03",
       "name": "Bungie Favorites",
       "description": "Community favorites picked by the Blam Network team."
+    },
+    {
+      "searchId": 0,
+      "shareId": "0xFFFFFFFFFFFFFF10",
+      "name": "Blam Network",
+      "description": "Community files archived by the Blam Network team."
     }
   ]
 }
