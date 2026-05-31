@@ -32,8 +32,8 @@
           "name": "¦",
           "is_online": true
         },
-        "name": "$hr_gvar_TU_Team_Oddball",
-        "description": "$hr_gvar_TU_Team_Oddball_desc",
+        "name": "TU Team Oddball",
+        "description": "Hold the skull to earn points. It's like Hamlet with guns.",
         "game_variant_data": {
           "icon_index": 2
         }

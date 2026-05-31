@@ -32,8 +32,8 @@
           "name": "¦",
           "is_online": true
         },
-        "name": "$hr_gvar_2_Flag_Slayer",
-        "description": "$hr_gvar_2_Flag_Slayer_desc",
+        "name": "2 Flag Slayer",
+        "description": "Capture flags or kill enemies to score points.",
         "game_variant_data": {
           "icon_index": 0
         }

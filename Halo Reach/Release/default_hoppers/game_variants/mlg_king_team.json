@@ -32,8 +32,8 @@
           "name": "¦",
           "is_online": true
         },
-        "name": "$hr_gvar_MLG_King",
-        "description": "$hr_gvar_MLG_King_desc",
+        "name": "MLG King",
+        "description": "MLG Playlist Game Variant. Use the 'MLG Gametypes' gamertag as your source for official MLG Variants.",
         "game_variant_data": {
           "icon_index": 3
         }

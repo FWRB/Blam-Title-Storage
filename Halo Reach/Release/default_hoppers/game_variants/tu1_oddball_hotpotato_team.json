@@ -33,7 +33,7 @@
           "is_online": true
         },
         "name": "TU HOT POTATO",
-        "description": "$hr_gvar_TU_Hot_Potato_desc",
+        "description": "Hold the skull to earn points. It's like Hamlet with guns.",
         "game_variant_data": {
           "icon_index": 2
         }

@@ -33,7 +33,7 @@
           "is_online": true
         },
         "name": "TERRITORIES",
-        "description": "$hr_gvar_Territories_desc",
+        "description": "Defend your Territory and control the land. Teams earn points for Territories they control.",
         "game_variant_data": {
           "icon_index": 5
         }

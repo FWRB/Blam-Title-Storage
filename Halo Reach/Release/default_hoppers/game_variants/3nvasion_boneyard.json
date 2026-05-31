@@ -33,7 +33,7 @@
           "is_online": true
         },
         "name": "INVASION: BONEYARD",
-        "description": "$hr_gvar_Invasion_Boneyard_desc",
+        "description": "Protect the navigation core from a Covenant attack.",
         "game_variant_data": {
           "icon_index": 9
         }

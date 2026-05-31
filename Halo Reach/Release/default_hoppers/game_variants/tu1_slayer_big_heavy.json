@@ -32,8 +32,8 @@
           "name": "",
           "is_online": true
         },
-        "name": "$hr_gvar_BTB_Heavies",
-        "description": "$hr_gvar_BTB_Heavies_desc",
+        "name": "BTB Heavies",
+        "description": "Score points by killing players on the opposing team. Bonus Points on.",
         "game_variant_data": {
           "icon_index": 1
         }

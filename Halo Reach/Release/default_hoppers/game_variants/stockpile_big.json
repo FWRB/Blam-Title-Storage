@@ -33,7 +33,7 @@
           "is_online": true
         },
         "name": "STOCKPILE",
-        "description": "$hr_gvar_Stockpile_desc",
+        "description": "Collect flags in your team's score zone. Earn points for each flag captured.",
         "game_variant_data": {
           "icon_index": 11
         }

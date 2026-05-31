@@ -33,7 +33,7 @@
           "is_online": true
         },
         "name": "HOCKEY",
-        "description": "$hr_gvar_Hockey_desc",
+        "description": "Put the puck into the goal to score!",
         "game_variant_data": {
           "icon_index": 20
         }

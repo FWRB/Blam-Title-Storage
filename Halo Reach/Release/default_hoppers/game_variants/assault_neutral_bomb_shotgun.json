@@ -32,8 +32,8 @@
           "name": "¦",
           "is_online": true
         },
-        "name": "$hr_gvar_Shotgun_Assault",
-        "description": "$hr_gvar_Shotgun_Assault_desc",
+        "name": "Shotgun Assault",
+        "description": "Retrieve the bomb, arm it in your opponent's base, and then protect it until it detonates.",
         "game_variant_data": {
           "icon_index": 6
         }

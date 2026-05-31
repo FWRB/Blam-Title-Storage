@@ -33,7 +33,7 @@
           "is_online": true
         },
         "name": "ANNIVERSARY ONE FLAG",
-        "description": "$hr_gvar_Anniversary_One_Flag_desc",
+        "description": "1 Flag with Classic Magnum",
         "game_variant_data": {
           "icon_index": 0
         }

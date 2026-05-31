@@ -33,7 +33,7 @@
           "is_online": true
         },
         "name": "3-PLOT TERRITORIES",
-        "description": "$hr_gvar_3-Plot_Territories_desc",
+        "description": "Three Territories are up for grabs. Teams earn points for Territories they control.",
         "game_variant_data": {
           "icon_index": 5
         }

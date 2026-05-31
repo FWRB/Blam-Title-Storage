@@ -33,7 +33,7 @@
           "is_online": true
         },
         "name": "HEADHUNTER",
-        "description": "$hr_gvar_Headhunter_desc",
+        "description": "Capture the flaming skulls dropped by dead players. Just like in real life.",
         "game_variant_data": {
           "icon_index": 17
         }

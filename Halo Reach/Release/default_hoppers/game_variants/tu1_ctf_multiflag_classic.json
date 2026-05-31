@@ -32,8 +32,8 @@
           "name": "",
           "is_online": true
         },
-        "name": "$hr_gvar_TU_Classic_CTF",
-        "description": "$hr_gvar_TU_Classic_CTF_desc",
+        "name": "TU Classic CTF",
+        "description": "Capture flags to score points",
         "game_variant_data": {
           "icon_index": 0
         }

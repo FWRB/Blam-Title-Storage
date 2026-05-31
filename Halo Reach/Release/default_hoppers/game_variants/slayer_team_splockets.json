@@ -32,8 +32,8 @@
           "name": "",
           "is_online": true
         },
-        "name": "$hr_gvar_Splockets",
-        "description": "$hr_gvar_Splockets_desc",
+        "name": "Splockets",
+        "description": "Spartan Lasers and Rocket Launchers, who could ask for more?",
         "game_variant_data": {
           "icon_index": 1
         }

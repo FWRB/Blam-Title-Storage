@@ -32,8 +32,8 @@
           "name": "",
           "is_online": true
         },
-        "name": "$hr_gvar_Team_Snipers",
-        "description": "$hr_gvar_Team_Snipers_desc",
+        "name": "Team Snipers",
+        "description": "Score points by killing players on the opposing team.",
         "game_variant_data": {
           "icon_index": 1
         }

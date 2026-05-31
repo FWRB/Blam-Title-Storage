@@ -33,7 +33,7 @@
           "is_online": true
         },
         "name": "SAFE HAVENS",
-        "description": "$hr_gvar_Safe_Havens_desc",
+        "description": "The timeless struggle of human versus zombie. If you die by a zombie's hand, you join their ranks.",
         "game_variant_data": {
           "icon_index": 7
         }

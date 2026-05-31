@@ -32,8 +32,8 @@
           "name": "",
           "is_online": true
         },
-        "name": "$hr_gvar_TU_Alpha_Zombies",
-        "description": "$hr_gvar_TU_Alpha_Zombies_desc",
+        "name": "TU Alpha Zombies",
+        "description": "The strongest zombies are the creators not the creations",
         "game_variant_data": {
           "icon_index": 7
         }

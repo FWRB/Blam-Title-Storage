@@ -32,8 +32,8 @@
           "name": "",
           "is_online": true
         },
-        "name": "$hr_gvar_TU_Zero_Bloom_Slayer",
-        "description": "$hr_gvar_TU_Zero_Bloom_Slayer_desc",
+        "name": "TU Zero Bloom Slayer",
+        "description": "DMR starts with default loadouts. 50 points to win.",
         "game_variant_data": {
           "icon_index": 1
         }

@@ -28,7 +28,7 @@
       "is_online": true
     },
     "name": "ONSLAUGHT",
-    "description": "$hr_mvar_Hardcore_desc"
+    "description": "Hardcore desc"
   },
   "m_map_variant_version": 31,
   "m_number_of_placeable_object_quotas": 141,

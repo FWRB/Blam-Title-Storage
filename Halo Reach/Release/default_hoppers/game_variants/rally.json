@@ -33,7 +33,7 @@
           "is_online": true
         },
         "name": "RALLY",
-        "description": "$hr_gvar_Rally_desc",
+        "description": "Be the first to drive through flags to earn points.",
         "game_variant_data": {
           "icon_index": 13
         }

@@ -33,7 +33,7 @@
           "is_online": true
         },
         "name": "TU CRAZY KING",
-        "description": "$hr_gvar_TU_Crazy_King_desc",
+        "description": "Control the hill to earn points.",
         "game_variant_data": {
           "icon_index": 3
         }
