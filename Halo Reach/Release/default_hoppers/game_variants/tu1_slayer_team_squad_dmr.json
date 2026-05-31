@@ -32,8 +32,8 @@
           "name": "¦",
           "is_online": true
         },
-        "name": "$hr_gvar_TU_Squad_Slayer_DMRs",
-        "description": "$hr_gvar_TU_Squad_Slayer_DMRs_desc",
+        "name": "TU Squad Slayer DMRs",
+        "description": "Squad Slayer with DMR/AR starts",
         "game_variant_data": {
           "icon_index": 1
         }

@@ -32,8 +32,8 @@
           "name": "¦",
           "is_online": true
         },
-        "name": "$hr_gvar_Jetpack_Grifball",
-        "description": "$hr_gvar_Jetpack_Grifball_desc",
+        "name": "Jetpack Grifball",
+        "description": "Grifball with unlimited Jetpacks.",
         "game_variant_data": {
           "icon_index": 15
         }

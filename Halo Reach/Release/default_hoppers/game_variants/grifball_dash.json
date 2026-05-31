@@ -33,7 +33,7 @@
           "is_online": true
         },
         "name": "GRIFBALL DASH",
-        "description": "$hr_gvar_Grifball_Dash_desc",
+        "description": "Grifball with Sprint and Evade",
         "game_variant_data": {
           "icon_index": 15
         }

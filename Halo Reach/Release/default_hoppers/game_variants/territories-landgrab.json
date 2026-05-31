@@ -33,7 +33,7 @@
           "is_online": true
         },
         "name": "LAND GRAB",
-        "description": "$hr_gvar_Land_Grab_desc",
+        "description": "Capture the Territories to earn points. Territories lock when captured.",
         "game_variant_data": {
           "icon_index": 5
         }

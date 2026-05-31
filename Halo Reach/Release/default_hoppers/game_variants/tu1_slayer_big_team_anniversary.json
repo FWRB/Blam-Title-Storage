@@ -33,7 +33,7 @@
           "is_online": true
         },
         "name": "ANNIVERSARY SLAYER",
-        "description": "$hr_gvar_Anniversary_Slayer_desc",
+        "description": "Slayer with a 3-shot-kill magnum.",
         "game_variant_data": {
           "icon_index": 1
         }

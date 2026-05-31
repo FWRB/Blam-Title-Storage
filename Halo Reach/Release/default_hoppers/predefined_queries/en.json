@@ -2,7 +2,7 @@
   "queries": [
     {
       "searchId": 15,
-      "shareId": "0x0000000100000000",
+      "shareId": "0x0000000000000000",
       "name": "Most Downloaded",
       "description": "Files sorted by number of downloads."
     },

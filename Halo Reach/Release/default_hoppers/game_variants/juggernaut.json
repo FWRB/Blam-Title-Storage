@@ -33,7 +33,7 @@
           "is_online": true
         },
         "name": "JUGGERNAUT",
-        "description": "$hr_gvar_Juggernaut_desc",
+        "description": "If you meet the Juggernaut, kill the Juggernaut.",
         "game_variant_data": {
           "icon_index": 4
         }

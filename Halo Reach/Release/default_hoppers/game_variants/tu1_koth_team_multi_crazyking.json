@@ -32,8 +32,8 @@
           "name": "¦",
           "is_online": true
         },
-        "name": "$hr_gvar_TU_Team_Crazy_King",
-        "description": "$hr_gvar_TU_Team_Crazy_King_desc",
+        "name": "TU Team Crazy King",
+        "description": "Control the hill to earn points.",
         "game_variant_data": {
           "icon_index": 3
         }

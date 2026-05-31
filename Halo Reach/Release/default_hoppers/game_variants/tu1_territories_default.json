@@ -33,7 +33,7 @@
           "is_online": true
         },
         "name": "TU TERRITORIES",
-        "description": "$hr_gvar_TU_Territories_desc",
+        "description": "Capture the territories to earn points",
         "game_variant_data": {
           "icon_index": 5
         }

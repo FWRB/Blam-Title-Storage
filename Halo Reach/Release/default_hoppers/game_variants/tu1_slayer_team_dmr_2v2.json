@@ -33,7 +33,7 @@
           "is_online": true
         },
         "name": "TU TEAM SLAYER DMR",
-        "description": "$hr_gvar_TU_Team_Slayer_DMR_desc",
+        "description": "DMR starts with limited loadouts. 25 points to win.",
         "game_variant_data": {
           "icon_index": 1
         }

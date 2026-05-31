@@ -33,7 +33,7 @@
           "is_online": true
         },
         "name": "SWAT",
-        "description": "$hr_gvar_SWAT_desc",
+        "description": "Score points by killing players on the opposing team.",
         "game_variant_data": {
           "icon_index": 1
         }

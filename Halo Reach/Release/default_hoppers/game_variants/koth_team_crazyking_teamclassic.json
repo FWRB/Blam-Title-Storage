@@ -32,8 +32,8 @@
           "name": "¦",
           "is_online": true
         },
-        "name": "$hr_gvar_Classic_King",
-        "description": "$hr_gvar_Classic_King_desc",
+        "name": "Classic King",
+        "description": "Control the hill to earn points. Earn points to win. It's good to be the King.",
         "game_variant_data": {
           "icon_index": 3
         }

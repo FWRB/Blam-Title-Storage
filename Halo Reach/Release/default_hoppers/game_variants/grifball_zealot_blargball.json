@@ -33,7 +33,7 @@
           "is_online": true
         },
         "name": "ZEALOT BLARGBALL",
-        "description": "$hr_gvar_Blargball_desc",
+        "description": "Elite Grifball with Evade.",
         "game_variant_data": {
           "icon_index": 15
         }

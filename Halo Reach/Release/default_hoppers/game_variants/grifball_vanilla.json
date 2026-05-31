@@ -33,7 +33,7 @@
           "is_online": true
         },
         "name": "GRIFBALL",
-        "description": "$hr_gvar_Grifball_desc",
+        "description": "Standard Grifball with no Armor Abilities",
         "game_variant_data": {
           "icon_index": 15
         }

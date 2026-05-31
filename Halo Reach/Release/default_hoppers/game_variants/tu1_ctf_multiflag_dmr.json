@@ -32,8 +32,8 @@
           "name": "¦",
           "is_online": true
         },
-        "name": "$hr_gvar_TU_Capture_the_Flag",
-        "description": "$hr_gvar_TU_Capture_the_Flag_desc",
+        "name": "TU Capture the Flag",
+        "description": "Capture flags to score points",
         "game_variant_data": {
           "icon_index": 0
         }

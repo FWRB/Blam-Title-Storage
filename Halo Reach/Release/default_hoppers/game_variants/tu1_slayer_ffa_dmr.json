@@ -32,8 +32,8 @@
           "name": "",
           "is_online": true
         },
-        "name": "$hr_gvar_TU_FFA_Slayer_DMR's",
-        "description": "$hr_gvar_TU_FFA_Slayer_DMR's_desc",
+        "name": "TU FFA Slayer DMR's",
+        "description": "Score points by killing other players",
         "game_variant_data": {
           "icon_index": 1
         }

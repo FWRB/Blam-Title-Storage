@@ -32,8 +32,8 @@
           "name": "¦",
           "is_online": true
         },
-        "name": "$hr_gvar_TU_Squad_Slayer",
-        "description": "$hr_gvar_TU_Squad_Slayer_desc",
+        "name": "TU Squad Slayer",
+        "description": "Squad Slayer",
         "game_variant_data": {
           "icon_index": 1
         }

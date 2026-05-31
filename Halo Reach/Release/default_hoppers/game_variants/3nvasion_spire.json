@@ -33,7 +33,7 @@
           "is_online": true
         },
         "name": "INVASION: SPIRE",
-        "description": "$hr_gvar_Invasion_Spire_desc",
+        "description": "Spartans have been deployed to secure a power core from a Covenant Spire.",
         "game_variant_data": {
           "icon_index": 9
         }

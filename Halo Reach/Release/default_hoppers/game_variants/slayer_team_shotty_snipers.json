@@ -32,8 +32,8 @@
           "name": "",
           "is_online": true
         },
-        "name": "$hr_gvar_Shotty_Snipers",
-        "description": "$hr_gvar_Shotty_Snipers_desc",
+        "name": "Shotty Snipers",
+        "description": "Shotguns, Snipers and Infinite Ammo. Good luck!",
         "game_variant_data": {
           "icon_index": 1
         }

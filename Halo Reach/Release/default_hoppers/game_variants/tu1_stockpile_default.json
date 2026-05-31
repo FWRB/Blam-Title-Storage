@@ -33,7 +33,7 @@
           "is_online": true
         },
         "name": "TU STOCKPILE",
-        "description": "$hr_gvar_TU_Stockpile_desc",
+        "description": "Collect flags to score points",
         "game_variant_data": {
           "icon_index": 11
         }

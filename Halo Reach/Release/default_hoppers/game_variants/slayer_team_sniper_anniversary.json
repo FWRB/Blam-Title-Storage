@@ -32,8 +32,8 @@
           "name": "",
           "is_online": true
         },
-        "name": "$hr_gvar_CEX_Team_Snipers",
-        "description": "$hr_gvar_CEX_Team_Snipers_desc",
+        "name": "Anniversary Team Snipers",
+        "description": "Snipers with a 3-shot-kill magnum.",
         "game_variant_data": {
           "icon_index": 1
         }

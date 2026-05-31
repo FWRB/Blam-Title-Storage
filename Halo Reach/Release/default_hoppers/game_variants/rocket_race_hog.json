@@ -32,8 +32,8 @@
           "name": "¦",
           "is_online": true
         },
-        "name": "$hr_gvar_Rocket_Hog_Race",
-        "description": "$hr_gvar_Rocket_Hog_Race_desc",
+        "name": "Rocket Hog Race",
+        "description": "Drive through flags to earn points.  Oh, and blow up the other team.",
         "game_variant_data": {
           "icon_index": 14
         }

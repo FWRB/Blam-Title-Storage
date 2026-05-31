@@ -33,7 +33,7 @@
           "is_online": true
         },
         "name": "BLARGBALL",
-        "description": "$hr_gvar_Blargball_desc",
+        "description": "Elite Grifball with no Armor Abilities.",
         "game_variant_data": {
           "icon_index": 15
         }

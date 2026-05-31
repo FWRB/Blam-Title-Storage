@@ -33,7 +33,7 @@
           "is_online": true
         },
         "name": "ONE FLAG CTF",
-        "description": "$hr_gvar_One_Flag_CTF_desc",
+        "description": "Invade your opponent's stronghold, seize the enemy flag, and then return it to your base to score.",
         "game_variant_data": {
           "icon_index": 0
         }

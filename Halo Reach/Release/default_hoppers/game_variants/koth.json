@@ -33,7 +33,7 @@
           "is_online": true
         },
         "name": "KING OF THE HILL",
-        "description": "$hr_gvar_King_of_the_Hill_desc",
+        "description": "Control the hill to earn points. Earn points to win. It's good to be the King.",
         "game_variant_data": {
           "icon_index": 3
         }

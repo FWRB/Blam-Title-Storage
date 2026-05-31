@@ -32,8 +32,8 @@
           "name": "¦",
           "is_online": true
         },
-        "name": "$hr_gvar_Hog-Potato",
-        "description": "$hr_gvar_Hog-Potato_desc",
+        "name": "Hog-Potato",
+        "description": "Hold the skull to earn points. It's like Hamlet with guns.",
         "game_variant_data": {
           "icon_index": 20
         }

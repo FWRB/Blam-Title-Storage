@@ -33,7 +33,7 @@
           "is_online": true
         },
         "name": "INVASION: BREAKPOINT",
-        "description": "$hr_gvar_Invasion_Breakpoint_desc",
+        "description": "Spartans, defend the data core at all costs.",
         "game_variant_data": {
           "icon_index": 9
         }

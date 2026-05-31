@@ -33,7 +33,7 @@
           "is_online": true
         },
         "name": "TU HOT POTATO",
-        "description": "$hr_gvar_TU_Hot_Potato_desc",
+        "description": "The Oddball is replaced by a bomb that could detonate at any moment!",
         "game_variant_data": {
           "icon_index": 2
         }

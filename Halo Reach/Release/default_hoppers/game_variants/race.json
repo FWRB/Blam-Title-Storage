@@ -33,7 +33,7 @@
           "is_online": true
         },
         "name": "RACE",
-        "description": "$hr_gvar_Race_desc",
+        "description": "Gentlemen, start your engines.",
         "game_variant_data": {
           "icon_index": 13
         }

@@ -33,7 +33,7 @@
           "is_online": true
         },
         "name": "TU ONE FLAG CTF",
-        "description": "$hr_gvar_TU_One_Flag_CTF_desc",
+        "description": "1 Flag CTF with TU features.",
         "game_variant_data": {
           "icon_index": 0
         }
