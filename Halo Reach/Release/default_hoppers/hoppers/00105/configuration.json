@@ -324,38 +324,38 @@
         "team_allegiance": 0
       },
       {
-        "minimum_team_size": 3,
-        "maximum_team_size": 5,
+        "minimum_team_size": 0,
+        "maximum_team_size": 0,
         "team_model_override": 0,
         "team_allegiance": 0
       },
       {
-        "minimum_team_size": 3,
-        "maximum_team_size": 5,
+        "minimum_team_size": 0,
+        "maximum_team_size": 0,
         "team_model_override": 0,
         "team_allegiance": 0
       },
       {
-        "minimum_team_size": 3,
-        "maximum_team_size": 5,
+        "minimum_team_size": 0,
+        "maximum_team_size": 0,
         "team_model_override": 0,
         "team_allegiance": 0
       },
       {
-        "minimum_team_size": 3,
-        "maximum_team_size": 5,
+        "minimum_team_size": 0,
+        "maximum_team_size": 0,
         "team_model_override": 0,
         "team_allegiance": 0
       },
       {
-        "minimum_team_size": 3,
-        "maximum_team_size": 5,
+        "minimum_team_size": 0,
+        "maximum_team_size": 0,
         "team_model_override": 0,
         "team_allegiance": 0
       },
       {
-        "minimum_team_size": 3,
-        "maximum_team_size": 5,
+        "minimum_team_size": 0,
+        "maximum_team_size": 0,
         "team_model_override": 0,
         "team_allegiance": 0
       }
