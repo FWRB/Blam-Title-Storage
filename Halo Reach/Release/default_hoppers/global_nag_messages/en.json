@@ -1,11 +1,11 @@
 {
-  "title_index_identifier": 259673178,
+  "title_index_identifier": 259673179,
   "button_key_wait_time_ms": 5,
-  "title": "Sharing is Caring...",
+  "title": "BNet is dead, long live BNet!",
   "header": "",
-  "button_key": "Lets give it a shot!",
-  "button_key_wait": "Transferring...",
-  "message": "File Share is back online! Share your Maps, Gametypes, Films and Screenshots with the community, download some customs, recommend some clips!|n|nPlease visit discord.gg/haloclassichub for more information and the latest news and info.",
+  "button_key": "Login",
+  "button_key_wait": "Downloading...",
+  "message": "The new and improved bnet is now online! Login to unlock nameplates and armour pieces, download files from the fileshare, and more! Check it out!|r|n|r|nhttps://blam.network/",
   "offer_id": 0,
   "view_count": 3
 }
