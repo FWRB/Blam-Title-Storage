@@ -26,7 +26,7 @@
     "maximum_games_won": 0,
     "minimum_games_played": 0,
     "maximum_games_played": 0,
-    "minimum_grade": 2,
+    "minimum_grade": 0,
     "maximum_grade": 21,
     "min_party_size": 1,
     "max_party_size": 4,
